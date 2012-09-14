@@ -7,11 +7,12 @@
   width: 450px;
 }
 body {
-  font-family: "helvetica neue";
+  color: #4f4f4f;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
 }
 header {
-  padding-top: 15px;
+  padding: 15px 0;
   border-bottom: solid 1px #f4f4f4;
   .headerlinks {
     height: 30px;
@@ -29,6 +30,10 @@ header {
 }
 section {
   padding: 15px 10px;
+  h2 {
+    padding: 5px 0;
+    border-bottom: solid 1px #ccc;
+  }
 }
 .centered {
   width: 700px;
@@ -79,4 +84,40 @@ section {
 h2 {
   font-size: 30px;
   font-weight: 100;
+}
+h3 {
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 35px;
+}
+.events {
+  .event {
+    position: relative;
+    height: 180px;
+    border-bottom: solid 1px #eee;
+    img {
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 140px;
+      padding: 20px;
+    }
+    .info {
+      padding: 20px 0;
+      margin: 10px 0;
+      width: 500px;
+      .row {
+        margin: 3px 0;
+        .label {
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
+
+footer {
+  padding: 50px 5px 10px 5px;
+  font-size: 14px;
+
 }
