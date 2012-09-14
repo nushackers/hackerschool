@@ -162,6 +162,22 @@ section h2 {
   padding: 5px 0;
   border-bottom: solid 1px #ccc;
 }
+section p {
+  padding: 10px 0;
+  line-height: 23px;
+}
+section ul,
+section li {
+  line-height: 23px;
+  list-style: disc;
+  margin-left: 12px;
+}
+section b {
+  font-weight: bold;
+}
+section i {
+  font-style: italic;
+}
 .centered {
   width: 700px;
   margin: auto;
@@ -176,9 +192,6 @@ section h2 {
 }
 .banner#mainbanner {
   background-image: url(/static/img/mainbanner.jpg);
-}
-.banner#aboutbanner {
-  background-image: url(/static/img/aboutusbanner.jpg);
 }
 h2 {
   font-size: 30px;

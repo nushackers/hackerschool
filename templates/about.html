@@ -1,31 +1,29 @@
 {% extends "layout.html" %}
 {% block content %}
-<section id='aboutbanner' class='banner'></section>
 <section class='centered'>
   <h2>About Us</h2>
-    <ul class='events'>
-    {% for event in events %}
-      <li class='event'>
-        <div class='info'>
-          <h3>{{ event.title }}</h3>
-           <div class='row'>
-            <span class='label'>When:</span>
-            <span>{{ event.datetime }}</span>
-          </div>
-          <div class='row'>
-            <span class='label'>Where:</span>
-            <span>{{ event.location }}</span>
-          </div>
-          <div class='row'>
-            <span class='label'>Who:</span>
-            <span>{{ event.audience }}</span>
-          </div>
-          <div class='row'>{{ event.description }}</div>
-        </div>
-        </div>
-        <img src='{{ event.image }}'/>
-      </li>
-    {% endfor %}
+  <p>
+    In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways. NUS Hackers is a student-run organization committed to the spread of hacker culture &amp; free/open-source software. We provide a support system for hackers in NUS who are currently building things (be it for charity, business or pleasure). We also hold workshops, run hackfests, and maintain open source code for the NUS community.
+  </p>
+
+  <h3>The idea behind the school</h3>
+  <p>We begin with three core premises:
+    <ul>
+      <li>Learning is hard</li>
+      <li>Learning <b>alone</b> is <i>really</i> hard</li>
+      <li>Some skills are not taught in school</li>
     </ul>
+  </p>
+  <p>
+    We believe that these skills are essential. Hence the goal of <b>hackerschool</b> is to make learning easier by getting people past the initial hurdle of learning these skills.
+  </p>
+
+  <h3>The endstate</h3>
+  <p>
+    We are starting small. With only a few courses. Yet, we are dreaming <b>big</b>. As we get better and fine tune existing workshops, we'll continue to grow and add to the number of courses. The hope is to ultimately have a comprehensive list of courses that incoming freshman and <i>all nus students</i> can look forward to and take part in. The hope is to teach them stuff outside of the typical curriculum.
+  </p>
+  <p>
+    <b>The hope is to get more people to hack.</b>
+  </p>
 </section>
 {% endblock %}

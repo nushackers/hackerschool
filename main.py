@@ -4,13 +4,11 @@ app = Flask(__name__)
 
 # import events list
 from models import events
-from models import about
 
 @app.route('/')
 def index():
     return render_template(
     	'index.html',
-    	preamble = about.preamble,
     	events = events.eventlist
     )
 
