@@ -23,7 +23,7 @@
       <li class='event'>
         <div class='info'>
           <h3>{{ event.title }}</h3>
-           <div class='row'>
+          <div class='row'>
             <span class='label'>When:</span>
             <span>{{ event.datetime }}</span>
           </div>
@@ -35,8 +35,11 @@
             <span class='label'>Who:</span>
             <span>{{ event.audience }}</span>
           </div>
-          <div class='row'>{{ event.description }}</div>
-        </div>
+          <div class='row'>
+            <span class='label'>Fee:</span>
+            <span>$5</span>
+          </div>
+          <div class='row'>{{ event.description|safe }}</div>
         </div>
         <img src='{{ event.image }}'/>
       </li>

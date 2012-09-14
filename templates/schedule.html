@@ -34,8 +34,11 @@
             <span class='label'>Who:</span>
             <span>{{ event.audience }}</span>
           </div>
-          <div class='row'>{{ event.description }}</div>
-        </div>
+          <div class='row'>
+            <span class='label'>Fee:</span>
+            <span>$5</span>
+          </div>
+          <div class='row'>{{ event.description|safe }}</div>
         </div>
         <img src='{{ event.image }}'/>
       </li>

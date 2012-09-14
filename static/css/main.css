@@ -173,6 +173,9 @@ section h2 {
   margin-bottom: 15px;
   border-bottom: solid 1px #ccc;
 }
+section h3 {
+  padding: 15px 0 0 0;
+}
 section p {
   padding: 10px 0;
   line-height: 23px;
@@ -188,6 +191,9 @@ section b {
 }
 section i {
   font-style: italic;
+}
+section a {
+  color: #4f4f4f;
 }
 .centered {
   width: 700px;
@@ -244,10 +250,34 @@ h3 {
 .events .event .info .row .label {
   font-weight: 600;
 }
+.events .event .info .row .calltoaction {
+  color: #d70000;
+  font-weight: bold;
+}
 footer {
   padding: 50px 5px 10px 5px;
   font-size: 14px;
+  height: 30px;
 }
 footer a {
   color: #4f4f4f;
 }
+html,
+body {
+  height: 100%;
+}
+.push {
+  height: 90px;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -90px;
+}
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/

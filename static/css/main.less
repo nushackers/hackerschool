@@ -47,6 +47,9 @@ section {
     margin-bottom: 15px;
     border-bottom: solid 1px #ccc;
   }
+  h3 {
+    padding: 15px 0 0 0;
+  }
   p {
     padding: 10px 0;
     line-height: 23px;
@@ -61,6 +64,9 @@ section {
   }
   i {
     font-style: italic;
+  }
+  a {
+    color: #4f4f4f;
   }
 }
 .centered {
@@ -78,40 +84,6 @@ section {
   &#mainbanner {
     background-image: url(/static/img/mainbanner.jpg);
   }
-  // &#aboutbanner {
-  //   background-image: url(/static/img/aboutusbanner.jpg);
-  // }
-  // .polaroid {
-  //   position: absolute;
-  //   -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
-  //   -moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
-  //   box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
-  //   width: 220px;
-  //   background-color: white;
-  //   height: 230px;
-  //   top: 0px;
-  //   img {
-  //     width: 100%;
-  //   }
-  //   &#one {
-  //     left: 0px;
-  //     -webkit-transform: rotate(-2deg);
-  //     -moz-transform: rotate(-2deg);
-  //     transform: rotate(-2deg);
-  //   }
-  //   &#two {
-  //     left: 240px;
-  //     -webkit-transform: rotate(2deg);
-  //     -moz-transform: rotate(2deg);
-  //     transform: rotate(2deg);
-  //   }
-  //   &#three {
-  //     right: 0px;
-  //     -webkit-transform: rotate(-1deg);
-  //     -moz-transform: rotate(-1deg);
-  //     transform: rotate(-1deg);
-  //   }
-  // }
 }
 
 h2 {
@@ -149,15 +121,39 @@ h3 {
         .label {
           font-weight: 600;
         }
+        .calltoaction {
+          color: #d70000;
+          font-weight: bold;
+        }
       }
     }
   }
 }
-
 footer {
   padding: 50px 5px 10px 5px;
   font-size: 14px;
+  height: 30px;
   a {
     color: #4f4f4f;
   }
 }
+
+html, body {
+  height: 100%;
+}
+.push {
+  height: 90px;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -90px;  //the bottom margin is the negative value of the footer's height 
+}
+
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/
