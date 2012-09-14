@@ -149,6 +149,8 @@ header .headerlinks a {
   margin: 0 5px;
   padding: 6px 0;
   display: inline-block;
+  text-decoration: none;
+  color: inherit;
 }
 header .headerlinks a:hover {
   border-bottom: solid 3px;
@@ -165,12 +167,18 @@ section h2 {
   margin: auto;
   position: relative;
 }
-#banner {
+.banner {
   height: 230px;
+  min-width: 700px;
   position: relative;
-  background-image: url(/static/img/bgpixel.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
+}
+.banner#mainbanner {
+  background-image: url(/static/img/mainbanner.jpg);
+}
+.banner#aboutbanner {
+  background-image: url(/static/img/aboutusbanner.jpg);
 }
 h2 {
   font-size: 30px;
