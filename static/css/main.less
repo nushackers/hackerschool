@@ -5,6 +5,11 @@
   display: block;
   margin: auto;
   width: 450px;
+  img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
 }
 body {
   color: #4f4f4f;
@@ -18,12 +23,17 @@ header {
     height: 30px;
     padding-top: 5px;
     text-align: center;
+    font-size: 19px;
     a {
       margin: 0 5px;
-      padding: 6px 0;
+      padding: 5px 0;
       display: inline-block;
       text-decoration: none;
       color: inherit;
+      &.active {
+        border-bottom: solid 3px;
+        cursor: auto;
+      }
       &:hover {
         border-bottom: solid 3px;
       }
@@ -34,6 +44,7 @@ section {
   padding: 15px 10px;
   h2 {
     padding: 5px 0;
+    margin-bottom: 15px;
     border-bottom: solid 1px #ccc;
   }
   p {

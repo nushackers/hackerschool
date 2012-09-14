@@ -1,11 +1,22 @@
 {% extends "layout.html" %}
+{% block headerlinks %}
+<div class='headerlinks'>
+  <a class='active'>about us</a>
+  <a href='/schedule'>schedule</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
 {% block content %}
 <section class='centered'>
   <h2>About Us</h2>
-  <p>
-    In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways. NUS Hackers is a student-run organization committed to the spread of hacker culture &amp; free/open-source software. We provide a support system for hackers in NUS who are currently building things (be it for charity, business or pleasure). We also hold workshops, run hackfests, and maintain open source code for the NUS community.
-  </p>
-
   <h3>The idea behind the school</h3>
   <p>We begin with three core premises:
     <ul>

@@ -18,5 +18,13 @@ def aboutus():
     	'about.html'
     )
 
+
+@app.route('/schedule')
+def schedule():
+    return render_template(
+    	'schedule.html',
+    	events = events.eventlist
+    )
+
 if __name__ == "__main__":
     app.run()

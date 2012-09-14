@@ -8,14 +8,10 @@
 </head>
 <body>
   <header>
-    <a href='/'>
-      <img id='logo' src="/static/img/hackerschoollogo.png"/>
+    <a id='logo' href='/'>
+      <img src="/static/img/hackerschoollogo.png"/>
     </a>
-    <div class='headerlinks'>
-      <a href='/about'>about us</a>
-      <a>schedule</a>
-      <a>contact us</a>
-    </div>
+    {% block headerlinks %}{% endblock %}
   </header>
   {% block content %}{% endblock %}
   </section>

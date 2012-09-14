@@ -131,6 +131,11 @@ table {
   margin: auto;
   width: 450px;
 }
+#logo img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
 body {
   color: #4f4f4f;
   font-family: 'Open Sans', sans-serif;
@@ -144,13 +149,18 @@ header .headerlinks {
   height: 30px;
   padding-top: 5px;
   text-align: center;
+  font-size: 19px;
 }
 header .headerlinks a {
   margin: 0 5px;
-  padding: 6px 0;
+  padding: 5px 0;
   display: inline-block;
   text-decoration: none;
   color: inherit;
+}
+header .headerlinks a.active {
+  border-bottom: solid 3px;
+  cursor: auto;
 }
 header .headerlinks a:hover {
   border-bottom: solid 3px;
@@ -160,6 +170,7 @@ section {
 }
 section h2 {
   padding: 5px 0;
+  margin-bottom: 15px;
   border-bottom: solid 1px #ccc;
 }
 section p {
