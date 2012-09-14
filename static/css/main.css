@@ -202,9 +202,17 @@ h3 {
   font-weight: 300;
   line-height: 35px;
 }
+.events {
+  margin-left: 0;
+}
+.events ul,
+.events li {
+  list-style: none;
+  margin-left: 0;
+}
 .events .event {
   position: relative;
-  height: 180px;
+  min-height: 180px;
   border-bottom: solid 1px #eee;
 }
 .events .event img {
