@@ -137,7 +137,7 @@ body {
   font-weight: 300;
 }
 header {
-  padding: 15px 0;
+  padding-top: 15px;
   border-bottom: solid 1px #f4f4f4;
 }
 header .headerlinks {
@@ -147,11 +147,11 @@ header .headerlinks {
 }
 header .headerlinks a {
   margin: 0 5px;
-  padding: 7px 0 8px;
+  padding: 6px 0;
   display: inline-block;
 }
 header .headerlinks a:hover {
-  border-bottom: solid 1px;
+  border-bottom: solid 3px;
 }
 section {
   padding: 15px 10px;
@@ -207,4 +207,7 @@ h3 {
 footer {
   padding: 50px 5px 10px 5px;
   font-size: 14px;
+}
+footer a {
+  color: #4f4f4f;
 }

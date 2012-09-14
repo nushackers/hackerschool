@@ -1,53 +1,31 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset=utf-8 />
-	<title>hackerschool by NUS Hackers</title>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" type="text/css" href="/static/css/main.css">
-</head>
-<body>
-  <header>
-    <img id='logo' src="/static/img/hackerschoollogo.png"/>
-<!--     <div class='headerlinks'>
-      <a>about us</a>
-      <a>schedule</a>
-      <a>contact us</a>
-    </div>
- -->  </header>
-  <section id='banner'>
-  </section>
-  <section class='centered'>{{ preamble }} </section>
-  
-  <section class='centered'>
-    <h2>Upcoming Events</h2>
-      <ul class='events'>
-      {% for event in events %}
-        <li class='event'>
-          <div class='info'>
-            <h3>{{ event.title }}</h3>
-             <div class='row'>
-              <span class='label'>When:</span>
-              <span>{{ event.datetime }}</span>
-            </div>
-            <div class='row'>
-              <span class='label'>Where:</span>
-              <span>{{ event.location }}</span>
-            </div>
-            <div class='row'>
-              <span class='label'>Who:</span>
-              <span>{{ event.audience }}</span>
-            </div>
-            <div class='row'>{{ event.description }}</div>
+{% extends "layout.html" %}
+{% block content %}
+<section class='centered'>{{ preamble }} </section>
+<section class='centered'>
+  <h2>Upcoming Events</h2>
+    <ul class='events'>
+    {% for event in events %}
+      <li class='event'>
+        <div class='info'>
+          <h3>{{ event.title }}</h3>
+           <div class='row'>
+            <span class='label'>When:</span>
+            <span>{{ event.datetime }}</span>
           </div>
+          <div class='row'>
+            <span class='label'>Where:</span>
+            <span>{{ event.location }}</span>
           </div>
-          <img src='{{ event.image }}'/>
-        </li>
-      {% endfor %}
-      </ul>
-  </section>
-  <footer class='centered'>
-    © NUSHackers 2012
-  </footer>
-</body>
-</html>
+          <div class='row'>
+            <span class='label'>Who:</span>
+            <span>{{ event.audience }}</span>
+          </div>
+          <div class='row'>{{ event.description }}</div>
+        </div>
+        </div>
+        <img src='{{ event.image }}'/>
+      </li>
+    {% endfor %}
+    </ul>
+</section>
+{% endblock %}
