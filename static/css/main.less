@@ -74,10 +74,9 @@ section {
   margin: auto;
   position: relative;
 }
-
 .banner {
   height: 230px;
-  min-width: 700px;
+  // min-width: 700px;
   position: relative;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -85,7 +84,6 @@ section {
     background-image: url(/static/img/mainbanner.jpg);
   }
 }
-
 h2 {
   font-size: 30px;
   font-weight: 100;
@@ -96,6 +94,7 @@ h3 {
   line-height: 35px;
 }
 .events {
+  margin-top: -20px;
   margin-left: 0;
   ul, li {
     list-style: none;
@@ -108,7 +107,7 @@ h3 {
     img {
       position: absolute;
       right: 0;
-      top: 0;
+      top: 15px;
       width: 140px;
       padding: 20px;
     }
@@ -122,6 +121,7 @@ h3 {
           font-weight: 600;
         }
         .calltoaction {
+          display: inline-block;
           color: #d70000;
           font-weight: bold;
         }
@@ -137,7 +137,6 @@ footer {
     color: #4f4f4f;
   }
 }
-
 html, body {
   height: 100%;
 }
@@ -150,10 +149,34 @@ html, body {
   height: 100%;
   margin: 0 auto -90px;  //the bottom margin is the negative value of the footer's height 
 }
-
 /*
-
 Sticky Footer by Ryan Fait
 http://ryanfait.com/
-
 */
+
+@media screen and (max-width: 700px){
+  #logo {    
+    width: 200px;
+  }
+  .centered {
+    width: auto;
+  }
+  .banner {
+    height: 200px;
+  }
+  .events {
+    .event {
+      .info {
+        width: 100%;
+        padding: 0 5px;
+        margin: 0;
+      }
+      img {
+        display: none;
+      }
+    }
+  }
+  footer {
+    padding-left: 10px;
+  }
+}

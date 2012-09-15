@@ -202,7 +202,6 @@ section a {
 }
 .banner {
   height: 230px;
-  min-width: 700px;
   position: relative;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -220,6 +219,7 @@ h3 {
   line-height: 35px;
 }
 .events {
+  margin-top: -20px;
   margin-left: 0;
 }
 .events ul,
@@ -235,7 +235,7 @@ h3 {
 .events .event img {
   position: absolute;
   right: 0;
-  top: 0;
+  top: 15px;
   width: 140px;
   padding: 20px;
 }
@@ -251,6 +251,7 @@ h3 {
   font-weight: 600;
 }
 .events .event .info .row .calltoaction {
+  display: inline-block;
   color: #d70000;
   font-weight: bold;
 }
@@ -276,8 +277,28 @@ body {
   margin: 0 auto -90px;
 }
 /*
-
 Sticky Footer by Ryan Fait
 http://ryanfait.com/
-
 */
+@media screen and (max-width: 700px) {
+  #logo {
+    width: 200px;
+  }
+  .centered {
+    width: auto;
+  }
+  .banner {
+    height: 200px;
+  }
+  .events .event .info {
+    width: 100%;
+    padding: 0 5px;
+    margin: 0;
+  }
+  .events .event img {
+    display: none;
+  }
+  footer {
+    padding-left: 10px;
+  }
+}
