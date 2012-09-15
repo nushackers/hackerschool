@@ -4,7 +4,7 @@ eventlist = [
 		"datetime" : "Saturday, 22 September 2012, 10am - 1pm",
 		"location" : "NUS COM1 (Exact location TBA)",
 		"audience" : "Beginner",
-		"description": "You wanted to make a website, but found w3c's tutorials too boring? Come down to get a hands on experience on designing beautiful webpages. <a class='calltoaction' href='https://docs.google.com/spreadsheet/viewform?formkey=dG1DVmx6V3VWUE9jYTlKUzVSUGhRcWc6MQ'>Sign Up Here!</a>",
+		"description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a basic, personalized website.</strong> <a class='calltoaction' href='https://docs.google.com/spreadsheet/viewform?formkey=dG1DVmx6V3VWUE9jYTlKUzVSUGhRcWc6MQ'>Sign Up Here!</a>",
 		"image": "/static/img/html5.png"
 	},
 	{
@@ -12,7 +12,7 @@ eventlist = [
 		"datetime" : "Monday, 24 September 2012, 10am - 1pm",
 		"location" : "NUS COM1 (Exact location TBA)",
 		"audience" : "Beginner",
-		"description": "Git's a version control system. Sounds boring we know, but it will change your life. Seriously. Also meet jquery, a swiss army knife for frontend web dev . <a class='calltoaction' href='https://docs.google.com/spreadsheet/viewform?formkey=dG1DVmx6V3VWUE9jYTlKUzVSUGhRcWc6MQ'>Sign Up Here!</a>",
+		"description": "Git is a version control system. Sounds boring, we know, but it'll change the way you code. Seriously. Also meet jQuery, a swiss army knife for frontend web development. <strong>Walk away with a snazzy portfolio site, backed up on Github.</strong> <a class='calltoaction' href='https://docs.google.com/spreadsheet/viewform?formkey=dG1DVmx6V3VWUE9jYTlKUzVSUGhRcWc6MQ'>Sign Up Here!</a>",
 		"image": "/static/img/gitjs.png"
 	}
 ]
