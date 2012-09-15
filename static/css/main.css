@@ -115,6 +115,7 @@ blockquote,
 q {
   quotes: none;
 }
+strong { font-weight: bold; }
 blockquote:before,
 blockquote:after,
 q:before,
@@ -208,6 +209,7 @@ section a {
 }
 .banner#mainbanner {
   background-image: url(/static/img/mainbanner.jpg);
+  margin-bottom: 10px;
 }
 h2 {
   font-size: 30px;
