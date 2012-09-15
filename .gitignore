@@ -35,3 +35,7 @@ nosetests.xml
 .pydevproject
 
 .DS_Store
+
+# Vim only files
+*.swp
+*.un~

@@ -131,6 +131,11 @@ table {
   margin: auto;
   width: 450px;
 }
+#logo img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
 body {
   color: #4f4f4f;
   font-family: 'Open Sans', sans-serif;
@@ -144,13 +149,18 @@ header .headerlinks {
   height: 30px;
   padding-top: 5px;
   text-align: center;
+  font-size: 19px;
 }
 header .headerlinks a {
   margin: 0 5px;
-  padding: 6px 0;
+  padding: 5px 0;
   display: inline-block;
   text-decoration: none;
   color: inherit;
+}
+header .headerlinks a.active {
+  border-bottom: solid 3px;
+  cursor: auto;
 }
 header .headerlinks a:hover {
   border-bottom: solid 3px;
@@ -160,7 +170,30 @@ section {
 }
 section h2 {
   padding: 5px 0;
+  margin-bottom: 15px;
   border-bottom: solid 1px #ccc;
+}
+section h3 {
+  padding: 15px 0 0 0;
+}
+section p {
+  padding: 10px 0;
+  line-height: 23px;
+}
+section ul,
+section li {
+  line-height: 23px;
+  list-style: disc;
+  margin-left: 12px;
+}
+section b {
+  font-weight: bold;
+}
+section i {
+  font-style: italic;
+}
+section a {
+  color: #4f4f4f;
 }
 .centered {
   width: 700px;
@@ -177,9 +210,6 @@ section h2 {
 .banner#mainbanner {
   background-image: url(/static/img/mainbanner.jpg);
 }
-.banner#aboutbanner {
-  background-image: url(/static/img/aboutusbanner.jpg);
-}
 h2 {
   font-size: 30px;
   font-weight: 100;
@@ -189,9 +219,17 @@ h3 {
   font-weight: 300;
   line-height: 35px;
 }
+.events {
+  margin-left: 0;
+}
+.events ul,
+.events li {
+  list-style: none;
+  margin-left: 0;
+}
 .events .event {
   position: relative;
-  height: 180px;
+  min-height: 180px;
   border-bottom: solid 1px #eee;
 }
 .events .event img {
@@ -212,10 +250,34 @@ h3 {
 .events .event .info .row .label {
   font-weight: 600;
 }
+.events .event .info .row .calltoaction {
+  color: #d70000;
+  font-weight: bold;
+}
 footer {
   padding: 50px 5px 10px 5px;
   font-size: 14px;
+  height: 30px;
 }
 footer a {
   color: #4f4f4f;
 }
+html,
+body {
+  height: 100%;
+}
+.push {
+  height: 90px;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -90px;
+}
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/

@@ -1,31 +1,53 @@
 {% extends "layout.html" %}
+{% block headerlinks %}
+<div class='headerlinks'>
+  <a class='active'>about us</a>
+  <a href='/schedule'>schedule</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
 {% block content %}
-<section id='aboutbanner' class='banner'></section>
 <section class='centered'>
   <h2>About Us</h2>
-    <ul class='events'>
-    {% for event in events %}
-      <li class='event'>
-        <div class='info'>
-          <h3>{{ event.title }}</h3>
-           <div class='row'>
-            <span class='label'>When:</span>
-            <span>{{ event.datetime }}</span>
-          </div>
-          <div class='row'>
-            <span class='label'>Where:</span>
-            <span>{{ event.location }}</span>
-          </div>
-          <div class='row'>
-            <span class='label'>Who:</span>
-            <span>{{ event.audience }}</span>
-          </div>
-          <div class='row'>{{ event.description }}</div>
-        </div>
-        </div>
-        <img src='{{ event.image }}'/>
-      </li>
-    {% endfor %}
+  <h3>The idea behind the school</h3>
+  <p>We begin with three core premises:
+    <ul>
+      <li>Learning is hard</li>
+      <li>Learning <b>alone</b> is <i>really</i> hard</li>
+      <li>Some skills are not taught in school</li>
     </ul>
+  </p>
+  <p>
+    We believe that these skills are essential. Hence the goal of <b>hackerschool</b> is to make learning these skills easier by getting people past the initial hurdle through workshops and classes.
+  </p>
+
+  <h3>Our Goal</h3>
+  <p>
+    <a href='http://nushackers.org'>NUS Hackers</a> has conducted workshops in the past. <b>What makes this different is its scale.</b>
+  </p>
+  <p>
+    Though we are starting small, with only a few courses, we have a <b>big</b> ambition. As we get better and fine tune existing workshops, we'll continue to grow and add to the number of courses. The hope is to ultimately have a comprehensive list of courses that incoming freshman and <i>all nus students</i> can look forward to and take part in. 
+  </p>
+  <p>
+    These courses will be continuously reviewed and conducted on a regular <i>(yearly)</i> basis. Such is the scale that hackerschool hopes to reach.
+  </p>
+
+  <h3>Our Workshops</h3>
+  <p>
+    <b>We charge a nominal fee for our workshops.</b> This, in our experience, translates into a significant difference in terms of the crowd we attract as well as the general atmosphere during the workshops.
+  </p>
+
+  <h3>The team</h3>
+  <p>
+    We are NUS Hackers. To learn more about us, visit our site at <a href='http://nushackers.org'>http://nushackers.org</a>.
+  </p>
 </section>
 {% endblock %}

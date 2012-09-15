@@ -2,7 +2,7 @@
 {% block headerlinks %}
 <div class='headerlinks'>
   <a href='/about'>about us</a>
-  <a href='/schedule'>schedule</a>
+  <a class='active'>schedule</a>
   <script language="javascript">
     <!--
     var part1 = "coreteam";
@@ -15,7 +15,6 @@
 </div>
 {% endblock %}
 {% block content %}
-<section id='mainbanner' class='banner'></section>
 <section class='centered'>
   <h2>Upcoming Events</h2>
     <ul class='events'>
@@ -23,7 +22,7 @@
       <li class='event'>
         <div class='info'>
           <h3>{{ event.title }}</h3>
-          <div class='row'>
+           <div class='row'>
             <span class='label'>When:</span>
             <span>{{ event.datetime }}</span>
           </div>

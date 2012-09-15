@@ -7,20 +7,18 @@
   <link rel="stylesheet" type="text/css" href="/static/css/main.css">
 </head>
 <body>
-  <header>
-    <a href='/'>
-      <img id='logo' src="/static/img/hackerschoollogo.png"/>
-    </a>
-    <div class='headerlinks'>
-      <a href='/about'>about us</a>
-      <a>schedule</a>
-      <a>contact us</a>
-    </div>
-  </header>
-  {% block content %}{% endblock %}
-  </section>
+  <div class='wrapper'>
+    <header>
+      <a id='logo' href='/'>
+        <img src="/static/img/hackerschoollogo.png"/>
+      </a>
+      {% block headerlinks %}{% endblock %}
+    </header>
+    {% block content %}{% endblock %}
+    <div class='push'></div>
+  </div>
   <footer class='centered'>
-    © <a href='http://nushackers.org'>NUSHackers</a> 2012
+    © <a href='http://nushackers.org'>NUS Hackers</a> 2012
   </footer>
 </body>
 </html>
