@@ -186,7 +186,8 @@ section li {
   list-style: disc;
   margin-left: 12px;
 }
-section b {
+section b,
+section strong {
   font-weight: bold;
 }
 section i {
