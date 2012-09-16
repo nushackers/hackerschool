@@ -12,7 +12,7 @@ eventlist = [
         "datetime": "Monday, 24 September 2012, 10am - 1pm",
         "location": "NUS COM1 (Exact location TBA)",
         "audience": "Beginner",
-        "description": "Git is a version control system. It'll change the way you code. Seriously. Also meet jQuery, a swiss army knife for frontend web development. <strong>You'll wonder what you were doing before git.</strong> <a class='calltoaction' href='https://docs.google.com/spreadsheet/viewform?formkey=dG1DVmx6V3VWUE9jYTlKUzVSUGhRcWc6MQ'>Sign Up Here!</a>",
+        "description": "jQuery is a swiss army knife for frontend web development. Also, meet Git, a version control system. It'll change the way you code. Seriously. You'll wonder what you were doing before Git. </strong> <a class='calltoaction' href='https://docs.google.com/spreadsheet/viewform?formkey=dG1DVmx6V3VWUE9jYTlKUzVSUGhRcWc6MQ'>Sign Up Here!</a>",
         "image": "/static/img/gitjs.png"
     }
 ]
