@@ -1,9 +1,9 @@
 {% extends "layout.html" %}
 {% block headerlinks %}
 <div class='headerlinks'>
-  <a class='active'>about us</a>
+  <a href='/about'>about us</a>
   <a href='/schedule'>schedule</a>
-  <a href='/materials'>materials</a>
+  <a class='active'>materials</a>
   <script language="javascript">
     <!--
     var part1 = "coreteam";
@@ -17,37 +17,36 @@
 {% endblock %}
 {% block content %}
 <section class='centered'>
-  <h2>About Us</h2>
-  <p>We begin with three core premises:
+  <h2>Materials</h2>
+  <div class='material'>
+    <h3>Introduction to HTML5/CSS3</h3>
+    <p>Course Materials</p>
     <ul>
-      <li>Learning is hard</li>
-      <li>Learning <b>alone</b> is <i>really</i> hard</li>
-      <li>Some skills are expected of every programmer, but are not taught in school</li>
+      <li>
+        <a href='https://docs.google.com/document/d/1VzINnSc8U12m-SJHLj3sXN3DsJORUUsRg5JQipW_6Cc/edit'>
+          workshop handout
+        </a>
+      </li>
+      <li>
+        <a href='https://dl.dropbox.com/u/24733998/personal.zip'>
+          personal.zip
+        </a>
+      </li>
     </ul>
-  </p>
-  <p>
-    <b>hackerschool</b> teaches basic, supplementary skills that you're expected to know outside school. The goal? To make learning these skills easier, by getting people <i>past the initial hurdle</i>, through workshops and classes.
-  </p>
-
-  <h3>Our Goal</h3>
-  <p>
-    <a href='http://nushackers.org'>NUS Hackers</a> has conducted workshops in the past. <b>What makes this different is its scale.</b>
-  </p>
-  <p>
-    Though we are starting small, with only a few courses, we have a <b>big</b> ambition. The hope is to ultimately have a comprehensive list of workshops that incoming freshman and <i>all NUS students</i> can look forward to and take part in. 
-  </p>
-  <p>
-    These courses will be continuously reviewed and conducted on a regular <i>(yearly)</i> basis.  </p>
-
-  <h3>Our Workshops</h3>
-  <p>
-    <b>We charge a nominal fee for our workshops.</b> This, in our experience, translates into a significant difference in terms of the crowd we attract as well as the general atmosphere during the workshops.
-  </p>
-
-  <h3>The team</h3>
-  <p>
-    We are NUS Hackers. To learn more about us, visit our site at <a href='http://nushackers.org'>http://nushackers.org</a>.
-  </p>
+    <p>References</p>
+    <ul>
+      <li>
+        <a href='https://developer.mozilla.org/en-US/'>
+          mozilla developer network
+        </a>
+      </li>
+      <li>
+        <a href='http://twitter.github.com/bootstrap/'>
+          twitter bootstrap
+        </a>
+      </li>
+    </ul>
+  </div>
 </section>
 {% endblock %}
 
