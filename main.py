@@ -32,5 +32,11 @@ def materials():
     	'materials.html'
     )
 
+@app.route('/materials/html5')
+def html_workshop():
+    return render_template(
+    	'html5workshop.html'
+    )
+
 if __name__ == "__main__":
     app.run()
