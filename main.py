@@ -26,5 +26,11 @@ def schedule():
     	events = events.eventlist
     )
 
+@app.route('/materials')
+def materials():
+    return render_template(
+    	'materials.html'
+    )
+
 if __name__ == "__main__":
     app.run()
