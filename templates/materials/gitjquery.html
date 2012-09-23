@@ -1,0 +1,77 @@
+{% extends "layout.html" %}
+{% block headerlinks %}
+<div class='headerlinks'>
+  <a href='/about'>about us</a>
+  <a href='/schedule'>schedule</a>
+  <a class='active' href='/materials'>materials</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
+{% block content %}
+<section class='centered'>
+  <h2>Materials</h2>
+  <div class='material'>
+    <h3>Git &amp jQuery for Beginners</h3>
+    <p>This workshop is a <i>basic</i> introduction to Git and jQuery.
+
+    <h3>Software Used</h3>
+    <p>Participants are required to download and use the following pieces of software:</p>
+    <ul>
+      <li><a href='https://www.google.com/intl/en/chrome/browser/'>Google Chrome</a></li>
+      <li><a href='http://www.sublimetext.com/2'>Sublime Text 2</a></li>
+    </ul>
+
+    <h3>Video</h3>
+    <p>
+      <i>Will be added after the workshop</i>
+    </p>
+
+    <h3>Resources</h3>
+    <p>Pre-Workshop</p>
+    <ul>
+      <li>
+        <a href='https://docs.google.com/document/d/12s5sElF0W6mXj2h48xZGHDldA1_4CoJwKXBXhI295eQ/edit'>
+          Workshop Handout
+        </a>
+      </li>
+      <li>
+        <a href='https://dl.dropbox.com/u/24733998/boilerplate.zip'>
+          boilerplate.zip
+        </a>
+      </li>
+    </ul>
+    <!-- <p>Post-Workshop</p>
+    <ul>
+      <li><i>Will be added after the workshop</i></li>
+    </ul> -->
+    <p>References</p>
+    <ul>
+      <li>
+        <a href='http://docs.jquery.com/'>
+          jQuery Docs
+        </a>
+      </li>
+      <li>
+        <a href='http://git-scm.com/documentation'>
+          Git Documentation
+        </a>
+      </li>
+      <li>
+        <a href='https://help.github.com/'>
+          Github help
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>
+{% endblock %}
+
+
