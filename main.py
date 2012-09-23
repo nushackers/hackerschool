@@ -39,7 +39,7 @@ def html_workshop():
     )
 
 @app.route('/materials/gitjquery')
-def html_workshop():
+def gitjquery():
     return render_template(
         'materials/gitjquery.html'
     )
