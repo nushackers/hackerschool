@@ -19,8 +19,16 @@
 <section id='mainbanner' class='banner'></section>
 <section class='centered'>
   <h2>Upcoming Events</h2>
+  
+  {% if upcommingevents %}
+
+  {% else %}
+    <p> Coming next semester: <strong>UNIX</strong> & <strong>Web Development</strong> workshops</p>
+  {% endif %}
+
+  <h2>Past Events</h2>
     <ul class='events'>
-    {% for event in events %}
+    {% for event in pastevents %}
       <li class='event'>
         <div class='info'>
           <h3>{{ event.title }}</h3>

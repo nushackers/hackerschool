@@ -9,7 +9,8 @@ from models import events
 def index():
     return render_template(
         'index.html',
-        events = events.eventlist
+        pastevents = events.pastevents,
+        upcomingevents = events.upcomingevents
     )
 
 @app.route('/about')
@@ -23,7 +24,8 @@ def aboutus():
 def schedule():
     return render_template(
         'schedule.html',
-        events = events.eventlist
+        pastevents = events.pastevents,
+        upcomingevents = events.upcomingevents
     )
 
 @app.route('/materials')
