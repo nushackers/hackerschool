@@ -3,7 +3,7 @@ upcomingevents = []
 pastevents = [
     {
         "title": "Git & jQuery for beginners",
-        "datetime": "Monday, 24 September 2012, 10am - 1pm",
+        "datetime": "Monday, 24 September 2012, 10am - 1pm (Event concluded)",
         "location": "NUS COM1-02-12 SR3 ",
         "audience": "Beginner",
         "description": "jQuery is a swiss army knife for frontend web development. Also, meet Git, a version control system. It'll change the way you code. Seriously. <strong> You'll wonder what you were doing before Git. </strong><a class='calltoaction' href='/materials/gitjquery'>materials here</a>",
