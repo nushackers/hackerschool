@@ -256,6 +256,15 @@ h3 {
   color: #d70000;
   font-weight: bold;
 }
+.past {
+  margin-top: 50px;
+}
+.past .event img {
+  left: 0;
+}
+.past .event .info {
+  margin-left: 200px;
+}
 footer {
   padding: 50px 5px 10px 5px;
   font-size: 14px;
@@ -294,7 +303,7 @@ http://ryanfait.com/
   }
   .events .event .info {
     width: auto;
-    padding: 0 5px;
+    padding: 5px;
     margin: 0;
   }
   .events .event img {

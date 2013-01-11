@@ -17,41 +17,67 @@
 {% endblock %}
 {% block content %}
 <section class='centered'>
-  <h2>Upcoming Events</h2>
-  
-  {% if upcommingevents %}
-
-  {% else %}
-    <p> Coming next semester: <strong>UNIX</strong> & <strong>Web Development</strong> workshops</p>
-  {% endif %}
-
-  <h2>Past Events</h2>
+  {% if upcomingevents %}
     <ul class='events'>
-    {% for event in pastevents %}
+    {% for event in upcomingevents %}
       <li class='event'>
         <div class='info'>
           <h3>{{ event.title }}</h3>
+          
           <div class='row'>
             <span class='label'>When:</span>
             <span>{{ event.datetime }}</span>
           </div>
+          
           <div class='row'>
             <span class='label'>Where:</span>
             <span>{{ event.location }}</span>
           </div>
+          
           <div class='row'>
             <span class='label'>Who:</span>
             <span>{{ event.audience }}</span>
           </div>
+
+          {% if event.prereq %}
+            <div class='row'>
+              <span class='label'>Pre-requisites:</span>
+              <span>{{ event.prereq }}</span>
+            </div>
+          {% endif %}
+
           <div class='row'>
             <span class='label'>Fee:</span>
             <span>$5 <i>(make payment at COM1-02-15 or at our next Friday Hacks)</i></span>
           </div>
+
           <div class='row'>{{ event.description|safe }}</div>
         </div>
         <img src='{{ event.image }}'/>
       </li>
     {% endfor %}
     </ul>
+  {% else %}
+    <p> Coming next semester: <strong>UNIX</strong> & <strong>Web Development</strong> workshops</p>
+  {% endif %}
+
+  <div class='past'>
+    <h2>Past Events</h2>
+    <ul class='events'>
+    {% for event in pastevents %}
+      <li class='event'>
+        <img src='{{ event.image }}'/>
+        <div class='info'>
+          <h3>{{ event.title }}</h3>
+          <div class='row'>
+            <span class='label'>When:</span>
+            <span>{{ event.datetime }}</span>
+          </div>
+          <div class='row'>{{ event.materials|safe }}</div>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
 </section>
 {% endblock %}
