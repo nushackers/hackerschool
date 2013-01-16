@@ -2,7 +2,7 @@ upcomingevents = [
     {
         "title": "Introduction to HTML5/CSS3",
         "datetime": "Saturday, 26 January 2013, 10am - 1pm",
-        "location": "TBC",
+        "location": "Seminar Room 3, COM1, School of Computing, NUS",
         "audience": "Beginner",
         "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong>",
         "image": "/static/img/html5.png"
@@ -10,7 +10,7 @@ upcomingevents = [
     {
         "title": "Git for beginners",
         "datetime": "Saturday, 2 February 2013, 10am - 1pm",
-        "location": "TBC",
+        "location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
         "description": "Details to come.",
         "image": "/static/img/git.png"
@@ -18,7 +18,7 @@ upcomingevents = [
     {
         "title": "Web Development first steps with Sinatra",
         "datetime": "Saturday, 16 February 2013, 10am - 1pm",
-        "location": "TBC",
+        "location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
         "prereq": "HTML/CSS, and programming basics is assumed. Familiarity with Ruby is not required.",
         "description": "Details to come.",
@@ -27,7 +27,7 @@ upcomingevents = [
     {
         "title": "Unix and Shell Scripting Basics",
         "datetime": "Saturday, 23 February 2013, 10am - 1pm",
-        "location": "TBC",
+        "location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
         "description": "Details to come.",
         "image": "/static/img/unix.png"
