@@ -34,7 +34,30 @@
       <a id='logo' href='/'>
         <img src="/static/img/hackerschoollogo.png"/>
       </a>
-      {% block headerlinks %}{% endblock %}
+      <div class='headerlinks'>
+        {%- for endpoint, caption in [
+          ('aboutus', 'about us'),
+          ('schedule', 'schedule'),
+          ('materials', 'materials'),
+          ('faq', 'faq')
+        ] %}
+        
+          <a
+             {% if endpoint == request.endpoint or endpoint in request.endpoint %} class=active {% endif %}
+             {% if endpoint != request.endpoint %} href={{ url_for(endpoint) }} {% endif %}>
+            {{ caption }}
+          </a>
+        {%- endfor %}
+        <script language="javascript">
+          <!--
+          var part1 = "coreteam";
+          var part2 = "nushackers.org";
+          var part3 = "contact us";
+          document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+          document.write(part3 + '</a>');
+        // -->
+        </script>          
+      </div>
     </header>
     {% block content %}{% endblock %}
     <div class='push'></div>

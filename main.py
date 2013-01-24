@@ -14,12 +14,19 @@ def index():
         upcomingevents=events.upcomingevents
     )
 
+@app.route('/faq')
+def faq():
+    return render_template(
+        'faq.html'
+    )
+
 
 @app.route('/about')
 def aboutus():
     return render_template(
         'about.html'
     )
+
 
 
 @app.route('/schedule')
@@ -39,14 +46,14 @@ def materials():
 
 
 @app.route('/materials/html5')
-def html_workshop():
+def materials_html_workshop():
     return render_template(
         'materials/html5workshop.html'
     )
 
 
 @app.route('/materials/gitjquery')
-def gitjquery():
+def materials_gitjquery():
     return render_template(
         'materials/gitjquery.html'
     )
