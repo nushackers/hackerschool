@@ -37,9 +37,14 @@ def materials():
         'materials.html'
     )
 
+@app.route('/materials/html5_2013')
+def html_2013_workshop():
+    return render_template(
+        'materials/html5workshop2013.html'
+    )
 
-@app.route('/materials/html5')
-def html_workshop():
+@app.route('/materials/html5_2012')
+def html_2012_workshop():
     return render_template(
         'materials/html5workshop.html'
     )
