@@ -1,20 +1,4 @@
 {% extends "layout.html" %}
-{% block headerlinks %}
-<div class='headerlinks'>
-  <a href='/about'>about us</a>
-  <a class='active'>schedule</a>
-  <a href="/materials">materials</a>
-  <script language="javascript">
-    <!--
-    var part1 = "coreteam";
-    var part2 = "nushackers.org";
-    var part3 = "contact us";
-    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
-    document.write(part3 + '</a>');
-  // -->
-  </script>
-</div>
-{% endblock %}
 {% block content %}
 <section class='centered'>
   {% if upcomingevents %}
