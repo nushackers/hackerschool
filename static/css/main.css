@@ -219,39 +219,476 @@ h3 {
   font-weight: 300;
   line-height: 35px;
 }
-.events {
+.events,
+.questions {
   margin-top: -20px;
   margin-left: 0;
 }
 .events ul,
-.events li {
+.questions ul,
+.events li,
+.questions li {
   list-style: none;
   margin-left: 0;
 }
-.events .event {
+.events .event,
+.questions .event,
+.events .question,
+.questions .question {
   position: relative;
   min-height: 180px;
   border-bottom: solid 1px #eee;
 }
-.events .event img {
+.events .event img,
+.questions .event img,
+.events .question img,
+.questions .question img {
   position: absolute;
   right: 0;
   top: 15px;
   width: 140px;
   padding: 20px;
 }
-.events .event .info {
+.events .event .info,
+.questions .event .info,
+.events .question .info,
+.questions .question .info {
   padding: 20px 0;
   margin: 10px 0;
   width: 500px;
 }
-.events .event .info .row {
+.events .event .info .row,
+.questions .event .info .row,
+.events .question .info .row,
+.questions .question .info .row {
   margin: 3px 0;
 }
-.events .event .info .row .label {
+.events .event .info .row .label,
+.questions .event .info .row .label,
+.events .question .info .row .label,
+.questions .question .info .row .label {
   font-weight: 600;
 }
-.events .event .info .row .calltoaction {
+.events .event .info .row .calltoaction,
+.questions .event .info .row .calltoaction,
+.events .question .info .row .calltoaction,
+.questions .question .info .row .calltoaction {
+  display: inline-block;
+  color: #d70000;
+  font-weight: bold;
+}
+.past {
+  margin-top: 50px;
+}
+.past .event img {
+  left: 0;
+}
+.past .event .info {
+  margin-left: 200px;
+}
+footer {
+  padding: 50px 5px 10px 5px;
+  font-size: 14px;
+  height: 30px;
+}
+footer a {
+  color: #4f4f4f;
+}
+html,
+body {
+  height: 100%;
+}
+.push {
+  height: 90px;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -90px;
+}
+/*
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+*/
+@media screen and (max-width: 700px) {
+  #logo {
+    width: 200px;
+  }
+  .centered {
+    width: auto;
+  }
+  .banner {
+    min-height: 100px;
+    height: auto;
+  }
+  .events .event .info {
+    width: auto;
+    padding: 5px;
+    margin: 0;
+  }
+  .events .event img {
+    display: none;
+  }
+  footer {
+    padding-left: 10px;
+  }
+}
+#logo {
+  display: block;
+  margin: auto;
+  width: 450px;
+}
+#logo img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+body {
+  color: #4f4f4f;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+header {
+  padding-top: 15px;
+  border-bottom: solid 1px #f4f4f4;
+}
+header .headerlinks {
+  height: 30px;
+  padding-top: 5px;
+  text-align: center;
+  font-size: 19px;
+}
+header .headerlinks a {
+  margin: 0 5px;
+  padding: 5px 0;
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+}
+header .headerlinks a.active {
+  border-bottom: solid 3px;
+  cursor: auto;
+}
+header .headerlinks a:hover {
+  border-bottom: solid 3px;
+}
+section {
+  padding: 15px 10px;
+}
+section h2 {
+  padding: 5px 0;
+  margin: 15px 0 0px;
+  border-bottom: solid 1px #ccc;
+}
+section h3 {
+  padding: 15px 0 0 0;
+}
+section p {
+  padding: 10px 0;
+  line-height: 23px;
+}
+section ul,
+section li {
+  line-height: 23px;
+  list-style: disc;
+  margin-left: 12px;
+}
+section b,
+section strong {
+  font-weight: bold;
+}
+section i {
+  font-style: italic;
+}
+section a {
+  color: #4f4f4f;
+}
+.centered {
+  width: 700px;
+  margin: auto;
+  position: relative;
+}
+.banner {
+  height: 230px;
+  position: relative;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.banner#mainbanner {
+  background-image: url(/static/img/mainbanner.jpg);
+}
+h2 {
+  font-size: 30px;
+  font-weight: 100;
+}
+h3 {
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 35px;
+}
+.events,
+.questions {
+  margin-top: -20px;
+  margin-left: 0;
+}
+.events ul,
+.questions ul,
+.events li,
+.questions li {
+  list-style: none;
+  margin-left: 0;
+}
+.events .event,
+.questions .event,
+.events .question,
+.questions .question {
+  position: relative;
+  min-height: 180px;
+  border-bottom: solid 1px #eee;
+}
+.events .event img,
+.questions .event img,
+.events .question img,
+.questions .question img {
+  position: absolute;
+  right: 0;
+  top: 15px;
+  width: 140px;
+  padding: 20px;
+}
+.events .event .info,
+.questions .event .info,
+.events .question .info,
+.questions .question .info {
+  padding: 20px 0;
+  margin: 10px 0;
+  width: 500px;
+}
+.events .event .info .row,
+.questions .event .info .row,
+.events .question .info .row,
+.questions .question .info .row {
+  margin: 3px 0;
+}
+.events .event .info .row .label,
+.questions .event .info .row .label,
+.events .question .info .row .label,
+.questions .question .info .row .label {
+  font-weight: 600;
+}
+.events .event .info .row .calltoaction,
+.questions .event .info .row .calltoaction,
+.events .question .info .row .calltoaction,
+.questions .question .info .row .calltoaction {
+  display: inline-block;
+  color: #d70000;
+  font-weight: bold;
+}
+.past {
+  margin-top: 50px;
+}
+.past .event img {
+  left: 0;
+}
+.past .event .info {
+  margin-left: 200px;
+}
+footer {
+  padding: 50px 5px 10px 5px;
+  font-size: 14px;
+  height: 30px;
+}
+footer a {
+  color: #4f4f4f;
+}
+html,
+body {
+  height: 100%;
+}
+.push {
+  height: 90px;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -90px;
+}
+/*
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+*/
+@media screen and (max-width: 700px) {
+  #logo {
+    width: 200px;
+  }
+  .centered {
+    width: auto;
+  }
+  .banner {
+    min-height: 100px;
+    height: auto;
+  }
+  .events .event .info {
+    width: auto;
+    padding: 5px;
+    margin: 0;
+  }
+  .events .event img {
+    display: none;
+  }
+  footer {
+    padding-left: 10px;
+  }
+}
+#logo {
+  display: block;
+  margin: auto;
+  width: 450px;
+}
+#logo img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+body {
+  color: #4f4f4f;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+header {
+  padding-top: 15px;
+  border-bottom: solid 1px #f4f4f4;
+}
+header .headerlinks {
+  height: 30px;
+  padding-top: 5px;
+  text-align: center;
+  font-size: 19px;
+}
+header .headerlinks a {
+  margin: 0 5px;
+  padding: 5px 0;
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+}
+header .headerlinks a.active {
+  border-bottom: solid 3px;
+  cursor: auto;
+}
+header .headerlinks a:hover {
+  border-bottom: solid 3px;
+}
+section {
+  padding: 15px 10px;
+}
+section h2 {
+  padding: 5px 0;
+  margin: 15px 0 0px;
+  border-bottom: solid 1px #ccc;
+}
+section h3 {
+  padding: 15px 0 0 0;
+}
+section p {
+  padding: 10px 0;
+  line-height: 23px;
+}
+section ul,
+section li {
+  line-height: 23px;
+  list-style: disc;
+  margin-left: 12px;
+}
+section b,
+section strong {
+  font-weight: bold;
+}
+section i {
+  font-style: italic;
+}
+section a {
+  color: #4f4f4f;
+}
+.centered {
+  width: 700px;
+  margin: auto;
+  position: relative;
+}
+.banner {
+  height: 230px;
+  position: relative;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.banner#mainbanner {
+  background-image: url(/static/img/mainbanner.jpg);
+}
+h2 {
+  font-size: 30px;
+  font-weight: 100;
+}
+h3 {
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 35px;
+}
+.events,
+.questions {
+  margin-top: -20px;
+  margin-left: 0;
+}
+.events ul,
+.questions ul,
+.events li,
+.questions li {
+  list-style: none;
+  margin-left: 0;
+}
+.events .event,
+.questions .event,
+.events .question,
+.questions .question {
+  position: relative;
+  min-height: 180px;
+  border-bottom: solid 1px #eee;
+}
+.events .event img,
+.questions .event img,
+.events .question img,
+.questions .question img {
+  position: absolute;
+  right: 0;
+  top: 15px;
+  width: 140px;
+  padding: 20px;
+}
+.events .event .info,
+.questions .event .info,
+.events .question .info,
+.questions .question .info {
+  padding: 20px 0;
+  margin: 10px 0;
+  width: 500px;
+}
+.events .event .info .row,
+.questions .event .info .row,
+.events .question .info .row,
+.questions .question .info .row {
+  margin: 3px 0;
+}
+.events .event .info .row .label,
+.questions .event .info .row .label,
+.events .question .info .row .label,
+.questions .question .info .row .label {
+  font-weight: 600;
+}
+.events .event .info .row .calltoaction,
+.questions .event .info .row .calltoaction,
+.events .question .info .row .calltoaction,
+.questions .question .info .row .calltoaction {
   display: inline-block;
   color: #d70000;
   font-weight: bold;
