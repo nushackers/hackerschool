@@ -14,7 +14,7 @@ upcomingevents = [
         "location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
         "description": "In the professional world, unix is ubiquitous, and shell scripting is the staple of unix. With shell scripting, you can automate tasks that'd otherwise take you hours to accomplish. We'll be explaining the basic philosophy & ideas behind the design of Unix, and introducing shell scripting by way of walking through some very common tasks.<br/><a href='https://docs.google.com/a/linuxnus.org/spreadsheet/viewform?formkey=dDVvX0JKQVZBQnZob3ZRdW1pVERLNXc6MQ'>Sign up here &rarr;</a>",
-        "image": "/static/img/freebsd.png"
+        "image": "/static/img/freeBSD.png"
     }
 ]
 
