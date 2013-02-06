@@ -1,6 +1,6 @@
 upcomingevents = [
     {
-        "title": "Web Development first steps with Sinatra",
+        "title": "Web Development First Steps with Sinatra",
         "datetime": "Saturday, 16 February 2013, 10am - 1pm",
         "location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
