@@ -35,7 +35,7 @@ pastevents = [
         "audience": "Beginner",
         "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong> Workshop complete; <a href='/materials/html5_2013'>materials here</a>.",
         "image": "/static/img/html5.png",
-        "materials": "Materials to come."
+        "materials": "</strong><a class='calltoaction' href='/materials/html5_2013'>Materials here.</a>"
     },
     {
         "title": "Git & jQuery for beginners",
@@ -44,7 +44,7 @@ pastevents = [
         "audience": "Beginner",
         "description": "jQuery is a swiss army knife for frontend web development. Also, meet Git, a version control system. It'll change the way you code. Seriously. <strong> You'll wonder what you were doing before Git. </strong><a class='calltoaction' href='/materials/gitjquery'>materials here</a>",
         "image": "/static/img/gitjs.png",
-        "materials": "</strong><a class='calltoaction' href='/materials/gitjquery'>Materials here</a>"
+        "materials": "</strong><a class='calltoaction' href='/materials/gitjquery'>Materials here.</a>"
     },
     {
         "title": "Introduction to HTML5/CSS3",
@@ -53,6 +53,6 @@ pastevents = [
         "audience": "Beginner",
         "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong> <a class='calltoaction' href='/materials/html5_2012'>materials here</a>",
         "image": "/static/img/html5.png",
-        "materials": "</strong><a class='calltoaction' href='/materials/html5_2012'>Materials here</a>"
+        "materials": "</strong><a class='calltoaction' href='/materials/html5_2012'>Materials here.</a>"
     },
 ]
