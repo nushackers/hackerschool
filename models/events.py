@@ -58,7 +58,7 @@ pastevents = [
         "datetime": "Saturday, 2 February 2013, 10am - 1pm",
         "location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
-        "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong> <a href='https://docs.google.com/a/linuxnus.org/spreadsheet/viewform?formkey=dDVvX0JKQVZBQnZob3ZRdW1pVERLNXc6MQ'>Sign up here &rarr;</a>",
+        "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong>",
         "image": "/static/img/git.png",
         "materials": "Materials to come."
     },
