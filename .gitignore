@@ -39,3 +39,5 @@ nosetests.xml
 # Vim only files
 *.swp
 *.un~
+
+Thumbs.db
