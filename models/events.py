@@ -4,7 +4,7 @@ upcomingevents = [
 		"datetime": "Wednesday, 28 August 2013, 6:30pm - 9:30pm",
 		"location": "Global Learning Room, Education Resource Centre, University Town",
         "audience": "Beginner",
-        "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website.",
+        "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website.<br/><a href='https://docs.google.com/forms/d/19xpQdP73N-66ehsVxJj_zEL3yNC01hX-qeQzB53TWDA/viewform'>Sign up here &rarr;</a>",
         "image": "/static/img/html5.png"
 	},
 	{
