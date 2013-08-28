@@ -1,13 +1,5 @@
 upcomingevents = [
 	{
-		"title": "Introduction to HTML5/CSS3",
-		"datetime": "Wednesday, 28 August 2013, 6:30pm - 9:30pm",
-		"location": "Global Learning Room, Education Resource Centre, University Town",
-        "audience": "Beginner",
-        "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website.<br/><a href='https://docs.google.com/forms/d/19xpQdP73N-66ehsVxJj_zEL3yNC01hX-qeQzB53TWDA/viewform'>Sign up here &rarr;</a>",
-        "image": "/static/img/html5.png"
-	},
-	{
 		"title": "Git for Beginners",
 		"datetime": "Saturday, 7 September 2013, 10:00am - 1:00pm",
 		"location": "Global Learning Room, Education Resource Centre, University Town",
@@ -34,6 +26,14 @@ upcomingevents = [
 ]
 
 pastevents = [
+    {
+        "title": "Introduction to HTML5/CSS3",
+        "datetime": "Wednesday, 28 August 2013, 6:30pm - 9:30pm",
+        "location": "Global Learning Room, Education Resource Centre, University Town",
+        "audience": "Beginner",
+        "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website.",
+        "image": "/static/img/html5.png"
+    },
     {
         "title": "Unix and Shell Scripting Basics",
         "datetime": "Saturday, 23 February 2013, 10am - 1pm",
