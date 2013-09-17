@@ -1,13 +1,5 @@
 upcomingevents = [
 	{
-		"title": "Web Development with Express",
-		"datetime": "Saturday, 14 September 2013, 10:00am - 1:00pm",
-		"location": "Global Learning Room, Education Resource Centre, University Town",
-		"audience": "Beginner",
-		"description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <strong>Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.</strong><br/><a href='https://docs.google.com/forms/d/1xsSjPrXhUPxIPGJ5eVuaeUxBXX7NTEXOCtvK8_PtfpM/viewform'>Sign up here &rarr;</a>",
-		"image": "/static/img/express.png"
-	},
-	{
 		"title": "Unix and Shell Scripting Basics",
 		"datetime": "Saturday, 21 September 2013, 10:00am - 1:00pm",
 		"location": "Global Learning Room, Education Resource Centre, University Town",
@@ -18,6 +10,14 @@ upcomingevents = [
 ]
 
 pastevents = [
+	{
+		"title": "Web Development with Express",
+		"datetime": "Saturday, 14 September 2013, 10:00am - 1:00pm",
+		"location": "Global Learning Room, Education Resource Centre, University Town",
+		"audience": "Beginner",
+		"description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <strong>Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.</strong><br/><a href='https://docs.google.com/forms/d/1xsSjPrXhUPxIPGJ5eVuaeUxBXX7NTEXOCtvK8_PtfpM/viewform'>Sign up here &rarr;</a>",
+		"image": "/static/img/express.png"
+	},
 	{
 		"title": "Git for Beginners",
 		"datetime": "Saturday, 7 September 2013, 10:00am - 1:00pm",
