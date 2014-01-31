@@ -1,12 +1,12 @@
 upcomingevents = [
-	{
-		"title": "Unix and Shell Scripting Basics",
-		"datetime": "Saturday, 21 September 2013, 10:00am - 1:00pm",
-		"location": "Global Learning Room, Education Resource Centre, University Town",
-		"audience": "Beginner",
-		"description": "In the professional world, Unix is ubiquitous, and shell scripting is the staple of Unix. With shell scripting, you can automate tasks that'd otherwise take you hours to accomplish. We'll be explaining the basic philosophy & ideas behind the design of Unix, and introducing shell scripting by way of walking through some very common tasks.<br/><a href='https://docs.google.com/forms/d/1_edDJXX_jcj_pH0Tf7qQAaH1yvI4FnEYLLnvfm8_ZmU/viewform'>Sign up here &rarr;</a>",
-		"image": "/static/img/unix.png"
-	}
+  {
+    "title": "Introduction to HTML/CSS",
+    "datetime": "Saturday, 8 February 2014, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Education Resource Centre, University Town",
+    "audience": "Beginner",
+    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website.",
+    "image": "/static/img/html5.png"
+  }
 ]
 
 pastevents = [
