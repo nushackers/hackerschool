@@ -4,8 +4,33 @@ upcomingevents = [
     "datetime": "Saturday, 8 February 2014, 10:00am - 1:00pm",
     "location": "Global Learning Room, Education Resource Centre, University Town",
     "audience": "Beginner",
-    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website.",
+    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://docs.google.com/forms/d/1uOWprfRBwrZDK8xHH7aGsIv0HAZjf8pOK1OlyIatE3o/viewform'>Sign up here &rarr;</a>",
     "image": "/static/img/html5.png"
+  },
+  {
+    "title": "Introduction to JavaScript and Interactive Web Apps",
+    "datetime": "Saturday, 15 February 2014, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Education Resource Centre, University Town",
+    "audience": "Beginner",
+    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<br/><a href='https://docs.google.com/forms/d/1T7OxO5CaPJ6xbGbiPuggAkXJh99dYIO_sYJRGbIijKs/viewform'>Sign up here &rarr;</a>",
+    "image": "/static/img/javascript.png"
+  },
+  {
+    "title": "Git for Beginners",
+    "datetime": "Saturday, 22 February 2014, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Education Resource Centre, University Town",
+    "audience": "Beginner",
+    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong><br/><a href='https://docs.google.com/forms/d/1bYz2Ag8WyzmTjSjzBdnmtx6OuTPEgjfxk6_f3L-dmdg/viewform'>Sign up here &rarr;</a>",
+    "image": "/static/img/git.png"
+  },
+  {
+    "title": "Web Development with Express",
+    "datetime": "Saturday, 1 March 2013, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Education Resource Centre, University Town",
+    "audience": "Beginner",
+    "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
+    "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise).<br/><a href='https://docs.google.com/forms/d/1hwZ9k8qx72YPDZZB4UeU3GYVT9tYL5IyDcHzy2ofekw/viewform'>Sign up here &rarr;</a>",
+    "image": "/static/img/express.png"
   }
 ]
 
