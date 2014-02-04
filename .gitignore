@@ -41,3 +41,6 @@ nosetests.xml
 *.un~
 
 Thumbs.db
+
+# Virtual Env
+env
