@@ -83,6 +83,7 @@ pastevents = [
     "prereq": "HTML/CSS, and programming basics is assumed. Familiarity with Ruby is not required.",
     "description": "Sinatra is a small but powerful micro-framework for creating web applications in Ruby. In this workshop, we'll take a whirlwind tour of Sinatra and in the process, learn about the common MVC web application pattern. This workshop will also cover the basic ideas necessary for building web applications (whether in Sinatra or otherwise).<br/><a href='https://docs.google.com/a/linuxnus.org/spreadsheet/viewform?formkey=dDVvX0JKQVZBQnZob3ZRdW1pVERLNXc6MQ'>Sign up here &rarr;</a>",
     "image": "/static/img/sinatra.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/sinatra'>Materials here.</a>"
   },
   {
     "title": "Git for Beginners",

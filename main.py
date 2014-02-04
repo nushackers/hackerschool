@@ -42,6 +42,12 @@ def materials():
         'materials.html'
     )
 
+@app.route('/materials/sinatra')
+def materials_sinatra():
+    return render_template(
+        'materials/sinatra.html'
+    )
+
 @app.route('/materials/html5_2013')
 def html_2013_workshop():
     return render_template(
