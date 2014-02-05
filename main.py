@@ -14,20 +14,22 @@ def index():
         upcomingevents=events.upcomingevents
     )
 
-@app.route('/faq')
+
+@app.route('/faq/')
 def faq():
     return render_template(
         'faq.html'
     )
 
-@app.route('/about')
+
+@app.route('/about/')
 def aboutus():
     return render_template(
         'about.html'
     )
 
 
-@app.route('/schedule')
+@app.route('/schedule/')
 def schedule():
     return render_template(
         'schedule.html',
@@ -36,32 +38,35 @@ def schedule():
     )
 
 
-@app.route('/materials')
+@app.route('/materials/')
 def materials():
     return render_template(
         'materials.html'
     )
 
-@app.route('/materials/sinatra')
+
+@app.route('/materials/sinatra/')
 def materials_sinatra():
     return render_template(
         'materials/sinatra.html'
     )
 
-@app.route('/materials/html5_2013')
+
+@app.route('/materials/html5_2013/')
 def html_2013_workshop():
     return render_template(
         'materials/html5workshop2013.html'
     )
 
-@app.route('/materials/html5_2012')
+
+@app.route('/materials/html5_2012/')
 def materials_html_workshop():
     return render_template(
         'materials/html5workshop.html'
     )
 
 
-@app.route('/materials/gitjquery')
+@app.route('/materials/gitjquery/')
 def materials_gitjquery():
     return render_template(
         'materials/gitjquery.html'
