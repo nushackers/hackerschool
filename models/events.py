@@ -1,13 +1,5 @@
 upcomingevents = [
   {
-    "title": "Introduction to HTML/CSS",
-    "datetime": "Saturday, 8 February 2014, 10:00am - 1:00pm",
-    "location": "Global Learning Room, Stephen Riady Centre, University Town",
-    "audience": "Beginner",
-    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://docs.google.com/forms/d/1uOWprfRBwrZDK8xHH7aGsIv0HAZjf8pOK1OlyIatE3o/viewform'>Sign up here &rarr;</a>",
-    "image": "/static/img/html5.png"
-  },
-  {
     "title": "Introduction to JavaScript and Interactive Web Apps",
     "datetime": "Saturday, 15 February 2014, 10:00am - 1:00pm",
     "location": "Global Learning Room, Stephen Riady Centre, University Town",
@@ -35,6 +27,14 @@ upcomingevents = [
 ]
 
 pastevents = [
+  {
+    "title": "Introduction to HTML/CSS",
+    "datetime": "Saturday, 8 February 2014, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Stephen Riady Centre, University Town",
+    "audience": "Beginner",
+    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://docs.google.com/forms/d/1uOWprfRBwrZDK8xHH7aGsIv0HAZjf8pOK1OlyIatE3o/viewform'>Sign up here &rarr;</a>",
+    "image": "/static/img/html5.png"
+  },
   {
     "title": "Unix and Shell Scripting Basics",
     "datetime": "Saturday, 21 September 2013, 10:00am - 1:00pm",
