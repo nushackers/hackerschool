@@ -1,13 +1,5 @@
 upcomingevents = [
   {
-    "title": "Introduction to JavaScript and Interactive Web Apps",
-    "datetime": "Saturday, 15 February 2014, 10:00am - 1:00pm",
-    "location": "Global Learning Room, Stephen Riady Centre, University Town",
-    "audience": "Beginner",
-    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<br/><a href='https://docs.google.com/forms/d/1T7OxO5CaPJ6xbGbiPuggAkXJh99dYIO_sYJRGbIijKs/viewform'>Sign up here &rarr;</a>",
-    "image": "/static/img/javascript.png"
-  },
-  {
     "title": "Git for Beginners",
     "datetime": "Saturday, 22 February 2014, 10:00am - 1:00pm",
     "location": "Global Learning Room, Stephen Riady Centre, University Town",
@@ -28,11 +20,21 @@ upcomingevents = [
 
 pastevents = [
   {
+    "title": "Introduction to JavaScript and Interactive Web Apps",
+    "datetime": "Saturday, 15 February 2014, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Stephen Riady Centre, University Town",
+    "audience": "Beginner",
+    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<br/><a href='https://docs.google.com/forms/d/1T7OxO5CaPJ6xbGbiPuggAkXJh99dYIO_sYJRGbIijKs/viewform'>Sign up here &rarr;</a>",
+    "image": "/static/img/javascript.png"
+  },
+  {
     "title": "Introduction to HTML/CSS",
     "datetime": "Saturday, 8 February 2014, 10:00am - 1:00pm",
     "location": "Global Learning Room, Stephen Riady Centre, University Town",
     "audience": "Beginner",
     "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://docs.google.com/forms/d/1uOWprfRBwrZDK8xHH7aGsIv0HAZjf8pOK1OlyIatE3o/viewform'>Sign up here &rarr;</a>",
+
+    
     "image": "/static/img/html5.png"
   },
   {
