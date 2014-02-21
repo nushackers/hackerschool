@@ -9,7 +9,7 @@ upcomingevents = [
   },
   {
     "title": "Web Development with Express",
-    "datetime": "Saturday, 1 March 2013, 10:00am - 1:00pm",
+    "datetime": "Saturday, 1 March 2014, 10:00am - 1:00pm",
     "location": "Global Learning Room, Stephen Riady Centre, University Town",
     "audience": "Beginner",
     "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
