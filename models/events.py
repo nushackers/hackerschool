@@ -1,13 +1,5 @@
 upcomingevents = [
   {
-    "title": "Git for Beginners",
-    "datetime": "Saturday, 22 February 2014, 10:00am - 1:00pm",
-    "location": "Global Learning Room, Stephen Riady Centre, University Town",
-    "audience": "Beginner",
-    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong><br/><a href='https://docs.google.com/forms/d/1bYz2Ag8WyzmTjSjzBdnmtx6OuTPEgjfxk6_f3L-dmdg/viewform'>Sign up here &rarr;</a>",
-    "image": "/static/img/git.png"
-  },
-  {
     "title": "Web Development with Express",
     "datetime": "Saturday, 1 March 2014, 10:00am - 1:00pm",
     "location": "Global Learning Room, Stephen Riady Centre, University Town",
@@ -19,6 +11,14 @@ upcomingevents = [
 ]
 
 pastevents = [
+  {
+    "title": "Git for Beginners",
+    "datetime": "Saturday, 22 February 2014, 10:00am - 1:00pm",
+    "location": "Global Learning Room, Stephen Riady Centre, University Town",
+    "audience": "Beginner",
+    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong><br/><a href='https://docs.google.com/forms/d/1bYz2Ag8WyzmTjSjzBdnmtx6OuTPEgjfxk6_f3L-dmdg/viewform'>Sign up here &rarr;</a>",
+    "image": "/static/img/git.png"
+  },
   {
     "title": "Introduction to JavaScript and Interactive Web Apps",
     "datetime": "Saturday, 15 February 2014, 10:00am - 1:00pm",
