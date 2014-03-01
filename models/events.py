@@ -1,4 +1,7 @@
 upcomingevents = [
+]
+
+pastevents = [
   {
     "title": "Web Development with Express",
     "datetime": "Saturday, 1 March 2014, 10:00am - 1:00pm",
@@ -7,10 +10,7 @@ upcomingevents = [
     "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
     "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise).<br/><a href='https://docs.google.com/forms/d/1hwZ9k8qx72YPDZZB4UeU3GYVT9tYL5IyDcHzy2ofekw/viewform'>Sign up here &rarr;</a>",
     "image": "/static/img/express.png"
-  }
-]
-
-pastevents = [
+  },
   {
     "title": "Git for Beginners",
     "datetime": "Saturday, 22 February 2014, 10:00am - 1:00pm",
