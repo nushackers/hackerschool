@@ -3,25 +3,25 @@ upcomingevents = [
     "title": "Introduction to HTML/CSS",
     "datetime": "Saturday, 30 August 2014, 2:30pm - 5:30pm",
     "location": "Seminar Room 3 (COM1-02-12), School of Computing, National University of Singapore",
-    "audience": "Beginner, no prior knowledge assumed",
+    "audience": "Beginners, no prior knowledge assumed",
     "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://docs.google.com/forms/d/1jM4HjcXShGPFG2l4RtoAzoCduGKwCAGVWr77BMnEVQA/'>Sign up here &rarr;</a>",
     "image": "/static/img/html5.png"
   },
   {
-    "title": "Git for Beginners",
-    "datetime": "Saturday, 6 September 2014, 10:00am - 1:00pm",
-    "location": "TBD",
-    "audience": "Beginner",
-    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong>",
-    "image": "/static/img/git.png"
-  },
-  {
     "title": "Introduction to JavaScript and Interactive Web Apps",
-    "datetime": "Saturday, 13 September 2014, 10:00am - 1:00pm",
+    "datetime": "Saturday, 6 September 2014, 10:00am - 1:00pm",
     "location": "TBD",
     "audience": "Beginner",
     "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.",
     "image": "/static/img/javascript.png"
+  },
+  {
+    "title": "Git for Beginners",
+    "datetime": "Saturday, 13 September 2014, 10:00am - 1:00pm",
+    "location": "TBD",
+    "audience": "Beginner",
+    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong>",
+    "image": "/static/img/git.png"
   },
   {
     "title": "Web Development with Express",
