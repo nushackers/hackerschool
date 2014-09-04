@@ -1,0 +1,63 @@
+{% extends "layout.html" %}
+{% block headerlinks %}
+<div class="headerlinks">
+  <a href="/about">about us</a>
+  <a href="/schedule">schedule</a>
+  <a class="active" href="/materials">materials</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
+{% block content %}
+<section class="centered">
+  <h2>Materials</h2>
+  <div class="material">
+    <h3>Introduction to HTML5/CSS3, 2014</h3>
+    <p>This workshop is a <em>basic</em> introduction to HTML and CSS. Participants learnt:</p>
+    <ul>
+      <li>Basic HTML</li>
+      <li>Basic CSS</li>
+      <li>Putting it all together in a (beautiful!) personal web page</li>
+      <li>Twitter's Bootstrap CSS framework</li>
+      <li>Some HTML5 elements</li>
+    </ul>
+
+    <h3>Software Used</h3>
+    <p>Participants are required to download and use the following pieces of software:</p>
+    <ul>
+      <li><a href="https://www.google.com/intl/en/chrome/browser/">Google Chrome</a></li>
+      <li><a href="http://www.sublimetext.com/2">Sublime Text 2</a></li>
+    </ul>
+
+    <h3>Resources</h3>
+    <p>Pre-Workshop</p>
+    <ul>
+      <li>
+        <a href="https://www.dropbox.com/sh/1qu6syw52u7w4pu/AADqf2BFcWMnq4uO34hphwiba?dl=0">Files</a>
+      </li>
+    </ul>
+    <p>Post-workshop</p>
+    <ul>
+      <li>
+        <a href="http://0to255.com/">0to255</a>
+      </li>
+      <li>
+        <a href="http://www.codecademy.com">Codecademy</a>
+      </li>
+      <li>
+        <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a>
+      </li>
+      <li>
+        <a href="http://getbootstrap.com">Twitter Bootstrap</a>
+      </li>
+    </ul>
+  </div>
+</section>
+{% endblock %}
