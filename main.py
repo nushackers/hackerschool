@@ -44,47 +44,24 @@ def materials():
         'materials.html'
     )
 
-
-@app.route('/materials/sinatra/')
-def materials_sinatra():
-    return render_template(
-        'materials/sinatra.html'
-    )
-
-
-@app.route('/materials/js_2014/')
+@app.route('/materials/jsworkshop2014/')
 def materials_js_workshop2014():
     return render_template(
         'materials/jsworkshop2014.html'
     )
 
-@app.route('/materials/html5_2014/')
+@app.route('/materials/gitworkshop2014/')
+def materials_git_workshop2014():
+    return render_template(
+        'materials/gitworkshop2014.html'
+    )
+
+
+@app.route('/materials/html5workshop2014/')
 def materials_html_workshop2014():
     return render_template(
         'materials/html5workshop2014.html'
     )
-
-
-@app.route('/materials/html5_2013/')
-def html_2013_workshop():
-    return render_template(
-        'materials/html5workshop2013.html'
-    )
-
-
-@app.route('/materials/html5_2012/')
-def materials_html_workshop():
-    return render_template(
-        'materials/html5workshop.html'
-    )
-
-
-@app.route('/materials/gitjquery/')
-def materials_gitjquery():
-    return render_template(
-        'materials/gitjquery.html'
-    )
-
 
 if __name__ == "__main__":
     app.run()
