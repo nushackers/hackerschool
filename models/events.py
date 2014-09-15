@@ -17,7 +17,8 @@ pastevents = [
     "location": "SR4, Town Plaza (Level 2), University Town, NUS",
     "audience": "Beginner",
     "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: <strong>it'll change the way you code for the better.</strong> <br /><a href='https://docs.google.com/forms/d/1cdHxarO1Cx4Rw9BWRThwPUzoa1okpwt2b2mWiZ3LToc/'>Sign up here &rarr;</a>",
-    "image": "/static/img/git.png"
+    "image": "/static/img/git.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2014'>Materials here.</a>"
   },
   {
     "title": "Introduction to JavaScript and Interactive Web Apps",
@@ -25,7 +26,8 @@ pastevents = [
     "location": "SR4, Town Plaza (Level 2), University Town, NUS",
     "audience": "Beginner",
     "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.  <br /><a href='https://docs.google.com/forms/d/1OlXxsRLLl677B4GccPZFEPAanimoIG0hidq9T5QzExI/'>Sign up here &rarr;</a>",
-    "image": "/static/img/javascript.png"
+    "image": "/static/img/javascript.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2014'>Materials here.</a>"
   },
   {
     "title": "Introduction to HTML/CSS",
@@ -33,6 +35,7 @@ pastevents = [
     "location": "Seminar Room 3 (COM1-02-12), School of Computing, National University of Singapore",
     "audience": "Beginners, no prior knowledge assumed",
     "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://docs.google.com/forms/d/1jM4HjcXShGPFG2l4RtoAzoCduGKwCAGVWr77BMnEVQA/'>Sign up here &rarr;</a>",
-    "image": "/static/img/html5.png"
+    "image": "/static/img/html5.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2014'>Materials here.</a>"
   }
 ]
