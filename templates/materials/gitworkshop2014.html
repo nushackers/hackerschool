@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block headerlinks %}
+<div class="headerlinks">
+  <a href="/about">about us</a>
+  <a href="/schedule">schedule</a>
+  <a class="active" href="/materials">materials</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
+{% block content %}
+<section class="centered">
+  <h2>Materials</h2>
+  <div class="material">
+    <h3>Introduction to Git, 2014</h3>
+    <p>This workshop is a <em>basic</em> introduction to git.</p>
+
+    <h3>Software Used</h3>
+    <p>Participants are required to download and use the following pieces of software:</p>
+    <ul>
+      <li><a href="git-scm.com/downloads">Git</a></li>
+      <li><a href="http://www.sublimetext.com/2">Sublime Text 2</a></li>
+      <li><a href="https://github.com/github/GitPad">GitPad(Windows only)</a></li>
+    </ul>
+
+    <h3>Resources</h3>
+    <ul>
+      <li>
+        <a href="https://www.dropbox.com/s/15sud5yxesorlf6/Vishnu%27s%20git%20hackerschool%20workshop%202014.pdf?dl=0">Slides</a>
+      </li>
+      <li>
+        <a href="https://github.com/burnflare/git-workshop">Vishnu's git-workshop repo</a>
+      </li>
+    </ul>
+  </div>
+</section>
+{% endblock %}
