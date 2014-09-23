@@ -44,6 +44,13 @@ def materials():
         'materials.html'
     )
 
+@app.route('/materials/expressworkshop2014/')
+def materials_js_workshop2014():
+    return render_template(
+        'materials/expressworkshop2014.html'
+    )
+
+
 @app.route('/materials/jsworkshop2014/')
 def materials_js_workshop2014():
     return render_template(

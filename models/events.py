@@ -1,16 +1,36 @@
 upcomingevents = [
   {
+    "title": "Developing HTML5 Applications with AngularJS",
+    "datetime": "Saturday, 4 October 2014, 2:30pm - 5:30pm",
+    "location": "SR4, Town Plaza (Level 2), University Town, NUS",
+    "audience": "Beginner",
+    "prereq": "Familiarity with HTML, CSS and JavaScript is expected.",
+    "description": "AngularJS is a powerful JavaScript framework for developing front-end application. \
+                    In this workshop, you will learn about the following AngularJS features by building a SPA application\
+                    <ul>\
+<li>Data binding and handling UI events</li>\
+<li>Rendering list and tabular data</li>\
+<li>Partitioning your applications into sharable modules</li>\
+<li>Abstracting reusable code into services</li>\
+<li>Using partials/subviews </li>\
+<li>Consuming RESTful service</li>\
+<li>Animation to spice up the application</li></ul>",
+    "image": "/static/img/express.png"
+  },
+
+]
+
+pastevents = [
+  {
     "title": "Web Development with Express",
     "datetime": "Saturday, 20 September 2014, 2:30pm - 5:30pm",
     "location": "SR4, Town Plaza (Level 2), University Town, NUS",
     "audience": "Beginner",
     "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
     "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <br /><a href='https://docs.google.com/forms/d/1rmC6KogSVazTH2WxvmUPDe7vflmx7FXPLx9vyvKdeqI/'>Sign up here &rarr;</a>",
-    "image": "/static/img/express.png"
+    "image": "/static/img/express.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials here.</a>"
   },
-]
-
-pastevents = [
   {
     "title": "Git for Beginners",
     "datetime": "Saturday, 13 September 2014, 2:30pm - 5:30pm",
