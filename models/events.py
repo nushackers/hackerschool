@@ -14,7 +14,8 @@ upcomingevents = [
 <li>Abstracting reusable code into services</li>\
 <li>Using partials/subviews </li>\
 <li>Consuming RESTful service</li>\
-<li>Animation to spice up the application</li></ul>",
+<li>Animation to spice up the application</li></ul>\
+<a href='https://docs.google.com/forms/d/1hpDPBILpqHhO0MenAI92jgZaNj_1eyi-IX0oXxL12z4/'>Sign up here &rarr;</a>",
     "image": "/static/img/express.png"
   },
 
