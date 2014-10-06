@@ -1,4 +1,8 @@
 upcomingevents = [
+
+]
+
+pastevents = [
   {
     "title": "Developing HTML5 Applications with AngularJS",
     "datetime": "Saturday, 4 October 2014, 2:30pm - 5:30pm",
@@ -18,10 +22,6 @@ upcomingevents = [
 <a href='https://docs.google.com/forms/d/1hpDPBILpqHhO0MenAI92jgZaNj_1eyi-IX0oXxL12z4/'>Sign up here &rarr;</a>",
     "image": "/static/img/express.png"
   },
-
-]
-
-pastevents = [
   {
     "title": "Web Development with Express",
     "datetime": "Saturday, 20 September 2014, 2:30pm - 5:30pm",
