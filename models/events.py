@@ -8,6 +8,7 @@ pastevents = [
     "datetime": "Saturday, 4 October 2014, 2:30pm - 5:30pm",
     "location": "SR4, Town Plaza (Level 2), University Town, NUS",
     "audience": "Beginner",
+    "image": "/static/img/angular.png",
     "prereq": "Familiarity with HTML, CSS and JavaScript is expected.",
     "description": "AngularJS is a powerful JavaScript framework for developing front-end application. \
                     In this workshop, you will learn about the following AngularJS features by building a SPA application\
