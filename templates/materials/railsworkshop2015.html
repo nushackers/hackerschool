@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block headerlinks %}
+<div class="headerlinks">
+  <a href="/about">about us</a>
+  <a href="/schedule">schedule</a>
+  <a class="active" href="/materials">materials</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
+{% block content %}
+<section class="centered">
+  <h2>Materials</h2>
+  <div class="material">
+    <h3>Express.js Workshop, 2014</h3>
+    <p>This workshop is a <em>basic</em> introduction to web development using Ruby on Rails.</p>
+
+    <h3>Software Used</h3>
+    <p>Participants are required to download and use the following pieces of software:</p>
+    <ul>
+        <li>Sublime Text 3 (<a href="http://sublimetext.com/3">http://sublimetext.com/3</a>)</li>
+        <li>Google Chrome (<a href="http://chrome.google.com">http://chrome.google.com</a>)</li>
+        <li>Ruby on Rails (<a href="http://rubyonrails.org/">http://rubyonrails.org/</a>)</li>
+    </ul>
+
+    <h3>Resources</h3>
+    <ul>
+      <li>
+        To be updated
+      </li>
+    </ul>
+  </div>
+</section>
+{% endblock %}
