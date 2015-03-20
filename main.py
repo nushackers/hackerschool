@@ -43,6 +43,10 @@ def materials():
     return render_template('materials.html')
 
 
+@app.route('/materials/railsworkshop2015/')
+def materials_rails_workshop2015():
+    return render_template('materials/railsworkshop2015.html')
+
 @app.route('/materials/expressworkshop2014/')
 def materials_express_workshop2014():
     return render_template('materials/expressworkshop2014.html')
