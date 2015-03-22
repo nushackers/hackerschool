@@ -1,7 +1,7 @@
 upcomingevents = [
 {
     "title": "Web Development with Ruby on Rails",
-    "datetime": "Saturday 4th, April, 1:30am - 5:30pm",
+    "datetime": "Saturday 4th, April, 1:30pm - 5:30pm",
     "location": "SR3, Town Plaza (Level 2), University Town, NUS",
     "audience": "Beginner",
     "image": "/static/img/rails.png",
