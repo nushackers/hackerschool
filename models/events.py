@@ -1,5 +1,17 @@
 upcomingevents = [
 {
+    "title": "Introduction to HTML/CSS",
+    "datetime": "Saturday, 12 August 2015, 1:00pm - 4:00pm",
+    "location": "SR, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public, no prior knowledge assumed",
+    "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='http://goo.gl/forms/hMZo03DZWH'>Sign up here &rarr;</a>",
+    "image": "/static/img/html5.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials here.</a>"
+  }
+]
+
+pastevents = [
+{
     "title": "Web Development with Ruby on Rails",
     "datetime": "Saturday 4th, April, 1:30pm - 5:30pm",
     "location": "SR3, Town Plaza (Level 2), University Town, NUS",
@@ -8,10 +20,7 @@ upcomingevents = [
     "prereq": "Familiarity with HTML and CSS is expected. Server side programming, such as PHP, is preferred but optional",
     "description": "The workshop covers the basics of the Ruby language, but expects that you have got the fundamentals of programming languages so that we can cover more ground. In addition, we will cover how Rails builds web applications using the MVC (model view controller) paradigm, with hands-on exercises to venture deeper into each layer of a web application.<br/><a href='https://docs.google.com/forms/d/1B9jrmRI0DrJvfz1HBIv1Q68Ee7Bq7nnwkQ9xxkIOWJ8/'>Sign up here &rarr;</a>",
     "materials": "</strong><a class='calltoaction' href='/materials/railsworkshop2015'>Materials here.</a>"
-  }
-]
-
-pastevents = [
+  },
   {
     "title": "Developing HTML5 Applications with AngularJS",
     "datetime": "Saturday, 4 October 2014, 2:30pm - 5:30pm",
