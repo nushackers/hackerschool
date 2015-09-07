@@ -175,9 +175,9 @@ pastevents = [
     "datetime": "Saturday, 26 January 2013, 10am - 1pm",
     "location": "Seminar Room 3, COM1, School of Computing, NUS",
     "audience": "Beginner",
-    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong> Workshop complete; <a href='/materials/html5_2013'>materials here</a>.",
+    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong> Workshop complete; <a href='/materials/html5workshop2013'>materials here</a>.",
     "image": "/static/img/html5.png",
-    "materials": "</strong><a class='calltoaction' href='/materials/html5_2013'>Materials here.</a>"
+    "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2013'>Materials here.</a>"
   },
   {
     "title": "Git & jQuery for beginners",
@@ -193,8 +193,8 @@ pastevents = [
     "datetime": "Saturday, 22 September 2012, 10am - 1pm",
     "location": "NUS COM1-02-12 SR3 ",
     "audience": "Beginner",
-    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong> <a class='calltoaction' href='/materials/html5_2012'>materials here</a>",
+    "description": "Wanted to make a website, but found w3c's tutorials too boring? We'll teach you HTML5 and CSS3 from scratch. Come down to get a hands-on experience on designing beautiful webpages, and <strong>walk away with a personalized website.</strong> <a class='calltoaction' href='/materials/html5workshop2012'>materials here</a>",
     "image": "/static/img/html5.png",
-    "materials": "</strong><a class='calltoaction' href='/materials/html5_2012'>Materials here.</a>"
+    "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2012'>Materials here.</a>"
   }
 ]
