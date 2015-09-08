@@ -44,7 +44,7 @@ def materials():
 
 
 @app.route('/materials/<material>/')
-def materials_gitjquery(material):
+def material_details(material):
     return render_template('materials/%s.html' % material)
 
 
