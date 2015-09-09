@@ -1,7 +1,7 @@
 upcomingevents = [
 {
     "title": "Introduction to HTML/CSS",
-    "datetime": "Saturday, 12 August 2015, 1:00pm - 4:00pm",
+    "datetime": "Saturday, 19 August 2015, 1:00pm - 4:00pm",
     "location": "SR, Town Plaza (Level 2), University Town, National University of Singapore",
     "audience": "Beginners from any faculty or the public, no prior knowledge assumed",
     "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='http://goo.gl/forms/hMZo03DZWH'>Sign up here &rarr;</a>",
