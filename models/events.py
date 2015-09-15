@@ -13,9 +13,18 @@ upcomingevents = [
     "datetime": "Saturday, 26 September 2015, 1:00pm - 4:00pm",
     "location": "SR, Town Plaza (Level 2), University Town, National University of Singapore",
     "audience": "Beginners from any faculty or the public",
-    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: it'll change the way you code for the better.",
+    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: it'll change the way you code for the better.<br>Sign ups opening soon.",
     "image": "/static/img/git.png",
     "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
+  },
+{
+    "title": "JavaScript and Interactive Web Apps",
+    "datetime": "Saturday, 3 October 2015, 1:00pm - 4:00pm",
+    "location": "SR, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public",
+    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<br>Sign ups opening soon.",
+    "image": "/static/img/javascript.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
   }
 ]
 
