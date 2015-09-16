@@ -1,3 +1,4 @@
+# uncomment materials once workshop is over, remember to upload the materials too
 upcomingevents = [
 {
     "title": "Introduction to HTML/CSS",
@@ -6,7 +7,7 @@ upcomingevents = [
     "audience": "Beginners from any faculty or the public, no prior knowledge assumed",
     "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='http://goo.gl/forms/hMZo03DZWH'>Sign up here &rarr;</a>",
     "image": "/static/img/html5.png",
-    "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials here.</a>"
+    # "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials here.</a>"
   },
 {
     "title": "Git for Beginners",
@@ -15,7 +16,7 @@ upcomingevents = [
     "audience": "Beginners from any faculty or the public",
     "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: it'll change the way you code for the better.<br>Sign ups opening soon.",
     "image": "/static/img/git.png",
-    "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
+    # "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
   },
 {
     "title": "JavaScript and Interactive Web Apps",
@@ -24,7 +25,7 @@ upcomingevents = [
     "audience": "Beginners from any faculty or the public",
     "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<br>Sign ups opening soon.",
     "image": "/static/img/javascript.png",
-    "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
+    # "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
   }
 ]
 
