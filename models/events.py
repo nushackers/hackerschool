@@ -26,6 +26,16 @@ upcomingevents = [
     "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<br>Sign ups opening soon.",
     "image": "/static/img/javascript.png",
     # "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
+  },
+{
+    "title": "Web Development with Express",
+    "datetime": "Saturday, 17 October 2015, 1:00pm - 4:00pm",
+    "location": "SR, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public",
+    "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
+    "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <br />Sign ups opening soon.",
+    "image": "/static/img/express.png",
+    # "materials": "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials here.</a>"
   }
 ]
 
