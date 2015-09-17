@@ -7,7 +7,7 @@ upcomingevents = [
     "audience": "Beginners from any faculty or the public, no prior knowledge assumed",
     "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='http://goo.gl/forms/hMZo03DZWH'>Sign up here &rarr;</a>",
     "image": "/static/img/html5.png",
-    # "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials here.</a>"
+    "materials": "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials here.</a>"
   },
 {
     "title": "Git for Beginners",
