@@ -19,6 +19,15 @@ upcomingevents = [
     # "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
   },
 {
+    "title": "Introduction to React.js",
+    "datetime": "Saturday, 17 October 2015, 1:00pm - 4:00pm",
+    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Developers with experience in HTML, CSS, and JavaScript",
+    "description": "Everyone's talking about React.js -- but what exactly is it? React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely changes the way front end engineering is done. We'll learn why it's special and how to get started with it in the first React.js hackerschool.<br>Sign ups opening soon.",
+    "image": "/static/img/react.png",
+    # "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
+  },
+{
     "title": "Web Development with Express",
     "datetime": "Saturday, 24 October 2015, 1:00pm - 4:00pm",
     "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
