@@ -1,15 +1,6 @@
 # uncomment materials once workshop is over, remember to upload the materials too
 upcomingevents = [
 {
-    "title": "Git for Beginners",
-    "datetime": "Saturday, 3 October 2015, 1:00pm - 4:00pm",
-    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
-    "audience": "Beginners from any faculty or the public",
-    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: it'll change the way you code for the better.<p><a href='http://goo.gl/forms/Ezx7bJUrIr' target='_blank'>Sign up here</a></p>",
-    "image": "/static/img/git.png",
-    # "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
-  },
-{
     "title": "JavaScript and Interactive Web Apps",
     "datetime": "Saturday, 10 October 2015, 1:00pm - 4:00pm",
     "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
@@ -40,6 +31,15 @@ upcomingevents = [
 ]
 
 pastevents = [
+{
+    "title": "Git for Beginners",
+    "datetime": "Saturday, 3 October 2015, 1:00pm - 4:00pm",
+    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public",
+    "description": "Ever used Dropbox to store your code because it makes backups? Made multiple copies of your assignment's folder just to try different things? Worked on group projects by coding in Google Docs? Git is the tool for you: it'll change the way you code for the better.<p><a href='http://goo.gl/forms/Ezx7bJUrIr' target='_blank'>Sign up here</a></p>",
+    "image": "/static/img/git.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
+  },
 {
     "title": "Introduction to HTML/CSS",
     "datetime": "Saturday, 19 September 2015, 1:00pm - 4:00pm",
