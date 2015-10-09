@@ -7,7 +7,7 @@ upcomingevents = [
     "audience": "Beginners from any faculty or the public",
     "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<p><a href='http://goo.gl/forms/TUhf0UYf5Q' target='_blank'>Sign up here</a></p>",
     "image": "/static/img/javascript.png",
-    # "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
+    "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
   },
 {
     "title": "Introduction to React.js",
