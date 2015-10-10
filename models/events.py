@@ -1,20 +1,11 @@
 # uncomment materials once workshop is over, remember to upload the materials too
 upcomingevents = [
 {
-    "title": "JavaScript and Interactive Web Apps",
-    "datetime": "Saturday, 10 October 2015, 1:00pm - 4:00pm",
-    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
-    "audience": "Beginners from any faculty or the public",
-    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<p><a href='http://goo.gl/forms/TUhf0UYf5Q' target='_blank'>Sign up here</a></p>",
-    "image": "/static/img/javascript.png",
-    "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
-  },
-{
     "title": "Introduction to React.js",
     "datetime": "Saturday, 17 October 2015, 1:00pm - 4:00pm",
     "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
     "audience": "Developers with experience in HTML, CSS, and JavaScript",
-    "description": "Everyone's talking about React.js -- but what exactly is it? React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely changes the way front end engineering is done. We'll learn why it's special and how to get started with it in the first React.js hackerschool.<br>Sign ups opening soon.",
+    "description": "Everyone's talking about React.js -- but what exactly is it? React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely changes the way front end engineering is done. We'll learn why it's special and how to get started with it in the first React.js hackerschool.<p><a href='http://goo.gl/forms/KZ0ioR1y6b' target='_blank'>Sign up here</a></p>",
     "image": "/static/img/react.png",
     # "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
   },
@@ -31,6 +22,15 @@ upcomingevents = [
 ]
 
 pastevents = [
+{
+    "title": "JavaScript and Interactive Web Apps",
+    "datetime": "Saturday, 10 October 2015, 1:00pm - 4:00pm",
+    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public",
+    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<p><a href='http://goo.gl/forms/TUhf0UYf5Q' target='_blank'>Sign up here</a></p>",
+    "image": "/static/img/javascript.png",
+    "materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials here.</a>"
+  },
 {
     "title": "Git for Beginners",
     "datetime": "Saturday, 3 October 2015, 1:00pm - 4:00pm",
