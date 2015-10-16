@@ -7,7 +7,7 @@ upcomingevents = [
     "audience": "Developers with experience in HTML, CSS, and JavaScript",
     "description": "Everyone's talking about React.js -- but what exactly is it? React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely changes the way front end engineering is done. We'll learn why it's special and how to get started with it in the first React.js hackerschool.<p><a href='http://goo.gl/forms/KZ0ioR1y6b' target='_blank'>Sign up here</a></p>",
     "image": "/static/img/react.png",
-    # "materials": "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials here.</a>"
+    "materials": "</strong><a class='calltoaction' href='/materials/reactworkshop2015'>Materials here.</a>"
   },
 {
     "title": "Web Development with Express",

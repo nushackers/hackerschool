@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block headerlinks %}
+<div class="headerlinks">
+  <a href="/about">about us</a>
+  <a href="/schedule">schedule</a>
+  <a class="active" href="/materials">materials</a>
+  <script language="javascript">
+    <!--
+    var part1 = "coreteam";
+    var part2 = "nushackers.org";
+    var part3 = "contact us";
+    document.write('<a href="mai' + 'lto:' + part1 + '@' + part2 + '?subject=hackerschool">');
+    document.write(part3 + '</a>');
+  // -->
+  </script>
+</div>
+{% endblock %}
+{% block content %}
+<section class="centered">
+  <h2>Materials</h2>
+  <div class="material">
+    <h3>Introduction to React.js</h3>
+    <p>This workshop is a introduction to React.js. Participants will learn:</p>
+    <ul>
+      <li>Motivations behind React.js</li>
+      <li>React core API</li>
+      <li>How to build a basic TODO application in React</li>
+    </ul>
+
+    <h3>Software Used</h3>
+    <p>Participants are required to download and use the following pieces of software:</p>
+    <ul>
+      <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
+      <li><a href="http://www.sublimetext.com/3">Sublime Text 3</a></li>
+    </ul>
+
+    <h3>Resources</h3>
+    <ul>
+      <li>
+        <a href="https://dl.dropboxusercontent.com/u/2237106/hackerschool-react.zip" target="_blank">All files</a>
+      </li>
+    </ul>
+  </div>
+</section>
+{% endblock %}
