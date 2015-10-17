@@ -1,6 +1,19 @@
 # uncomment materials once workshop is over, remember to upload the materials too
 upcomingevents = [
 {
+    "title": "Web Development with Express",
+    "datetime": "Saturday, 24 October 2015, 1:00pm - 4:00pm",
+    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public",
+    "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
+    "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <p><a href='http://goo.gl/forms/MnZhcrjlpL' target='_blank'>Sign up here</a></p>",
+    "image": "/static/img/express.png",
+    # "materials": "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials here.</a>"
+  }
+]
+
+pastevents = [
+{
     "title": "Introduction to React.js",
     "datetime": "Saturday, 17 October 2015, 1:00pm - 4:00pm",
     "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
@@ -9,19 +22,6 @@ upcomingevents = [
     "image": "/static/img/react.png",
     "materials": "</strong><a class='calltoaction' href='/materials/reactworkshop2015'>Materials here.</a>"
   },
-{
-    "title": "Web Development with Express",
-    "datetime": "Saturday, 24 October 2015, 1:00pm - 4:00pm",
-    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
-    "audience": "Beginners from any faculty or the public",
-    "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
-    "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <br />Sign ups opening soon.",
-    "image": "/static/img/express.png",
-    # "materials": "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials here.</a>"
-  }
-]
-
-pastevents = [
 {
     "title": "JavaScript and Interactive Web Apps",
     "datetime": "Saturday, 10 October 2015, 1:00pm - 4:00pm",
