@@ -1,6 +1,18 @@
 # uncomment materials once workshop is over, remember to upload the materials too
 upcomingevents = [
 {
+    "title": "Introduction to HTML/CSS",
+    "datetime": "Saturday, 13 February 2016, 1:00pm - 4:00pm",
+    "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
+    "audience": "Beginners from any faculty or the public, no prior knowledge assumed",
+    "description": "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='http://goo.gl/forms/96beJlgphF'>Sign up here &rarr;</a>",
+    "image": "/static/img/html5.png",
+    #"materials": "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials here.</a>"
+  }
+]
+
+pastevents = [
+{
     "title": "Web Development with Express",
     "datetime": "Saturday, 24 October 2015, 1:00pm - 4:00pm",
     "location": "SR3, Town Plaza (Level 2), University Town, National University of Singapore",
@@ -8,11 +20,8 @@ upcomingevents = [
     "prereq": "Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript is a plus, but is not required.",
     "description": "Express is a small but powerful micro-framework for creating web applications in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the process, learn about the common MVC web application pattern. We'll also cover the basic ideas necessary for building web applications (whether in Express or otherwise). <p><a href='http://goo.gl/forms/MnZhcrjlpL' target='_blank'>Sign up here</a></p>",
     "image": "/static/img/express.png",
-    # "materials": "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials here.</a>"
-  }
-]
-
-pastevents = [
+    "materials": "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials here.</a>"
+  },
 {
     "title": "Introduction to React.js",
     "datetime": "Saturday, 17 October 2015, 1:00pm - 4:00pm",
