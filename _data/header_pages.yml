@@ -1,0 +1,8 @@
+- endpoint: about
+  caption: about us
+- endpoint: schedule
+  caption: schedule
+- endpoint: materials
+  caption: materials
+- endpoint: faq
+  caption: faq

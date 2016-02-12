@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<section id='mainbanner' class='banner'></section>
+<section class='centered'>
+  {% if site.data.upcoming_events %}
+    <ul class='events'>
+    {% for event in site.data.upcoming_events %}
+      <li class='event'>
+        <div class='info'>
+          <h3>{{ event.title }}</h3>
+          
+          <div class='row'>
+            <span class='label'>When:</span>
+            <span>{{ event.datetime }}</span>
+          </div>
+          
+          <div class='row'>
+            <span class='label'>Where:</span>
+            <span>{{ event.location }}</span>
+          </div>
+          
+          <div class='row'>
+            <span class='label'>Who:</span>
+            <span>{{ event.audience }}</span>
+          </div>
+
+          {% if event.prereq %}
+            <div class='row'>
+              <span class='label'>Pre-requisites:</span>
+              <span>{{ event.prereq }}</span>
+            </div>
+          {% endif %}
+
+          <div class='row'>{{ event.description|safe }}</div>
+          <div class='row'>{{ event.materials|safe }}</div>
+        </div>
+        <img src='{{ event.image }}'/>
+      </li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+
+  <div class='past'>
+    <h2>Past Events</h2>
+    <ul class='events'>
+    {% for event in site.data.past_events %}
+      <li class='event'>
+        <img src='{{ event.image }}'/>
+        <div class='info'>
+          <h3>{{ event.title }}</h3>
+          <div class='row'>
+            <span class='label'>When:</span>
+            <span>{{ event.datetime }}</span>
+          </div>
+          <div class='row'>{{ event.materials|safe }}</div>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</section>
