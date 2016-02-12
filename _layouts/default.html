@@ -5,11 +5,17 @@
   <title>hackerschool by NUS Hackers</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+  <!-- facebook meta tags -->
+  <meta property="og:title" content="hackerschool by NUS Hackers" />
+  <meta property="og:type" content="school" />
+  <meta property="og:url" content="http://school.nushackers.org" />
+  <meta property="og:image" content="https://dl.dropbox.com/u/24733998/hackerschoollogo_fb.png" />
   <meta property="og:site_name" content="hackerschool by NUS Hackers" />
   <meta property="fb:admins" content="1046605279" />
 
+
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" type="text/css" href="static/css/main.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/main.css">
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-34839738-1']);
@@ -26,7 +32,7 @@
   <div class='wrapper'>
     <header>
       <a id='logo' href='/'>
-        <img src="static/img/hackerschoollogo.png"/>
+        <img src="/static/img/hackerschoollogo.png"/>
       </a>
       <div class='headerlinks'>
         {% for info in site.data.header_pages %}
