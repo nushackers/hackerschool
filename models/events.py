@@ -5,7 +5,7 @@ upcomingevents = [
     "datetime": "Saturday, 20 February 2016, 1:00pm - 4:00pm",
     "location": "SR7, Town Plaza (Level 2), University Town, National University of Singapore",
     "audience": "Beginners from any faculty or the public",
-    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<p><a href='http://goo.gl/forms/TUhf0UYf5Q' target='_blank'>Sign up here</a></p>",
+    "description": "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.<p><a href='http://goo.gl/forms/0qZPYN5Zgd' target='_blank'>Sign up here</a></p>",
     "image": "/static/img/javascript.png",
     #"materials": "</strong><a class='calltoaction' href='/materials/jsworkshop2016'>Materials here.</a>"
   }
