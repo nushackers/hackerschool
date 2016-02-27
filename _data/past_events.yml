@@ -1,3 +1,15 @@
+- title: Introduction to React.js
+  datetime: Saturday, 27 February 2016, 1:00pm - 4:00pm
+  location: "Seminar Room 3, Town Plaza (Level 2), University Town, National University of Singapore"
+  audience: "Developers with experience in HTML, CSS and JavaScript"
+  description: "Everyone's talking about React.js -- but what exactly is it? React.js
+    is a User Interface JavaScript library from Facebook/Instagram, and it completely
+    changes the way front end engineering is done. We'll learn why it's special and
+    how to get started with it.<br />
+    <a href='http://goo.gl/forms/5ASZCqGFDB'>Sign up here &rarr;</a>"
+  materials: "</strong><a class='calltoaction' href='/materials/reactworkshop2016'>Materials
+    here.</a>"
+  image: "/static/img/react.png"
 - title: Introduction to JavaScript & Interactive Apps
   datetime: Saturday, 20 February 2016, 1:00pm - 4:00pm
   location: "Seminar Room 7, Town Plaza (Level 2), University Town, National University of Singapore"
