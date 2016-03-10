@@ -1,3 +1,25 @@
+- title: Introduction to Swift & iOS
+  datetime: Saturday, 5 March 2016, 1:00pm - 4:00pm
+  location: "Seminar Room 3, Town Plaza (Level 2), University Town, National University of Singapore"
+  audience: "Developers with familiarity with any programming language"
+  description: "Learn all about Swift, Apple's new programming language, and build your very first iOS App at our first iOS Hackerschool workshop!
+
+In three hours, we'll cover: 
+<br />
+- Learning the essentials of Swift, Apple's new programming language
+<br />
+- Building a simple iOS App with UI tied to backend logic using Model-View-Controller pattern
+
+<br />
+<br />
+Note: Having some programming experience (any language!) would be helpful if you're planning to attend this workshop. 
+You are required to bring along a laptop running OS X 10.11 (El Capitan) so that you will be able to take part in 
+this workshop interactively.
+  <br />
+    <a href='http://goo.gl/forms/eZNbJRbv1w'>Sign up here &rarr;</a>"
+  materials: "</strong><a class='calltoaction' href='/materials/swiftworkshop2016'>Materials
+    here.</a>"
+  image: "/static/img/swift.png"
 - title: Introduction to React.js
   datetime: Saturday, 27 February 2016, 1:00pm - 4:00pm
   location: "Seminar Room 3, Town Plaza (Level 2), University Town, National University of Singapore"
