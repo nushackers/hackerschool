@@ -1,3 +1,11 @@
+- title: Introduction to JavaScript & Web Apps
+  datetime: Saturday, 17 September 2016, 1:00pm - 4:00pm
+  location: "Seminar Room 1-4, Town Plaza (Level 2), University Town, National University of Singapore"
+  audience: "Beginners from any faculty or the public, no prior knowledge assumed"
+  description: "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application. <br />"
+  image: "/static/img/javascript.png"
+  materials: "</strong><a class='calltoaction' href='https://www.dropbox.com/sh/3vn3i2bca9uujc8/AACteXcMJ-DF-48cSxcsbKmNa?dl=0'>Materials here.</a>"
+
 - title: Introduction to HTML/CSS
   datetime: Saturday, 10 September 2016, 1:00pm - 4:00pm
   location: "i3 Auditorium, National University of Singapore"
@@ -5,7 +13,7 @@
   description: "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://goo.gl/forms/Q9oqPUzxUXHRxTxG3'>Sign up here &rarr;</a>"
   materials: "</strong><a class='calltoaction' href='http://www.bit.ly/2c0B4r1'>Materials here.</a>"
   image: "/static/img/html5.png"
-  
+
 - title: Introduction to Swift & iOS
   datetime: Saturday, 5 March 2016, 1:00pm - 4:00pm
   location: "Seminar Room 3, Town Plaza (Level 2), University Town, National University of Singapore"
