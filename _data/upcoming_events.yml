@@ -1,6 +1,6 @@
-- title: Web Development with Ruby on Rails
-  datetime: Saturday 8th, October, 1:00pm - 4:00pm
-  location: "Seminar Room 1-4, Town Plaza (Level 2), University Town, National University of Singapore"
+- title: Introduction to Swift
+  datetime: Saturday 22nd, October, 1:00pm - 4:00pm
+  location: "Seminar Room 2, COM1, National University of Singapore"
   audience: "Beginners from any faculty or the public"
-  description: "The workshop covers the basics of the Ruby language, but expects that you have got the fundamentals of programming languages so that we can cover more ground. In addition, we will cover how Rails builds web applications using the MVC (model view controller) paradigm, with hands-on exercises to venture deeper into each layer of a web application. <a href='https://goo.gl/forms/9LjDJWBenbCH9rHh1'>Sign up here &rarr;</a>"
-  image: "/static/img/rails.png"
+  description: "The workshop covers the basics of programming in Swift through the use of Swift Playgrounds on iPad. This workshop is catering for people who do not have any experience in programming. If you have prior experience in programming in any language, this workshop is not for you. <a href='https://ti.to/nus-hackers/hackerschool-swift-workshop'>Sign up here &rarr;</a>"
+  image: "/static/img/swift.png"
