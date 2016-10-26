@@ -1,3 +1,10 @@
+- title: Introduction to programming, in Swift Playgrounds
+  datetime: Saturday 22nd, October, 1:00pm - 4:00pm
+  location: "Seminar Room 2, COM1, National University of Singapore"
+  audience: "Beginners from any faculty or the public"
+  description: "The workshop covers the basics of programming in Swift through the use of Swift Playgrounds on iPad. This workshop is catering for people who do not have any experience in programming. If you have prior experience in programming in any language, this workshop is not for you. <a href='https://ti.to/nus-hackers/hackerschool-swift-workshop'>Sign up here &rarr;</a>"
+  image: "/static/img/swift.png"
+
 - title: Introduction to JavaScript & Web Apps
   datetime: Saturday, 17 September 2016, 1:00pm - 4:00pm
   location: "Seminar Room 1-4, Town Plaza (Level 2), University Town, National University of Singapore"
