@@ -1,13 +1,3 @@
-- title: Javascript & Interactive Web Apps
-  datetime: Saturday, 11 February 2017, 1:00pm - 4:00pm
-  location: Seminar Room 1, School of Computing COM1, National University of Singapore
-  audience: "Beginners from any faculty or the public, no prior knowledge assumed."
-  description: "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application.
-  <br />
-  <a href='https://goo.gl/forms/6cLj0HcRr3oLjCnB2'>Sign up here &rarr;</a>"
-  image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='https://drive.google.com/drive/folders/0B2ECug5uecmfUUdGMjFuQ1N2Rkk?usp=sharing'>Materials here.</a>"
-
 - title: Crash Course on Electronics
   datetime: Saturday, 18 February 2017, 1:00pm - 4:00pm
   location: Seminar Room 3, School of Computing COM1, National University of Singapore
@@ -16,3 +6,22 @@
   <br />
   <a href='https://goo.gl/forms/vrRZn1a7fMkAEBcB3'>Sign up here &rarr;</a>"
   image: "/static/img/electronics.png"
+
+- title: Web Development with Express
+  datetime: Saturday, 11 March 2017, 1:00pm - 4:00pm
+  location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
+  audience: Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript
+    is a plus, but is not required.
+  description: Express is a small but powerful micro-framework for creating web applications
+    in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the
+    process, learn about the common MVC web application pattern. We'll also cover
+    the basic ideas necessary for building web applications (whether in Express or
+    otherwise). <strong>Registration opens on 4 March.</strong>
+  image: "/static/img/express.png"
+
+- title: Mystery Workshop (to be revealed)
+  datetime: Saturday, 18 March 2017, 1:00pm - 4:00pm
+  location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: <strong>Registration opens on 11 March.</strong>
+  image: "/static/img/mystery.jpg"
