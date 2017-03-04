@@ -12,9 +12,12 @@
     <a href='https://goo.gl/forms/zewZIo6oBCDvzVkH3'>Sign up here &rarr;</a>
   image: "/static/img/express.png"
 
-- title: Mystery Workshop (to be revealed)
+- title: "BOT1001: Introduction to Bots"
   datetime: Saturday, 18 March 2017, 1:00pm - 4:00pm
   location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
-  audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: <strong>Registration opens on 11 March.</strong>
-  image: "/static/img/mystery.jpg"
+  audience: Basic knowledge of JavaScript and Node required. Open to the public.
+  description: Chat bots are the next generation of the web. Learn how to make one to speak
+    for you.
+    <br />
+    <a href='https://goo.gl/forms/wVUd5Hw7GkvjBALq1'>Sign up here &rarr;</a>
+  image: "/static/img/bot1001.png"
