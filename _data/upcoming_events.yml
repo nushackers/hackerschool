@@ -1,17 +1,3 @@
-- title: Web Development with Express
-  datetime: Saturday, 11 March 2017, 1:00pm - 4:00pm
-  location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
-  audience: Familiarity with HTML/CSS and programming is expected. Knowledge of JavaScript
-    is a plus, but is not required.
-  description: Express is a small but powerful micro-framework for creating web applications
-    in Node.js. In this workshop, we'll take a whirlwind tour of Express and, in the
-    process, learn about the common MVC web application pattern. We'll also cover
-    the basic ideas necessary for building web applications (whether in Express or
-    otherwise).
-    <br />
-    <a href='https://goo.gl/forms/zewZIo6oBCDvzVkH3'>Sign up here &rarr;</a>
-  image: "/static/img/express.png"
-
 - title: "BOT1001: Introduction to Bots"
   datetime: Saturday, 18 March 2017, 1:00pm - 4:00pm
   location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
