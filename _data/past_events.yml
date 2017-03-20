@@ -1,3 +1,14 @@
+- title: "BOT1001: Introduction to Bots"
+  datetime: Saturday, 18 March 2017, 1:00pm - 4:00pm
+  location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
+  audience: Basic knowledge of JavaScript and Node required. Open to the public.
+  description: Chat bots are the next generation of the web. Learn how to make one to speak
+    for you.
+    <br />
+    <a href='https://goo.gl/forms/wVUd5Hw7GkvjBALq1'>Sign up here &rarr;</a>
+  materials: "</strong><a class='calltoaction' href='https://li-kai.github.io/lightning-talks/#/'>Materials here.</a>"
+  image: "/static/img/bot1001.png"
+
 - title: Web Development with Express
   datetime: Saturday, 11 March 2017, 1:00pm - 4:00pm
   location: COM1 02-04 Seminar Room 2, School of Computing, National University of Singapore
@@ -10,6 +21,7 @@
     otherwise).
     <br />
     <a href='https://goo.gl/forms/zewZIo6oBCDvzVkH3'>Sign up here &rarr;</a>
+  materials: "</strong><a class='calltoaction' href='https://www.dropbox.com/s/rjsaht10nuvd11b/express-workshop.zip?dl=1'>Materials here.</a>"
   image: "/static/img/express.png"
 
 - title: Crash Course on Electronics
@@ -19,6 +31,7 @@
   description: "If you ever wanted to find out what goes on behind the scenes in your smartphone, or how to automate simple tasks with electronics, this workshop will be perfect for you. You will acquire a high-level understanding of the basics of electronics, as well as get a hands-on experience with creating and programming an electronic toy.
   <br />
   <a href='https://goo.gl/forms/vrRZn1a7fMkAEBcB3'>Sign up here &rarr;</a>"
+  materials: "</strong><a class='calltoaction' href='http://nushackers.us15.list-manage2.com/track/click?u=b335cf9c8492faaf51a8be58a&id=61eb4e6c32&e=00aedf2084'>Materials here.</a>"
   image: "/static/img/electronics.png"
 
 - title: Javascript & Interactive Web Apps
