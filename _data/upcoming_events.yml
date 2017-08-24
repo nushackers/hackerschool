@@ -1,6 +1,8 @@
-- title: "Next Workshop: Coming soon in August."
-  datetime: 
-  location: 
-  audience: 
-  description: 
-  image: "/static/img/mystery.jpg"
+- title: "Introduction to HTML & CSS"
+  datetime: Saturday, 2nd September 2017, 1:00pm - 4:00pm
+  location: COM1 02-06 Seminar Room 1, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: A basic introduction to web development. You will learn HTML, CSS, Bootstrap and 
+    how to create a simple website. <br/>
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLScpk2diB8mc0maxv_QX9TS5Zk1AyziZA1V63MJRIk2GjiSlNQ/viewform'>Sign up here</a> 
+  image: "/static/img/html_css.jpg"
