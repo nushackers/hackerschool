@@ -1,3 +1,15 @@
+- title: "How to Git Gud (Introduction to Git)"
+  datetime: Saturday, 9th September 2017, 1:00pm - 4:00pm
+  location: COM1 02-12 Seminar Room 3, School of Computing, National University of Singapore
+  audience: Programming background preferred
+  description: Ever used Dropbox to store your code because it makes backups?
+    Made multiple copies of your assignment\'s folder just to try different
+    things? Worked on group projects by coding in Google Docs? Git is the tool for
+    you, it\'ll change the way you code for the better. We will also cover more
+    advanced features of git such as rebasing, cherry picking and bisecting. The
+    workshop is completely free. Anyone from any faculty is welcome! <br \>
+      <a href='https://docs.google.com/forms/d/e/1FAIpQLSdN-MVkbjoJDMc2K5TjP95SHdym-pSmBRwZ9buCU4QNExVvcA/viewform'>Sign up here</a> 
+  image: "/static/img/git.png"
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 2nd September 2017, 1:00pm - 4:00pm
   location: COM1 02-06 Seminar Room 1, School of Computing, National University of Singapore
