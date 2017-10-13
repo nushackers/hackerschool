@@ -5,6 +5,8 @@
   description: Devops doesn't have to be hard. Learn Docker, and find out why this big blue whale has taken the world by storm! In this workshop, you'll learn when, and how to use Docker effectively. This hands-on workshop will also guide you through deploying a simple web application. The workshop is completely free. Anyone from any faculty is welcome! 
       <a href='https://goo.gl/forms/eDvPOZhMaLPL8aok2'>Sign up here</a> 
   image: "/static/img/docker.png"
+  materials: "</strong><a class='calltoaction'
+href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
 - title: Introduction to TensorFlow
   datetime: Saturday, 21th October 2017, 1:00pm - 4:00pm
   location: SR3, Town Plaza (Level 2), University Town, NUS 
