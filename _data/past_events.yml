@@ -1,3 +1,22 @@
+- title: Introduction to TensorFlow
+  datetime: Saturday, 21th October 2017, 1:00pm - 4:00pm
+  location: SR3, Town Plaza (Level 2), University Town, NUS 
+  audience: Experience with Python is highly recommended
+  description: The workshop will provide an excellent opportunity to learn the fundamentals of deep learning with TensorFlow. TensorFlow is an open source Python module that makes machine and deep learning fun and efficient. In this workshop, we will first introduce what Tensors are and TensorFlow basics. We will then build some simple examples to understand how feature extraction works. After which we will cover deep learning with TensorFlow. There will be plenty of hands-on activities. 
+      <a href='https://goo.gl/forms/nOzJYoZRPBatOsnR2'>Sign up here</a> 
+  image: "/static/img/tensorflow.png"
+  materials: "</strong><a class='calltoaction'
+href='https://raynoldng.github.io/slides.html'>Slides here</a>, </strong><a class='calltoaction'
+href='https://github.com/raynoldng/hackerschool-tensorflow'>Materials here</a>"
+- title: Introduction to Docker
+  datetime: Saturday, 14th October 2017, 1:00pm - 4:00pm
+  location: SR3, Town Plaza (Level 2), University Town, NUS 
+  audience: No prior knowledge needed
+  description: Devops doesn't have to be hard. Learn Docker, and find out why this big blue whale has taken the world by storm! In this workshop, you'll learn when, and how to use Docker effectively. This hands-on workshop will also guide you through deploying a simple web application. The workshop is completely free. Anyone from any faculty is welcome! 
+      <a href='https://goo.gl/forms/eDvPOZhMaLPL8aok2'>Sign up here</a> 
+  image: "/static/img/docker.png"
+  materials: "</strong><a class='calltoaction'
+href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
 - title: "How to Git Gud (Introduction to Git)"
   datetime: Saturday, 16th September 2017, 1:00pm - 4:00pm
   location: COM1 02-12 Seminar Room 3, School of Computing, National University of Singapore
