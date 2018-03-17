@@ -1,3 +1,13 @@
+- title: "Introduction to HTML & CSS"
+  datetime: Saturday, 24th February 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: A basic introduction to web development. You will learn HTML, CSS and 
+    how to create a simple website. <br/>
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjMUsz6jexKRndZnDdVTUD8gpSe5eWaEWAF7BZc53VwArYlg/viewform'>Sign up here</a> 
+  image: "/static/img/html_css.jpg"
+  materials: "</strong><a class='calltoaction'
+href='https://nushackers.github.io/html-css'>Slides here.</a>"
 - title: Introduction to TensorFlow
   datetime: Saturday, 21th October 2017, 1:00pm - 4:00pm
   location: SR3, Town Plaza (Level 2), University Town, NUS 
