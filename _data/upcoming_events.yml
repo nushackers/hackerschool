@@ -1,8 +1,8 @@
-- title: "Introduction to JavaScript & Web Applications"
-  datetime: Saturday, 24th March 2018, 1:00pm - 4:00pm
+- title: "Introduction to Machine Learning Part 1"
+  datetime: Saturday, 31st March 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: This is a basic introduction to web development. You will learn JavaScript basics and 
-    how to create a simple web application. <br/>
-    <a href='http://bit.ly/2G2ZvSO'>Sign up here</a>, <a href='https://drive.google.com/drive/folders/1gaiBcnkGRwZ3w3z1j8H_CZqpV6iPcQmz?usp=sharing'>Materials here</a>
-  image: "/static/img/javascript.png"
+  description: This is a basic introduction to machine learning. You will learn what machine learning 
+    is about and how to train competitive models.<br/>
+    <a href='https://bit.ly/2G0asWc'>Sign up here</a> 
+  image: "/static/img/scikitlearn.png"
