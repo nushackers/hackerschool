@@ -1,8 +1,10 @@
-- title: "Introduction to Machine Learning Part 1"
-  datetime: Saturday, 31st March 2018, 1:00pm - 4:00pm
+- title: "Introduction to Machine Learning Part 2"
+  datetime: Saturday, 7th April 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
-  audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: This is a basic introduction to machine learning. You will learn what machine learning 
-    is about and how to train competitive models.<br/>
-    <a href='https://bit.ly/2G0asWc'>Sign up here</a> 
-  image: "/static/img/scikitlearn.png"
+  audience: Beginners from any faculty or the public, minimal experience in Python.
+  description: This workshop will present modern neural network based
+    techniques that are used in supervised learning. You will learn how
+    to build and train your own neural networks using Tensorflow and
+    Keras. <br/>
+    <a href='https://goo.gl/forms/NmU2m7ulifycq9Sn1'>Sign up here</a> 
+  image: "/static/img/tensorflow.png"
