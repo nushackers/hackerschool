@@ -1,3 +1,10 @@
+- title: "Introduction to Machine Learning Part 1"
+  datetime: Saturday, 31st March 2018, 1:00pm - 4:00pm
+  location: LT19, COM2, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: This is a basic introduction to machine learning. You will learn what machine learning 
+    is about and how to train competitive models.<br/>
+  image: "/static/img/scikitlearn.png"
 - title: "Introduction to JavaScript & Web Applications"
   datetime: Saturday, 24th March 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
@@ -483,11 +490,3 @@ this workshop interactively.
   image: "/static/img/html5.png"
   materials: "</strong><a class='calltoaction' href='/materials/html5workshop2012'>Materials
     here.</a>"
-- title: "Introduction to Machine Learning Part 1"
-  datetime: Saturday, 31st March 2018, 1:00pm - 4:00pm
-  location: LT19, COM2, School of Computing, National University of Singapore
-  audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: This is a basic introduction to machine learning. You will learn what machine learning 
-    is about and how to train competitive models.<br/>
-    <a href='https://bit.ly/2G0asWc'>Sign up here</a> 
-  image: "/static/img/scikitlearn.png"
