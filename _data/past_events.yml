@@ -1,3 +1,18 @@
+- title: "Introduction to Machine Learning Part 2"
+  datetime: Saturday, 7th April 2018, 1:00pm - 4:00pm
+  location: LT19, COM2, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, minimal experience in Python.
+  description: This workshop will present modern neural network based
+    techniques that are used in supervised learning. You will learn how
+    to build and train your own neural networks using Tensorflow and
+    Keras. <br/>
+    <a href='https://goo.gl/forms/NmU2m7ulifycq9Sn1'>Sign up here</a>
+  materials: "</strong><a class='calltoaction'
+  href='https://docs.google.com/presentation/d/1DA4O6NoM1BN2EaGKfWX3A0sHWLcGHLeMM09btjTNbeA/edit?usp=sharing'>Slides
+  here.</a> <a class='calltoaction'
+  href='https://drive.google.com/open?id=1LwyvJ8cXLILss9_oUpE6q3YKvUAK_0wN'>Notebook
+  here.</a>"
+  image: "/static/img/tensorflow.png"
 - title: "Introduction to Machine Learning Part 1"
   datetime: Saturday, 31st March 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
@@ -10,8 +25,7 @@
   location: LT19, COM2, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
   description: This is a basic introduction to web development. You will learn JavaScript basics and 
-    how to create a simple web application. <br/>
-    <a href='http://bit.ly/2G2ZvSO'>Sign up here</a>
+    how to create a simple web application.
   image: "/static/img/javascript.png"
   materials: "</strong><a class='calltoaction'
 href='https://drive.google.com/drive/folders/1gaiBcnkGRwZ3w3z1j8H_CZqpV6iPcQmz?usp=sharing'>Materials here.</a>"
@@ -20,8 +34,7 @@ href='https://drive.google.com/drive/folders/1gaiBcnkGRwZ3w3z1j8H_CZqpV6iPcQmz?u
   location: LT15, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
   description: A basic introduction to web development. You will learn HTML, CSS and 
-    how to create a simple website. <br/>
-    <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjMUsz6jexKRndZnDdVTUD8gpSe5eWaEWAF7BZc53VwArYlg/viewform'>Sign up here</a> 
+    how to create a simple website.
   image: "/static/img/html_css.jpg"
   materials: "</strong><a class='calltoaction'
 href='https://nushackers.github.io/html-css'>Slides here.</a>"
