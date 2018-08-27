@@ -1,0 +1,8 @@
+- title: "Introduction to HTML & CSS"
+  datetime: Saturday, 1st September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: A basic introduction to web development. You will learn HTML, CSS and 
+    how to create a simple website.
+    <a href='https://bit.ly/hs201801'>Sign up here</a> 
+  image: "/static/img/html_css.jpg"
