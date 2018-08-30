@@ -6,3 +6,15 @@
     how to create a simple website.
     <a href='https://bit.ly/hs201801'>Sign up here</a> 
   image: "/static/img/html_css.jpg"
+- title: "Introduction to Git"
+  datetime: Saturday, 8th September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: Ever used Dropbox to store your code because it makes backups?
+    Made multiple copies of your assignment's folder just to try different
+    things? Worked on group projects by coding in Google Docs? Git is the tool for
+    you, it'll change the way you code for the better. We will also cover more
+    advanced features of git such as rebasing, cherry picking and bisecting. The
+    workshop is completely free. Anyone from any faculty is welcome!
+    <a href='https://bit.ly/hs201802'>Sign up here</a> 
+  image: "/static/img/git.png"
