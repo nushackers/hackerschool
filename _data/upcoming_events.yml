@@ -18,3 +18,14 @@
     workshop is completely free. Anyone from any faculty is welcome!
     <a href='https://bit.ly/hs201802'>Sign up here</a> 
   image: "/static/img/git.png"
+- title: "Introduction to Javascript"
+  datetime: Saturday, 15th September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: Web browsers are everywhere, and so is JavaScript, a dynamic 
+    programming language that browsers implement. We will be covering the basics 
+    of JavaScript and how to use it to control and add complex behaviour to web pages. 
+    In the process, we'll go through the development of an interactive web application.
+    Remember to bring your own laptops!
+    <a href='https://bit.ly/hs201803'>Sign up here</a> 
+  image: "/static/img/javascript.png"
