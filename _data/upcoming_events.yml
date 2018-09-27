@@ -40,3 +40,11 @@
     the inner workings of the language. Remember to bring your own laptops! 
     <a href='https://bit.ly/hs201804'>Sign up here</a> 
   image: "/static/img/javascript.png"
+- title: "Introduction to React and Redux"
+  datetime: Saturday, 6th October 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Participants who are familiar with JavaScript.
+  description: React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely 
+    changes the way front end engineering is done. We'll learn why it's special and how to get started with it.
+    <a href='https://bit.ly/hs2018react'>Sign up here</a> 
+  image: "/static/img/react.png"
