@@ -1,3 +1,53 @@
+- title: "Introduction to HTML & CSS"
+  datetime: Saturday, 1st September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: A basic introduction to web development. You will learn HTML, CSS and 
+    how to create a simple website.
+    <a href='https://bit.ly/hs201801'>Sign up here</a> 
+  image: "/static/img/html_css.jpg"
+- title: "Introduction to Git"
+  datetime: Saturday, 8th September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: Ever used Dropbox to store your code because it makes backups?
+    Made multiple copies of your assignment's folder just to try different
+    things? Worked on group projects by coding in Google Docs? Git is the tool for
+    you, it'll change the way you code for the better. We will also cover more
+    advanced features of git such as rebasing, cherry picking and bisecting. The
+    workshop is completely free. Anyone from any faculty is welcome!
+    <a href='https://bit.ly/hs201802'>Sign up here</a> 
+  image: "/static/img/git.png"
+- title: "Introduction to Javascript"
+  datetime: Saturday, 15th September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: Web browsers are everywhere, and so is JavaScript, a dynamic 
+    programming language that browsers implement. We will be covering the basics 
+    of JavaScript and how to use it to control and add complex behaviour to web pages. 
+    In the process, we'll go through the development of an interactive web application.
+    Remember to bring your own laptops!
+    <a href='https://bit.ly/hs201803'>Sign up here</a> 
+  image: "/static/img/javascript.png"
+- title: "Advanced Javascript"
+  datetime: Saturday, 22nd September 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Participants who have some programming experience or attended "Intro to Javascript".
+  description: Web browsers are everywhere, and so is JavaScript, a dynamic programming language 
+    that browsers implement. We will be covering the advanced features of JavaScript such as arrow 
+    functions, immutability, and callbacks. This session serves as a foundation for our subsequent 
+    Hackerschool on ReactJS. In the process, we'll go through the modern syntax, tools, as well as 
+    the inner workings of the language. Remember to bring your own laptops! 
+    <a href='https://bit.ly/hs201804'>Sign up here</a> 
+  image: "/static/img/javascript.png"
+- title: "Introduction to React and Redux"
+  datetime: Saturday, 6th October 2018, 1:00pm - 4:00pm
+  location: LT15, School of Computing, National University of Singapore
+  audience: Participants who are familiar with JavaScript.
+  description: React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely 
+    changes the way front end engineering is done. We'll learn why it's special and how to get started with it.
+    <a href='https://bit.ly/hs2018react'>Sign up here</a> 
+  image: "/static/img/react.png"
 - title: "Introduction to Machine Learning Part 2"
   datetime: Saturday, 7th April 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
