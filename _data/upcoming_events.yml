@@ -1,11 +1,12 @@
-- title: "Introduction to HTML & CSS"
-  datetime: Saturday, 16th February 2019, 1:00pm - 4:00pm
+- title: "Introduction to JavaScript"
+  datetime: Saturday, 23rd February 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: Learn the fundamentals of building a website! 
-    No prior programming experience required. 
-    Bring your own laptop. 
-    Please charge fully before coming as power points are limited.
-    <a href='http://bit.ly/hs201901'>Sign up here</a> 
-  image: "/static/img/html_css.jpg"
-  materials: "</strong><a class='calltoaction' href='https://drive.google.com/drive/folders/1Bx7ZBDRFrW8byN_pU9OFaVVU0UZi7Mtc'>Materials here.</a>"
+  description: Web browsers are everywhere, and so is Javascript, 
+    a dynamic programming language that browsers implement. We will 
+    be covering the basics of Javascript and how to use it to control 
+    and add complex behaviour to web pages. 
+    In the process, we'll go through the development of an interactive 
+    web application. Remember to bring your own laptops!
+    <a href='http://bit.ly/hs201902' target="_blank">Sign up here</a> 
+  image: "static/img/javascript.png"
