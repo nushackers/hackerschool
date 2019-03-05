@@ -1,3 +1,15 @@
+- title: "Introduction to JavaScript"
+  datetime: Saturday, 23rd February 2019, 1:00pm - 4:00pm
+  location: LT15, School of Computing/AS6, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: Web browsers are everywhere, and so is Javascript, 
+    a dynamic programming language that browsers implement. We will 
+    be covering the basics of Javascript and how to use it to control 
+    and add complex behaviour to web pages. 
+    In the process, we'll go through the development of an interactive 
+    web application. Remember to bring your own laptops!
+    <a href='http://bit.ly/hs201902' target="_blank">Sign up here</a> 
+  image: "static/img/javascript.png"
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 16th February 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
