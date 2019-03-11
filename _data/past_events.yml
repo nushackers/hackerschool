@@ -1,3 +1,12 @@
+- title: "Advanced JavaScript + Node.JS"
+  datetime: Saturday, 9th March 2019, 1:00pm - 4:00pm
+  location: LT15, School of Computing/AS6, National University of Singapore
+  audience: Open to public, no prior knowledge assumed but having basic understanding of JavaScript is better.
+  description: We hope you enjoyed our last session on Introduction to JavaScript. 
+    This week, we will be covering advanced JavaScript topics and we will also 
+    learn how JavaScript can be written on the server!
+    <a href='http://bit.ly/hs201903' target="_blank">Sign up here</a> 
+  image: "static/img/node.png"
 - title: "Introduction to JavaScript"
   datetime: Saturday, 23rd February 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
