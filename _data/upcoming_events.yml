@@ -1,11 +1,1 @@
-- title: "React.js"
-  datetime: Saturday, 16th March 2019, 1:00pm - 4:00pm
-  location: LT15, School of Computing/AS6, National University of Singapore
-  audience: This workshop is open to the public. Basic Experience with JavaScript is recommended.
-  description: React.js is a User Interface JavaScript library from 
-    Facebook/Instagram, and it completely changes the way 
-    frontend engineering is done. We'll learn why it's special 
-    and how to get started with it.
-    <a href='http://bit.ly/hs201904' target="_blank">Sign up here</a> 
-  image: "static/img/react.png"
-  materials: "</strong><a class='calltoaction' href='https://www.dropbox.com/sh/6lg8fewj2mv53hp/AAAwX-br-EPc6q1TWZ4lZEKga?dl=0' target='_blank'>Materials here.</a>"
+
