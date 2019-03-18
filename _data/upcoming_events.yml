@@ -1,1 +1,14 @@
-
+- title: "Hacker Tools: Part 1"
+  datetime: Saturday, 23rd March 2019, 1:00pm - 4:00pm
+  location: LT15, School of Computing/AS6, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: As "hackers", we spend a lot of time on our computers, 
+    so it makes sense to make that experience as fluid and frictionless 
+    as possible. In this workshop, we'll help you learn how to make the 
+    most of tools that productive programmers use, specifically how to 
+    navigate the Unix command line. Please come prepared with your 
+    preferred Unix-like environment installed. If you don't 
+    currently have one installed, we recommend you install Ubuntu 
+    using VirtualBox.
+    <a href='http://bit.ly/hs201905' target="_blank">Sign up here</a> 
+  image: "static/img/hks8.jpg"
