@@ -13,6 +13,7 @@
     <a href="https://is.gd/hs2019_hackertools_1_material" target="_blank">Download the materials here</a><br>
     <a href='http://bit.ly/hs201905' target="_blank">Sign up here</a>
   image: "static/img/linux_soldier.jpg"
+  materials: "</strong><a class='calltoaction' href='https://is.gd/hs2019_hackertools_1_material' target='_blank'>Materials here.</a>"
 
 - title: "React.js"
   datetime: Saturday, 16th March 2019, 1:00pm - 4:00pm
