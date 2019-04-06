@@ -1,3 +1,21 @@
+- title: "Hacker Tools: Part 2"
+  datetime: Saturday, 30th March 2019, 1:00pm - 4:00pm
+  location: LT15, School of Computing/AS6, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: 
+    This workshop was inspired by <a href='https://hacker-tools.github.io/' target="_blank">hacker-tools</a>.
+    As hackers, we spend a lot of time on our computers, so it makes sense to make that experience as fluid and frictionless as possible. 
+    <br>We continue from last week by first discussing some small topics including improving your web browsing experience, the security and privacy of your digital life, and working and accessing computers remotely when away or on-the-go across Windows and Unix. 
+    <br>Next, we explore how to look at what is happening on a system or in an application, so you can diagnose and fix a broken system or application, including some networking issues. 
+    <br>Finally, we touch briefly on Linux containers and how it can be useful when developing programs.
+    <br>Please come prepared with a Linux environment installed (macOS or Windows Subsystem for Linux is NOT sufficient!). If you do not currently have one, we recommend installing Ubuntu in VirtualBox. Applications from the following Ubuntu packages will be used 
+    <b>openssh-client mosh sshfs freerdp2-x11 gdb strace ltrace time linux-tools-common linux-tools-generic htop dstat iproute2 dnsutils traceroute tracepath</b>
+    <br><a href='http://bit.ly/hs201906' target="_blank">Sign up here</a>
+  image: "static/img/linux.png"
+  materials: >
+    </strong><a class='calltoaction' href='https://nushackers.github.io/p-hackertools2/' target='_blank'>Materials here</a><br>
+    </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=FXM6e4fYgHs' target='_blank'>Video Recording here</a>
+
 - title: "Hacker Tools: Part 1"
   datetime: Saturday, 23rd March 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
@@ -13,7 +31,9 @@
     <a href="https://is.gd/hs2019_hackertools_1_material" target="_blank">Download the materials here</a><br>
     <a href='http://bit.ly/hs201905' target="_blank">Sign up here</a>
   image: "static/img/linux_soldier.jpg"
-  materials: "</strong><a class='calltoaction' href='https://is.gd/hs2019_hackertools_1_material' target='_blank'>Materials here.</a>"
+  materials: >
+    </strong><a class='calltoaction' href='https://is.gd/hs2019_hackertools_1_material' target='_blank'>Materials here.</a><br>
+    </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=mCbU82Ezdac' target='_blank'>Video Recording here</a>
 
 - title: "React.js"
   datetime: Saturday, 16th March 2019, 1:00pm - 4:00pm
