@@ -11,7 +11,7 @@
     <br>Please come prepared with a Linux environment installed (macOS or Windows Subsystem for Linux is NOT sufficient!). If you do not currently have one, we recommend installing Ubuntu in VirtualBox. Applications from the following Ubuntu packages will be used 
     <b>openssh-client mosh sshfs freerdp2-x11 gdb strace ltrace time linux-tools-common linux-tools-generic htop dstat iproute2 dnsutils traceroute tracepath</b>
     <br><a href='http://bit.ly/hs201906' target="_blank">Sign up here</a>
-  image: "static/img/linux.png"
+  image: "/static/img/linux.png"
   materials: >
     </strong><a class='calltoaction' href='https://nushackers.github.io/p-hackertools2/' target='_blank'>Materials here</a><br>
     </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=FXM6e4fYgHs' target='_blank'>Video Recording here</a>
@@ -30,7 +30,7 @@
     using VirtualBox. (This workshop is inspired by <a href='https://hacker-tools.github.io/' target="_blank">hacker-tools class by SIPB at MIT</a>)<br>
     <a href="https://is.gd/hs2019_hackertools_1_material" target="_blank">Download the materials here</a><br>
     <a href='http://bit.ly/hs201905' target="_blank">Sign up here</a>
-  image: "static/img/linux_soldier.jpg"
+  image: "/static/img/linux_soldier.jpg"
   materials: >
     </strong><a class='calltoaction' href='https://is.gd/hs2019_hackertools_1_material' target='_blank'>Materials here.</a><br>
     </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=mCbU82Ezdac' target='_blank'>Video Recording here</a>
@@ -44,7 +44,7 @@
     frontend engineering is done. We'll learn why it's special 
     and how to get started with it.
     <a href='http://bit.ly/hs201904' target="_blank">Sign up here</a> 
-  image: "static/img/react.png"
+  image: "/static/img/react.png"
   materials: "</strong><a class='calltoaction' href='https://www.dropbox.com/sh/6lg8fewj2mv53hp/AAAwX-br-EPc6q1TWZ4lZEKga?dl=0' target='_blank'>Materials here.</a><br></strong><a class='calltoaction' href=' https://codesandbox.io/s/n32lm45npl' target='_blank'>Completed project.</a>"
 
 - title: "Advanced JavaScript + Node.JS"
@@ -55,7 +55,7 @@
     This week, we will be covering advanced JavaScript topics and we will also 
     learn how JavaScript can be written on the server!
     <a href='http://bit.ly/hs201903' target="_blank">Sign up here</a> 
-  image: "static/img/node.png"
+  image: "/static/img/node.png"
   materials: "</strong><a class='calltoaction' href='http://bit.ly/hs-rscs' target='_blank'>Materials here.</a>"
 - title: "Introduction to JavaScript"
   datetime: Saturday, 23rd February 2019, 1:00pm - 4:00pm
@@ -68,7 +68,7 @@
     In the process, we'll go through the development of an interactive 
     web application. Remember to bring your own laptops!
     <a href='http://bit.ly/hs201902' target="_blank">Sign up here</a> 
-  image: "static/img/javascript.png"
+  image: "/static/img/javascript.png"
   materials: "</strong><a class='calltoaction' href='https://bit.ly/2TcPHwi' target='_blank'>Materials here.</a>"
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 16th February 2019, 1:00pm - 4:00pm

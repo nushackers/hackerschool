@@ -1,8 +1,8 @@
 - endpoint: about
   caption: about us
 - endpoint: schedule
-  caption: schedule
-- endpoint: materials
-  caption: materials
+  caption: workshops
 - endpoint: faq
   caption: faq
+- endpoint: contact
+  caption: contact us
