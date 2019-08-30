@@ -16,6 +16,6 @@
   location: LT15, AS6, Faculty of Arts and Social Sciences, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
   description: A basic introduction to web development. You will learn HTML, CSS and 
-    how to create a simple website. <strong>Signups open soon.</strong>
+    how to create a simple website. <strong><a class='calltoaction' href='https://bit.ly/hs-2019-html' target='_blank'>Sign up here</a></strong> 
   image: "/static/img/html_css.jpg"
 
