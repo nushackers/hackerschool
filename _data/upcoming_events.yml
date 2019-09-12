@@ -1,11 +1,3 @@
-- title: "Introduction to HTML & CSS"
-  datetime: Saturday, 7th September 2019, 1:00pm - 4:00pm
-  location: LT15, AS6, Faculty of Arts and Social Sciences, National University of Singapore
-  audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: A basic introduction to web development. You will learn HTML, CSS and 
-    how to create a simple website. <strong><a class='calltoaction' href='https://bit.ly/hs-2019-html' target='_blank'>Sign up here</a></strong> 
-  image: "/static/img/html_css.jpg"
-
 - title: "Web Development with Ruby on Rails"
   datetime: Saturday, 14th September 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
@@ -16,3 +8,14 @@
     constructs (such as the ones thought so far in CS1010/E/S/CS1101S) and HTML/CSS is preferred.
     <strong><a class='calltoaction' href='https://bit.ly/hs-2019-rails' target='_blank'>Sign up here</a></strong> 
   image: "/static/img/rails.png"
+
+- title: "Introduction to Powershell"
+  datetime: Saturday, 21st September 2019, 1:00pm - 4:00pm
+  location: SR3, COM1, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: PowerShell is Windows’s task automation scripting language and command-line shell. 
+    Ever bothered to write your own scripts to automate workflows in Windows? Come and learn how to do so!
+    Workshop is open to the public, and no prior programming experience is required. You're required to 
+    have a Windows machine, and remember to bring a fully charged laptop as power points are limited!
+    <strong><a class='calltoaction' href='https://bit.ly/hs-2019-powershell' target='_blank'>Sign up here</a></strong> 
+  image: "/static/img/powershell.png"
