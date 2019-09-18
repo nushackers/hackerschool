@@ -1,3 +1,16 @@
+- title: "Web Development with Ruby on Rails"
+  datetime: Saturday, 14th September 2019, 1:00pm - 4:00pm
+  location: SR1, COM1, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, familiarity with basic programming constructs assumed.
+  description: Ever wondered how to create powerful websites that can manipulate data, 
+    such as your own personal blog and content systems? Come and learn how to do so! 
+    Workshop is open to the public (not only NUS students). Familiarity with basic programming 
+    constructs (such as the ones thought so far in CS1010/E/S/CS1101S) and HTML/CSS is preferred.
+    <strong><a class='calltoaction' href='https://bit.ly/hs-2019-rails' target='_blank'>Sign up here</a></strong> 
+  image: "/static/img/rails.png"
+  materials: >
+    </strong><a class='calltoaction' href='https://github.com/donjar/book-shop/blob/master/tutorial/hackerschool.md' target='_blank'>Materials here</a><br>
+
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 7th September 2019, 1:00pm - 4:00pm
   location: LT15, AS6, Faculty of Arts and Social Sciences, National University of Singapore
