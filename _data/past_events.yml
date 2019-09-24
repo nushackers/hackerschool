@@ -1,3 +1,15 @@
+- title: "Introduction to Powershell"
+  datetime: Saturday, 21st September 2019, 1:00pm - 4:00pm
+  location: SR3, COM1, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior knowledge assumed.
+  description: PowerShell is Windows’s task automation scripting language and command-line shell. 
+    Ever bothered to write your own scripts to automate workflows in Windows? Come and learn how to do so!
+    Workshop is open to the public, and no prior programming experience is required. You're required to 
+    have a Windows machine, and remember to bring a fully charged laptop as power points are limited!
+  image: "/static/img/powershell.png"
+  materials: >
+    </strong><a class='calltoaction' href='https://youtu.be/a4dNE1jyKEk' target='_blank'>Recording here</a><br>
+
 - title: "Web Development with Ruby on Rails"
   datetime: Saturday, 14th September 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
@@ -20,6 +32,7 @@
   image: "/static/img/html_css.jpg"
   materials: >
     </strong><a class='calltoaction' href='https://drive.google.com/open?id=1Q6QNI4PRmTkYmrzD_3OF3BVh6QrbCKQH' target='_blank'>Slides here</a><br>
+    </strong><a class='calltoaction' href='https://youtu.be/6Yst6i-mG_8' target='_blank'>Recording here</a><br>
 
 - title: "Introduction to Git and Github"
   datetime: Saturday, 31st August 2019, 1:00pm - 4:00pm
