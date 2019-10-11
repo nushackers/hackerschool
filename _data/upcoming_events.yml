@@ -9,3 +9,16 @@
   image: "/static/img/bayes_network.png"
   materials: >
     </strong><a class='calltoaction' href='https://bit.ly/hs-2019-ml' target='_blank'>Sign up here</a><br>
+
+- title: "Introduction to Augmented and Virtual Reality"
+  datetime: Saturday, 19th October 2019, 1:00pm - 4:00pm
+  location: SR1, COM1, School of Computing, National University of Singapore
+  audience: Beginners from any faculty or the public, no prior programming experience required.
+  description: Augmented Reality (AR) and Virtual Reality (VR) technology has begun to make waves in consumer 
+    markets with the launch of affordable head-mounted displays. Learn about the technology behind augmented 
+    reality powered games such as augmented reality and see for yourself how you could enhance your projects with 
+    another dimension of visualization and interaction. We'll be using the Unity game engine to develop create some 
+    simple augmented reality experiences on your mobile phones.
+  image: "/static/img/ar-vr.png"
+  materials: >
+    </strong><a class='calltoaction' href='https://bit.ly/hs-2019-ar-vr' target='_blank'>Sign up here</a><br>
