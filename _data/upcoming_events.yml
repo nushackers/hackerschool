@@ -1,15 +1,3 @@
-- title: "Introduction to Machine Learning"
-  datetime: Saturday, 12th October 2019, 1:00pm - 4:00pm
-  location: SR1, COM1, School of Computing, National University of Singapore
-  audience: Beginners from any faculty or the public, basic Python knowledge required.
-  description: Machine Learning is gaining increased traction in the technology scene. 
-    This workshop will introduce you to a powerful yet simple classification model, based 
-    on the well-known Bayes’ Theorem, which is extensively used in text classification like 
-    detecting spam email.
-  image: "/static/img/bayes_network.png"
-  materials: >
-    </strong><a class='calltoaction' href='https://bit.ly/hs-2019-ml' target='_blank'>Sign up here</a><br>
-
 - title: "Introduction to Augmented and Virtual Reality"
   datetime: Saturday, 19th October 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
