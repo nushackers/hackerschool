@@ -1,12 +1,14 @@
-- title: "Introduction to Augmented and Virtual Reality"
-  datetime: Saturday, 19th October 2019, 1:00pm - 4:00pm
+- title: "Developing Telegram Bots using Python"
+  datetime: Saturday, 2nd November 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
-  audience: Beginners from any faculty or the public, no prior programming experience required.
-  description: Augmented Reality (AR) and Virtual Reality (VR) technology has begun to make waves in consumer 
-    markets with the launch of affordable head-mounted displays. Learn about the technology behind augmented 
-    reality powered games such as augmented reality and see for yourself how you could enhance your projects with 
-    another dimension of visualization and interaction. We'll be using the Unity game engine to develop create some 
-    simple augmented reality experiences on your mobile phones.
-  image: "/static/img/ar-vr.png"
+  audience: Beginners from any faculty or the public, basic Python knowledge preferred.
+  description: Telegram bots are small programs that can embed in Telegram chats or public channels and perform a specific function. 
+    They can be quite powerful and do a variety of things, from sending you email notifications to marking attendance during tutorials. 
+    Join this workshop to learn how to make your own Telegram bots - by the end of the workshop, you would have deployed a bot using 
+    Python which performs simple functions like sending jokes and telling you the weather! 
+
+    Workshop is free and open to the public, and basic Python knowledge is preferred. Remember to fully charge your laptop as power 
+    points might be limited!
+  image: "/static/img/telegram.png"
   materials: >
-    </strong><a class='calltoaction' href='https://bit.ly/hs-2019-ar-vr' target='_blank'>Sign up here</a><br>
+    </strong><a class='calltoaction' href='http://bit.ly/hs-2019-bot' target='_blank'>Sign up here</a><br>
