@@ -1,3 +1,39 @@
+- title: "Introduction to Embedded Systems"
+  datetime: Friday, 17th January 2020, 6:00pm - 9:00pm
+  location: Cerebro@SoC, COM1, School of Computing, National University of Singapore
+  audience: Hack&Roll 2020 Participants
+  image: "/static/img/electronics.png"
+  materials: >
+    </strong><a class='calltoaction' href='https://drive.google.com/drive/folders/1-LC7UwJ1H2v7_IAqPrJ4nNRDMCD0YVqW' target='_blank'>Materials here</a><br>
+
+- title: "Introduction to Machine Learning"
+  datetime: Thursday, 16th January 2020, 6:00pm - 9:00pm
+  location: The Hangar, National University of Singapore
+  audience: Hack&Roll 2020 Participants
+  image: "/static/img/face_api.png"
+
+- title: "Introduction to Telegram Bots"
+  datetime: Wednesday, 15th January 2020, 6:00pm - 9:00pm
+  location: SR1, COM1, School of Computing, National University of Singapore
+  audience: Hack&Roll 2020 Participants
+  image: "/static/img/telegram.png"
+  materials: >
+    </strong><a class='calltoaction' href='http://go.indeed.com/hacknroll' target='_blank'>Materials here</a><br>
+
+- title: "Introduction to Web Development with Express.js"
+  datetime: Tuesday, 14th January 2020, 6:00pm - 9:00pm
+  location: Cerebro@SoC, COM1, School of Computing, National University of Singapore
+  audience: Hack&Roll 2020 Participants
+  image: "/static/img/express.png"
+
+- title: "Introduction to Flutter"
+  datetime: Monday, 13th January 2020, 6:00pm - 9:00pm
+  location: Cerebro@SoC, COM1, School of Computing, National University of Singapore
+  audience: Hack&Roll 2020 Participants
+  image: "/static/img/flutter.png"
+  materials: >
+    </strong><a class='calltoaction' href='https://github.com/adithyaxx/hacknroll2020-flutter-workshop' target='_blank'>Materials here</a><br>
+
 - title: "Introduction to Rust"
   datetime: Saturday, 9th November 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
