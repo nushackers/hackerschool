@@ -1,11 +1,16 @@
 - title: "Basic Python + Programming Crash Course"
   datetime: Saturday, 8th February 2020, 1:00pm - 4:00pm
-  location: TBC
-  audience: Beginners from any faculty or the public. This is also a very short crash course to programming, if you are
+  location: Seminar Room 1 (Level 2), COM1, NUS School of Computing
+  audience: Beginners from any faculty or the public are welcome! If you are
     already a proficient programmer, this workshop might not be suited for you.
-  description: Python is a general-purpose programming language which is commonly used for things like simple automation
-    scripting and scientific computing. Python has a beginner-friendly and approachable syntax, yet is
-    still very powerful & extensible with third-party libraries with its included package-management system.
-    We will learn the basic syntax of python, and use some cool third-party libraries to showcase the extensibility and
-    ease of scripting of Python with some real-life use cases.
+  description: This is a crash course to programming in Python, meant for
+    beginners. Python is a general-purpose programming language which is
+    commonly used for things like simple automation scripting and scientific
+    computing. Python has a beginner-friendly and approachable syntax, yet is
+    still very powerful & extensible with third-party libraries, with its
+    included package-management system. We will learn some basic programming,
+    the basic syntax of python, and use some cool third-party libraries to
+    showcase the extensibility and ease of scripting of Python with some
+    real-life use cases.
+    <strong><a class='calltoaction' href='https://tinyurl.com/hs-2020-python' target='_blank'>Sign up here</a></strong>
   image: "/static/img/python.png"
