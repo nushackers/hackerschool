@@ -39,6 +39,10 @@ layout: default
       </li>
     {% endfor %}
     </ul>
+  {% elsif site.data.postpone %}
+  <strong>Hackerschool has been temporarily postponed</strong>
+  <p>Due to the current {{ site.data.postpone.reason }} situation, all Hackerschool workshops are currently postponed.
+     We will update the site and our social media channels again when we eventually do resume workshops.</p>
   {% else %}
   <strong>Hackerschool has ended for this semester!</strong>
   <p> Coming next semester: <strong>Machine Learning with Python</strong> & <strong>Web Development</strong> workshops</p>

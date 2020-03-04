@@ -4,46 +4,52 @@ layout: default
 <section id='mainbanner' class='banner'></section>
 <section class='centered'>
   <div class='upcoming'>
-    <h2>Upcoming Events</h2>
-    {% if site.data.upcoming_events %}
-      <ul class='events'>
-      {% for event in site.data.upcoming_events %}
-        <li class='event'>
-          <div class='info'>
-            <h3>{{ event.title }}</h3>
-  
-            <div class='row'>
-              <span class='label'>When:</span>
-              <span>{{ event.datetime }}</span>
-            </div>
-  
-            <div class='row'>
-              <span class='label'>Where:</span>
-              <span>{{ event.location }}</span>
-            </div>
-  
-            <div class='row'>
-              <span class='label'>Who:</span>
-              <span>{{ event.audience }}</span>
-            </div>
-  
-            {% if event.prereq %}
-              <div class='row'>
-                <span class='label'>Pre-requisites:</span>
-                <span>{{ event.prereq }}</span>
-              </div>
-            {% endif %}
-  
-            <div class='row'>{{ event.description|safe }}</div>
-            <div class='row'>{{ event.materials|safe }}</div>
-          </div>
-          <img src='{{ event.image }}'/>
-        </li>
-      {% endfor %}
-      </ul>
+    {% if site.data.postpone %}
+    <h2>{{ site.data.postpone.reason }} Postponement Notice</h2>
+    <p>Due to the current {{ site.data.postpone.reason }} situation, <strong>all Hackerschool workshops are currently postponed</strong>.
+        We will update the site and our social media channels again when we eventually do resume workshops.</p>
     {% else %}
-      <h3>Coming soon!</h3>
-    {% endif %}
+        <h2>Upcoming Events</h2>
+        {% if site.data.upcoming_events %}
+          <ul class='events'>
+          {% for event in site.data.upcoming_events %}
+            <li class='event'>
+              <div class='info'>
+                <h3>{{ event.title }}</h3>
+      
+                <div class='row'>
+                  <span class='label'>When:</span>
+                  <span>{{ event.datetime }}</span>
+                </div>
+      
+                <div class='row'>
+                  <span class='label'>Where:</span>
+                  <span>{{ event.location }}</span>
+                </div>
+      
+                <div class='row'>
+                  <span class='label'>Who:</span>
+                  <span>{{ event.audience }}</span>
+                </div>
+      
+                {% if event.prereq %}
+                  <div class='row'>
+                    <span class='label'>Pre-requisites:</span>
+                    <span>{{ event.prereq }}</span>
+                  </div>
+                {% endif %}
+      
+                <div class='row'>{{ event.description|safe }}</div>
+                <div class='row'>{{ event.materials|safe }}</div>
+              </div>
+              <img src='{{ event.image }}'/>
+            </li>
+          {% endfor %}
+          </ul>
+        {% else %}
+          <h3>Coming soon!</h3>
+        {% endif %}
+  {% endif %}
   </div>
 
   <div class='past'>
