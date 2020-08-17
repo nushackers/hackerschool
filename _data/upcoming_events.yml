@@ -1,5 +1,5 @@
 - title: "Basic Python + Programming Crash Course"
-  datetime: Saturday, 22th August 2020, 1:00pm - 4:00pm
+  datetime: Saturday, 22th August 2020, 1:00pm - 3:00pm
   location: Zoom link to be sent to participants via email
   audience: Beginners from any faculty or the public are welcome! If you are
     already a proficient programmer, this workshop might not be suited for you.
@@ -9,8 +9,8 @@
     computing. Python has a beginner-friendly and approachable syntax, yet is
     still very powerful & extensible with third-party libraries, with its
     included package-management system. We will learn some basic programming,
-    the basic syntax of python, and use some cool third-party libraries to
-    showcase the extensibility and ease of scripting of Python with some
-    real-life use cases.
+    the basic syntax of python, and the subsequent week we will use some cool
+    third-party libraries to showcase the extensibility and ease of scripting
+    of Python with some real-life use cases.
     <strong><a class='calltoaction' href='https://bit.ly/hackers-python' target='_blank'>Sign up here</a></strong>
   image: "/static/img/python.png"
