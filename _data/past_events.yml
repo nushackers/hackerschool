@@ -1,3 +1,15 @@
+- title: "Automation with Python"
+  datetime: Saturday, 5th September 2020, 1:00pm - 3:00pm
+  location: Online
+  audience: Beginners from any faculty or the public, basic Python knowledge preferred.
+  description:
+    This week, we will use some cool third-party libraries to showcase the extensibility and
+    ease of scripting of Python with some real-life automation use cases. We will go through
+    how to do automate tasks in Python such as reading and writing files,
+    web scraping, downloading videos from youtube, manipulating images in bulk and more.
+  image: "/static/img/python.png"
+  materials: >
+    </strong><a class='calltoaction' href='http://bit.ly/hs-py-auto-slides' target='_blank'>Materials here</a><br>
 - title: "Basic Python + Programming Crash Course"
   datetime: Saturday, 22th August 2020, 1:00pm - 3:00pm
   location: Online
@@ -14,7 +26,7 @@
     to showcase the extensibility and ease of scripting of Python with some real-life automation use cases.
   image: "/static/img/python.png"
   materials: >
-    </strong><a class='calltoaction' href='https://docs.google.com/presentation/d/1i-wlS56O8BvP9wkZReBzWp7gQLsqe-mqr4LmjPhiUY0/edit?usp=sharing' target='_blank'>Materials here</a><br
+    </strong><a class='calltoaction' href='https://docs.google.com/presentation/d/1i-wlS56O8BvP9wkZReBzWp7gQLsqe-mqr4LmjPhiUY0/edit?usp=sharing' target='_blank'>Materials here</a><br>
 
 - title: "Introduction to Embedded Systems"
   datetime: Friday, 17th January 2020, 6:00pm - 9:00pm

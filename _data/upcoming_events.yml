@@ -1,11 +1,11 @@
-- title: "Automation with Python"
-  datetime: Saturday, 5th September 2020, 1:00pm - 3:00pm
+- title: "Introduction to Git"
+  datetime: Saturday, 12th September 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
-  audience: Beginners from any faculty or the public, basic Python knowledge preferred.
+  audience: Beginners from any faculty or the public are welcome!
   description:
-    This week, we will use some cool third-party libraries to showcase the extensibility and
-    ease of scripting of Python with some real-life automation use cases. We will go through
-    how to do automate tasks in Python such as reading and writing files,
-    web scraping, downloading videos from youtube, manipulating images in bulk and more.
-    <strong><a class='calltoaction' href='http://bit.ly/hackers-python-automation' target='_blank'>Sign up here</a></strong>
-  image: "/static/img/python.png"
+    Git is a distributed version-control system for tracking changes in source code during software development.
+    It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+    Come learn to use Git so you can version your own personal projects, work with others, or contribute to the
+    vast body of open-source projects that collaborate with Git.
+    <strong><a class='calltoaction' href='http://bit.ly/hs-git-intro' target='_blank'>Sign up here</a></strong>
+  image: "/static/img/git.png"
