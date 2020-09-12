@@ -9,7 +9,9 @@
     web scraping, downloading videos from youtube, manipulating images in bulk and more.
   image: "/static/img/python.png"
   materials: >
-    </strong><a class='calltoaction' href='http://bit.ly/hs-py-auto-slides' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='http://bit.ly/hs-py-auto-slides' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=mDtqTRkaUDg' target='_blank'>Recording here</a>
+
 - title: "Basic Python + Programming Crash Course"
   datetime: Saturday, 22th August 2020, 1:00pm - 3:00pm
   location: Online
@@ -26,7 +28,8 @@
     to showcase the extensibility and ease of scripting of Python with some real-life automation use cases.
   image: "/static/img/python.png"
   materials: >
-    </strong><a class='calltoaction' href='https://docs.google.com/presentation/d/1i-wlS56O8BvP9wkZReBzWp7gQLsqe-mqr4LmjPhiUY0/edit?usp=sharing' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://docs.google.com/presentation/d/1i-wlS56O8BvP9wkZReBzWp7gQLsqe-mqr4LmjPhiUY0/edit?usp=sharing' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=T6LaK4t6SLg' target='_blank'>Recording here</a>
 
 - title: "Introduction to Embedded Systems"
   datetime: Friday, 17th January 2020, 6:00pm - 9:00pm
@@ -34,7 +37,7 @@
   audience: Hack&Roll 2020 Participants
   image: "/static/img/electronics.png"
   materials: >
-    </strong><a class='calltoaction' href='https://drive.google.com/drive/folders/1-LC7UwJ1H2v7_IAqPrJ4nNRDMCD0YVqW' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://drive.google.com/drive/folders/1-LC7UwJ1H2v7_IAqPrJ4nNRDMCD0YVqW' target='_blank'>Materials here</a>
 
 - title: "Introduction to Machine Learning"
   datetime: Thursday, 16th January 2020, 6:00pm - 9:00pm
@@ -48,7 +51,7 @@
   audience: Hack&Roll 2020 Participants
   image: "/static/img/telegram.png"
   materials: >
-    </strong><a class='calltoaction' href='http://go.indeed.com/hacknroll' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='http://go.indeed.com/hacknroll' target='_blank'>Materials here</a>
 
 - title: "Introduction to Web Development with Express.js"
   datetime: Tuesday, 14th January 2020, 6:00pm - 9:00pm
@@ -62,232 +65,232 @@
   audience: Hack&Roll 2020 Participants
   image: "/static/img/flutter.png"
   materials: >
-    </strong><a class='calltoaction' href='https://github.com/adithyaxx/hacknroll2020-flutter-workshop' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://github.com/adithyaxx/hacknroll2020-flutter-workshop' target='_blank'>Materials here</a>
 
 - title: "Introduction to Rust"
   datetime: Saturday, 9th November 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
-  audience: Any faculty or the public. This is not an introduction to programming, and programming experience 
+  audience: Any faculty or the public. This is not an introduction to programming, and programming experience
     in any language assumed. Experience with a non-garbage collected language like C or C++ will be very helpful.
-  description: Rust is a systems programming language focused on zero-cost abstractions and safety, providing many 
-    of the features of modern, expressive languages, like pattern matching and destructuring, iterators, and algebraic 
-    data types, with as little overhead as possible compared to a handwritten version (like in C). Rust also provides 
-    compile-time checking of value ownership and thread-safety. Rust also brings with it a package manager, Cargo, 
+  description: Rust is a systems programming language focused on zero-cost abstractions and safety, providing many
+    of the features of modern, expressive languages, like pattern matching and destructuring, iterators, and algebraic
+    data types, with as little overhead as possible compared to a handwritten version (like in C). Rust also provides
+    compile-time checking of value ownership and thread-safety. Rust also brings with it a package manager, Cargo,
     providing the convenience loved by developers in other ecosystems, like .NET and Python.
   image: "/static/img/rust.png"
   materials: >
-    </strong><a class='calltoaction' href='https://angelsl.github.io/p/hs1910-rust/' target='_blank'>Slides here</a><br>
+    <a class='calltoaction' href='https://angelsl.github.io/p/hs1910-rust/' target='_blank'>Slides here</a>
 
 - title: "Developing Telegram Bots using Python"
   datetime: Saturday, 2nd November 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, basic Python knowledge preferred.
-  description: Telegram bots are small programs that can embed in Telegram chats or public channels and perform a specific function. 
-    They can be quite powerful and do a variety of things, from sending you email notifications to marking attendance during tutorials. 
-    Join this workshop to learn how to make your own Telegram bots - by the end of the workshop, you would have deployed a bot using 
-    Python which performs simple functions like sending jokes and telling you the weather! 
+  description: Telegram bots are small programs that can embed in Telegram chats or public channels and perform a specific function.
+    They can be quite powerful and do a variety of things, from sending you email notifications to marking attendance during tutorials.
+    Join this workshop to learn how to make your own Telegram bots - by the end of the workshop, you would have deployed a bot using
+    Python which performs simple functions like sending jokes and telling you the weather!
 
-    Workshop is free and open to the public, and basic Python knowledge is preferred. Remember to fully charge your laptop as power 
+    Workshop is free and open to the public, and basic Python knowledge is preferred. Remember to fully charge your laptop as power
     points might be limited!
   image: "/static/img/telegram.png"
   materials: >
-    </strong><a class='calltoaction' href='http://bit.ly/hs-2019-bot-materials' target='_blank'>Materials here</a><br>
-    </strong><a class='calltoaction' href='https://youtu.be/2KKVeIOfMGg' target='_blank'>Recording here</a><br>
+    <a class='calltoaction' href='http://bit.ly/hs-2019-bot-materials' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://youtu.be/2KKVeIOfMGg' target='_blank'>Recording here</a>
 
 - title: "Introduction to Augmented and Virtual Reality"
   datetime: Saturday, 19th October 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior programming experience required.
-  description: Augmented Reality (AR) and Virtual Reality (VR) technology has begun to make waves in consumer 
-    markets with the launch of affordable head-mounted displays. Learn about the technology behind augmented 
-    reality powered games such as augmented reality and see for yourself how you could enhance your projects with 
-    another dimension of visualization and interaction. We'll be using the Unity game engine to develop create some 
+  description: Augmented Reality (AR) and Virtual Reality (VR) technology has begun to make waves in consumer
+    markets with the launch of affordable head-mounted displays. Learn about the technology behind augmented
+    reality powered games such as augmented reality and see for yourself how you could enhance your projects with
+    another dimension of visualization and interaction. We'll be using the Unity game engine to develop create some
     simple augmented reality experiences on your mobile phones.
   image: "/static/img/ar-vr.png"
   materials: >
-    </strong><a class='calltoaction' href='http://bit.ly/hs-2019-ar-vr-materials' target='_blank'>Materials here</a><br>
-    </strong><a class='calltoaction' href='https://youtu.be/d7wOH-ebblM' target='_blank'>Recording here</a><br>
+    <a class='calltoaction' href='http://bit.ly/hs-2019-ar-vr-materials' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://youtu.be/d7wOH-ebblM' target='_blank'>Recording here</a>
 
 - title: "Introduction to Machine Learning"
   datetime: Saturday, 12th October 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, basic Python knowledge required.
-  description: Machine Learning is gaining increased traction in the technology scene. 
-    This workshop will introduce you to a powerful yet simple classification model, based 
-    on the well-known Bayes’ Theorem, which is extensively used in text classification like 
+  description: Machine Learning is gaining increased traction in the technology scene.
+    This workshop will introduce you to a powerful yet simple classification model, based
+    on the well-known Bayes’ Theorem, which is extensively used in text classification like
     detecting spam email.
   image: "/static/img/bayes_network.png"
   materials: >
-    </strong><a class='calltoaction' href='https://drive.google.com/open?id=1PGS3yc_A0PsW-jJQWkKonuTpGFmobVWN' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://drive.google.com/open?id=1PGS3yc_A0PsW-jJQWkKonuTpGFmobVWN' target='_blank'>Materials here</a>
 
 - title: "Introduction to Powershell"
   datetime: Saturday, 21st September 2019, 1:00pm - 4:00pm
   location: SR3, COM1, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: PowerShell is Windows’s task automation scripting language and command-line shell. 
+  description: PowerShell is Windows’s task automation scripting language and command-line shell.
     Ever bothered to write your own scripts to automate workflows in Windows? Come and learn how to do so!
-    Workshop is open to the public, and no prior programming experience is required. You're required to 
+    Workshop is open to the public, and no prior programming experience is required. You're required to
     have a Windows machine, and remember to bring a fully charged laptop as power points are limited!
   image: "/static/img/powershell.png"
   materials: >
-    </strong><a class='calltoaction' href='https://youtu.be/a4dNE1jyKEk' target='_blank'>Recording here</a><br>
+    <a class='calltoaction' href='https://youtu.be/a4dNE1jyKEk' target='_blank'>Recording here</a>
 
 - title: "Web Development with Ruby on Rails"
   datetime: Saturday, 14th September 2019, 1:00pm - 4:00pm
   location: SR1, COM1, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, familiarity with basic programming constructs assumed.
-  description: Ever wondered how to create powerful websites that can manipulate data, 
-    such as your own personal blog and content systems? Come and learn how to do so! 
-    Workshop is open to the public (not only NUS students). Familiarity with basic programming 
+  description: Ever wondered how to create powerful websites that can manipulate data,
+    such as your own personal blog and content systems? Come and learn how to do so!
+    Workshop is open to the public (not only NUS students). Familiarity with basic programming
     constructs (such as the ones thought so far in CS1010/E/S/CS1101S) and HTML/CSS is preferred.
-    <strong><a class='calltoaction' href='https://bit.ly/hs-2019-rails' target='_blank'>Sign up here</a></strong> 
+    <strong><a class='calltoaction' href='https://bit.ly/hs-2019-rails' target='_blank'>Sign up here</a></strong>
   image: "/static/img/rails.png"
   materials: >
-    </strong><a class='calltoaction' href='https://github.com/donjar/book-shop/blob/master/tutorial/hackerschool.md' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://github.com/donjar/book-shop/blob/master/tutorial/hackerschool.md' target='_blank'>Materials here</a>
 
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 7th September 2019, 1:00pm - 4:00pm
   location: LT15, AS6, Faculty of Arts and Social Sciences, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: A basic introduction to web development. You will learn HTML, CSS and 
-    how to create a simple website. <strong><a class='calltoaction' href='https://bit.ly/hs-2019-html' target='_blank'>Sign up here</a></strong> 
+  description: A basic introduction to web development. You will learn HTML, CSS and
+    how to create a simple website. <strong><a class='calltoaction' href='https://bit.ly/hs-2019-html' target='_blank'>Sign up here</a></strong>
   image: "/static/img/html_css.jpg"
   materials: >
-    </strong><a class='calltoaction' href='https://drive.google.com/open?id=1Q6QNI4PRmTkYmrzD_3OF3BVh6QrbCKQH' target='_blank'>Slides here</a><br>
-    </strong><a class='calltoaction' href='https://youtu.be/6Yst6i-mG_8' target='_blank'>Recording here</a><br>
+    <a class='calltoaction' href='https://drive.google.com/open?id=1Q6QNI4PRmTkYmrzD_3OF3BVh6QrbCKQH' target='_blank'>Slides here</a><br>
+    <a class='calltoaction' href='https://youtu.be/6Yst6i-mG_8' target='_blank'>Recording here</a>
 
 - title: "Introduction to Git and Github"
   datetime: Saturday, 31st August 2019, 1:00pm - 4:00pm
   location: SR1, COM1, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: 
+  description:
     Ever used Dropbox to store your code because it makes backups?
     Made multiple copies of your assignment's folder just to try different
     things? Worked on group projects by coding in Google Docs? Git is the tool for
     you, it'll change the way you code for the better. We will also cover more
     advanced features of git such as rebasing, cherry picking and bisecting. The
     workshop is completely free. Anyone from any faculty is welcome!
-    <strong><a class='calltoaction' href='https://bit.ly/hs-2019-git' target='_blank'>Sign up here</a></strong> 
+    <strong><a class='calltoaction' href='https://bit.ly/hs-2019-git' target='_blank'>Sign up here</a></strong>
   image: "/static/img/git.png"
   materials: >
-    </strong><a class='calltoaction' href='https://drive.google.com/open?id=1uKXNOr1KG0UN-7rrD1bhxzzR98GQPvlh' target='_blank'>Slides here</a><br>
-    </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=18Kal5T0S-w' target='_blank'>Recording here</a><br>
+    <a class='calltoaction' href='https://drive.google.com/open?id=1uKXNOr1KG0UN-7rrD1bhxzzR98GQPvlh' target='_blank'>Slides here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=18Kal5T0S-w' target='_blank'>Recording here</a>
 
 - title: "Hacker Tools: Part 2"
   datetime: Saturday, 30th March 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: 
+  description:
     This workshop was inspired by <a href='https://hacker-tools.github.io/' target="_blank">hacker-tools</a>.
-    As hackers, we spend a lot of time on our computers, so it makes sense to make that experience as fluid and frictionless as possible. 
-    <br>We continue from last week by first discussing some small topics including improving your web browsing experience, the security and privacy of your digital life, and working and accessing computers remotely when away or on-the-go across Windows and Unix. 
-    <br>Next, we explore how to look at what is happening on a system or in an application, so you can diagnose and fix a broken system or application, including some networking issues. 
+    As hackers, we spend a lot of time on our computers, so it makes sense to make that experience as fluid and frictionless as possible.
+    <br>We continue from last week by first discussing some small topics including improving your web browsing experience, the security and privacy of your digital life, and working and accessing computers remotely when away or on-the-go across Windows and Unix.
+    <br>Next, we explore how to look at what is happening on a system or in an application, so you can diagnose and fix a broken system or application, including some networking issues.
     <br>Finally, we touch briefly on Linux containers and how it can be useful when developing programs.
-    <br>Please come prepared with a Linux environment installed (macOS or Windows Subsystem for Linux is NOT sufficient!). If you do not currently have one, we recommend installing Ubuntu in VirtualBox. Applications from the following Ubuntu packages will be used 
+    <br>Please come prepared with a Linux environment installed (macOS or Windows Subsystem for Linux is NOT sufficient!). If you do not currently have one, we recommend installing Ubuntu in VirtualBox. Applications from the following Ubuntu packages will be used
     <b>openssh-client mosh sshfs freerdp2-x11 gdb strace ltrace time linux-tools-common linux-tools-generic htop dstat iproute2 dnsutils traceroute tracepath</b>
     <br><a href='http://bit.ly/hs201906' target="_blank">Sign up here</a>
   image: "/static/img/linux.png"
   materials: >
-    </strong><a class='calltoaction' href='https://nushackers.github.io/p-hackertools2/' target='_blank'>Materials here</a><br>
-    </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=FXM6e4fYgHs' target='_blank'>Video Recording here</a>
+    <a class='calltoaction' href='https://nushackers.github.io/p-hackertools2/' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=FXM6e4fYgHs' target='_blank'>Video Recording here</a>
 
 - title: "Hacker Tools: Part 1"
   datetime: Saturday, 23rd March 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: As "hackers", we spend a lot of time on our computers, 
-    so it makes sense to make that experience as fluid and frictionless 
-    as possible. In this workshop, we'll help you learn how to make the 
-    most of tools that productive programmers use, specifically how to 
-    navigate the Unix command line. Please come prepared with your 
-    preferred Unix-like environment installed. If you don't 
-    currently have one installed, we recommend you install Ubuntu 
+  description: As "hackers", we spend a lot of time on our computers,
+    so it makes sense to make that experience as fluid and frictionless
+    as possible. In this workshop, we'll help you learn how to make the
+    most of tools that productive programmers use, specifically how to
+    navigate the Unix command line. Please come prepared with your
+    preferred Unix-like environment installed. If you don't
+    currently have one installed, we recommend you install Ubuntu
     using VirtualBox. (This workshop is inspired by <a href='https://hacker-tools.github.io/' target="_blank">hacker-tools class by SIPB at MIT</a>)<br>
     <a href="https://is.gd/hs2019_hackertools_1_material" target="_blank">Download the materials here</a><br>
     <a href='http://bit.ly/hs201905' target="_blank">Sign up here</a>
   image: "/static/img/linux_soldier.jpg"
   materials: >
-    </strong><a class='calltoaction' href='https://is.gd/hs2019_hackertools_1_material' target='_blank'>Materials here.</a><br>
-    </strong><a class='calltoaction' href='https://www.youtube.com/watch?v=mCbU82Ezdac' target='_blank'>Video Recording here</a>
+    <a class='calltoaction' href='https://is.gd/hs2019_hackertools_1_material' target='_blank'>Materials here.</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=mCbU82Ezdac' target='_blank'>Video Recording here</a>
 
 - title: "React.js"
   datetime: Saturday, 16th March 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: This workshop is open to the public. Basic Experience with JavaScript is recommended.
-  description: React.js is a User Interface JavaScript library from 
-    Facebook/Instagram, and it completely changes the way 
-    frontend engineering is done. We'll learn why it's special 
+  description: React.js is a User Interface JavaScript library from
+    Facebook/Instagram, and it completely changes the way
+    frontend engineering is done. We'll learn why it's special
     and how to get started with it.
-    <a href='http://bit.ly/hs201904' target="_blank">Sign up here</a> 
+    <a href='http://bit.ly/hs201904' target="_blank">Sign up here</a>
   image: "/static/img/react.png"
-  materials: "</strong><a class='calltoaction' href='https://www.dropbox.com/sh/6lg8fewj2mv53hp/AAAwX-br-EPc6q1TWZ4lZEKga?dl=0' target='_blank'>Materials here.</a><br></strong><a class='calltoaction' href=' https://codesandbox.io/s/n32lm45npl' target='_blank'>Completed project.</a>"
+  materials: "<a class='calltoaction' href='https://www.dropbox.com/sh/6lg8fewj2mv53hp/AAAwX-br-EPc6q1TWZ4lZEKga?dl=0' target='_blank'>Materials here.</a><br><a class='calltoaction' href=' https://codesandbox.io/s/n32lm45npl' target='_blank'>Completed project.</a>"
 
 - title: "Advanced JavaScript + Node.JS"
   datetime: Saturday, 9th March 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: Open to public, no prior knowledge assumed but having basic understanding of JavaScript is better.
-  description: We hope you enjoyed our last session on Introduction to JavaScript. 
-    This week, we will be covering advanced JavaScript topics and we will also 
+  description: We hope you enjoyed our last session on Introduction to JavaScript.
+    This week, we will be covering advanced JavaScript topics and we will also
     learn how JavaScript can be written on the server!
-    <a href='http://bit.ly/hs201903' target="_blank">Sign up here</a> 
+    <a href='http://bit.ly/hs201903' target="_blank">Sign up here</a>
   image: "/static/img/node.png"
-  materials: "</strong><a class='calltoaction' href='http://bit.ly/hs-rscs' target='_blank'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='http://bit.ly/hs-rscs' target='_blank'>Materials here.</a>"
 - title: "Introduction to JavaScript"
   datetime: Saturday, 23rd February 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: Web browsers are everywhere, and so is Javascript, 
-    a dynamic programming language that browsers implement. We will 
-    be covering the basics of Javascript and how to use it to control 
-    and add complex behaviour to web pages. 
-    In the process, we'll go through the development of an interactive 
+  description: Web browsers are everywhere, and so is Javascript,
+    a dynamic programming language that browsers implement. We will
+    be covering the basics of Javascript and how to use it to control
+    and add complex behaviour to web pages.
+    In the process, we'll go through the development of an interactive
     web application. Remember to bring your own laptops!
-    <a href='http://bit.ly/hs201902' target="_blank">Sign up here</a> 
+    <a href='http://bit.ly/hs201902' target="_blank">Sign up here</a>
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='https://bit.ly/2TcPHwi' target='_blank'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://bit.ly/2TcPHwi' target='_blank'>Materials here.</a>"
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 16th February 2019, 1:00pm - 4:00pm
   location: LT15, School of Computing/AS6, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: Learn the fundamentals of building a website! 
-    No prior programming experience required. 
-    Bring your own laptop. 
+  description: Learn the fundamentals of building a website!
+    No prior programming experience required.
+    Bring your own laptop.
     Please charge fully before coming as power points are limited.
-    <a href='http://bit.ly/hs201901'>Sign up here</a> 
+    <a href='http://bit.ly/hs201901'>Sign up here</a>
   image: "/static/img/html_css.jpg"
-  materials: "</strong><a class='calltoaction' href='https://drive.google.com/drive/folders/1Bx7ZBDRFrW8byN_pU9OFaVVU0UZi7Mtc' target='_blank'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://drive.google.com/drive/folders/1Bx7ZBDRFrW8byN_pU9OFaVVU0UZi7Mtc' target='_blank'>Materials here.</a>"
 
 - title: "Introduction to React and Redux"
   datetime: Saturday, 6th October 2018, 1:00pm - 4:00pm
   location: LT15, School of Computing, National University of Singapore
   audience: Participants who are familiar with JavaScript.
-  description: React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely 
+  description: React.js is a User Interface JavaScript library from Facebook/Instagram, and it completely
     changes the way front end engineering is done. We'll learn why it's special and how to get started with it.
-    <a href='https://bit.ly/hs2018react'>Sign up here</a> 
+    <a href='https://bit.ly/hs2018react'>Sign up here</a>
   image: "/static/img/react.png"
 
 - title: "Advanced Javascript"
   datetime: Saturday, 22nd September 2018, 1:00pm - 4:00pm
   location: LT15, School of Computing, National University of Singapore
   audience: Participants who have some programming experience or attended "Intro to Javascript".
-  description: Web browsers are everywhere, and so is JavaScript, a dynamic programming language 
-    that browsers implement. We will be covering the advanced features of JavaScript such as arrow 
-    functions, immutability, and callbacks. This session serves as a foundation for our subsequent 
-    Hackerschool on ReactJS. In the process, we'll go through the modern syntax, tools, as well as 
-    the inner workings of the language. Remember to bring your own laptops! 
-    <a href='https://bit.ly/hs201804'>Sign up here</a> 
+  description: Web browsers are everywhere, and so is JavaScript, a dynamic programming language
+    that browsers implement. We will be covering the advanced features of JavaScript such as arrow
+    functions, immutability, and callbacks. This session serves as a foundation for our subsequent
+    Hackerschool on ReactJS. In the process, we'll go through the modern syntax, tools, as well as
+    the inner workings of the language. Remember to bring your own laptops!
+    <a href='https://bit.ly/hs201804'>Sign up here</a>
   image: "/static/img/javascript.png"
 
 - title: "Introduction to Javascript"
   datetime: Saturday, 15th September 2018, 1:00pm - 4:00pm
   location: LT15, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: Web browsers are everywhere, and so is JavaScript, a dynamic 
-    programming language that browsers implement. We will be covering the basics 
-    of JavaScript and how to use it to control and add complex behaviour to web pages. 
+  description: Web browsers are everywhere, and so is JavaScript, a dynamic
+    programming language that browsers implement. We will be covering the basics
+    of JavaScript and how to use it to control and add complex behaviour to web pages.
     In the process, we'll go through the development of an interactive web application.
     Remember to bring your own laptops!
-    <a href='https://bit.ly/hs201803'>Sign up here</a> 
+    <a href='https://bit.ly/hs201803'>Sign up here</a>
   image: "/static/img/javascript.png"
 
 - title: "Introduction to Git"
@@ -300,16 +303,16 @@
     you, it'll change the way you code for the better. We will also cover more
     advanced features of git such as rebasing, cherry picking and bisecting. The
     workshop is completely free. Anyone from any faculty is welcome!
-    <a href='https://bit.ly/hs201802'>Sign up here</a> 
+    <a href='https://bit.ly/hs201802'>Sign up here</a>
   image: "/static/img/git.png"
 
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 1st September 2018, 1:00pm - 4:00pm
   location: LT15, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: A basic introduction to web development. You will learn HTML, CSS and 
+  description: A basic introduction to web development. You will learn HTML, CSS and
     how to create a simple website.
-    <a href='https://bit.ly/hs201801'>Sign up here</a> 
+    <a href='https://bit.ly/hs201801'>Sign up here</a>
   image: "/static/img/html_css.jpg"
 
 - title: "Introduction to Machine Learning Part 2"
@@ -321,7 +324,7 @@
     to build and train your own neural networks using Tensorflow and
     Keras. <br/>
     <a href='https://goo.gl/forms/NmU2m7ulifycq9Sn1'>Sign up here</a>
-  materials: "</strong><a class='calltoaction'
+  materials: "<a class='calltoaction'
   href='https://docs.google.com/presentation/d/1DA4O6NoM1BN2EaGKfWX3A0sHWLcGHLeMM09btjTNbeA/edit?usp=sharing'>Slides
   here.</a> <a class='calltoaction'
   href='https://drive.google.com/open?id=1LwyvJ8cXLILss9_oUpE6q3YKvUAK_0wN'>Notebook
@@ -331,45 +334,45 @@
   datetime: Saturday, 31st March 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: This is a basic introduction to machine learning. You will learn what machine learning 
+  description: This is a basic introduction to machine learning. You will learn what machine learning
     is about and how to train competitive models.<br/>
   image: "/static/img/scikitlearn.png"
 - title: "Introduction to JavaScript & Web Applications"
   datetime: Saturday, 24th March 2018, 1:00pm - 4:00pm
   location: LT19, COM2, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: This is a basic introduction to web development. You will learn JavaScript basics and 
+  description: This is a basic introduction to web development. You will learn JavaScript basics and
     how to create a simple web application.
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction'
+  materials: "<a class='calltoaction'
 href='https://drive.google.com/drive/folders/1gaiBcnkGRwZ3w3z1j8H_CZqpV6iPcQmz?usp=sharing'>Materials here.</a>"
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 24th February 2018, 1:00pm - 4:00pm
   location: LT15, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: A basic introduction to web development. You will learn HTML, CSS and 
+  description: A basic introduction to web development. You will learn HTML, CSS and
     how to create a simple website.
   image: "/static/img/html_css.jpg"
-  materials: "</strong><a class='calltoaction'
+  materials: "<a class='calltoaction'
 href='https://nushackers.github.io/html-css'>Slides here.</a>"
 - title: Introduction to TensorFlow
   datetime: Saturday, 21th October 2017, 1:00pm - 4:00pm
-  location: SR3, Town Plaza (Level 2), University Town, NUS 
+  location: SR3, Town Plaza (Level 2), University Town, NUS
   audience: Experience with Python is highly recommended
-  description: The workshop will provide an excellent opportunity to learn the fundamentals of deep learning with TensorFlow. TensorFlow is an open source Python module that makes machine and deep learning fun and efficient. In this workshop, we will first introduce what Tensors are and TensorFlow basics. We will then build some simple examples to understand how feature extraction works. After which we will cover deep learning with TensorFlow. There will be plenty of hands-on activities. 
-      <a href='https://goo.gl/forms/nOzJYoZRPBatOsnR2'>Sign up here</a> 
+  description: The workshop will provide an excellent opportunity to learn the fundamentals of deep learning with TensorFlow. TensorFlow is an open source Python module that makes machine and deep learning fun and efficient. In this workshop, we will first introduce what Tensors are and TensorFlow basics. We will then build some simple examples to understand how feature extraction works. After which we will cover deep learning with TensorFlow. There will be plenty of hands-on activities.
+      <a href='https://goo.gl/forms/nOzJYoZRPBatOsnR2'>Sign up here</a>
   image: "/static/img/tensorflow.png"
-  materials: "</strong><a class='calltoaction'
-href='https://raynoldng.github.io/slides.html'>Slides here</a>, </strong><a class='calltoaction'
+  materials: "<a class='calltoaction'
+href='https://raynoldng.github.io/slides.html'>Slides here</a>, <a class='calltoaction'
 href='https://github.com/raynoldng/hackerschool-tensorflow'>Materials here</a>"
 - title: Introduction to Docker
   datetime: Saturday, 14th October 2017, 1:00pm - 4:00pm
-  location: SR3, Town Plaza (Level 2), University Town, NUS 
+  location: SR3, Town Plaza (Level 2), University Town, NUS
   audience: No prior knowledge needed
-  description: Devops doesn't have to be hard. Learn Docker, and find out why this big blue whale has taken the world by storm! In this workshop, you'll learn when, and how to use Docker effectively. This hands-on workshop will also guide you through deploying a simple web application. The workshop is completely free. Anyone from any faculty is welcome! 
-      <a href='https://goo.gl/forms/eDvPOZhMaLPL8aok2'>Sign up here</a> 
+  description: Devops doesn't have to be hard. Learn Docker, and find out why this big blue whale has taken the world by storm! In this workshop, you'll learn when, and how to use Docker effectively. This hands-on workshop will also guide you through deploying a simple web application. The workshop is completely free. Anyone from any faculty is welcome!
+      <a href='https://goo.gl/forms/eDvPOZhMaLPL8aok2'>Sign up here</a>
   image: "/static/img/docker.png"
-  materials: "</strong><a class='calltoaction'
+  materials: "<a class='calltoaction'
 href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
 - title: "How to Git Gud (Introduction to Git)"
   datetime: Saturday, 16th September 2017, 1:00pm - 4:00pm
@@ -381,16 +384,16 @@ href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
     you, it'll change the way you code for the better. We will also cover more
     advanced features of git such as rebasing, cherry picking and bisecting. The
     workshop is completely free. Anyone from any faculty is welcome! <br \>
-      <a href='https://docs.google.com/forms/d/e/1FAIpQLSdN-MVkbjoJDMc2K5TjP95SHdym-pSmBRwZ9buCU4QNExVvcA/viewform'>Sign up here</a> 
-  materials: "</strong><a class='calltoaction' href='https://drive.google.com/drive/folders/0B03Q1rS_ItdOdVZldDBLRWs4Mkk'>Materials here.</a>"
+      <a href='https://docs.google.com/forms/d/e/1FAIpQLSdN-MVkbjoJDMc2K5TjP95SHdym-pSmBRwZ9buCU4QNExVvcA/viewform'>Sign up here</a>
+  materials: "<a class='calltoaction' href='https://drive.google.com/drive/folders/0B03Q1rS_ItdOdVZldDBLRWs4Mkk'>Materials here.</a>"
   image: "/static/img/git.png"
 - title: "Introduction to HTML & CSS"
   datetime: Saturday, 2nd September 2017, 1:00pm - 4:00pm
   location: COM1 02-06 Seminar Room 1, School of Computing, National University of Singapore
   audience: Beginners from any faculty or the public, no prior knowledge assumed.
-  description: A basic introduction to web development. You will learn HTML, CSS, Bootstrap and 
+  description: A basic introduction to web development. You will learn HTML, CSS, Bootstrap and
     how to create a simple website. <br/>
-    <a href='https://docs.google.com/forms/d/e/1FAIpQLScpk2diB8mc0maxv_QX9TS5Zk1AyziZA1V63MJRIk2GjiSlNQ/viewform'>Sign up here</a> 
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLScpk2diB8mc0maxv_QX9TS5Zk1AyziZA1V63MJRIk2GjiSlNQ/viewform'>Sign up here</a>
   image: "/static/img/html_css.jpg"
 - title: "BOT1001: Introduction to Bots"
   datetime: Saturday, 18 March 2017, 1:00pm - 4:00pm
@@ -400,7 +403,7 @@ href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
     for you.
     <br />
     <a href='https://goo.gl/forms/wVUd5Hw7GkvjBALq1'>Sign up here &rarr;</a>
-  materials: "</strong><a class='calltoaction' href='https://li-kai.github.io/lightning-talks/#/'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://li-kai.github.io/lightning-talks/#/'>Materials here.</a>"
   image: "/static/img/bot1001.png"
 
 - title: Web Development with Express
@@ -415,7 +418,7 @@ href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
     otherwise).
     <br />
     <a href='https://goo.gl/forms/zewZIo6oBCDvzVkH3'>Sign up here &rarr;</a>
-  materials: "</strong><a class='calltoaction' href='https://www.dropbox.com/s/rjsaht10nuvd11b/express-workshop.zip?dl=1'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://www.dropbox.com/s/rjsaht10nuvd11b/express-workshop.zip?dl=1'>Materials here.</a>"
   image: "/static/img/express.png"
 
 - title: Crash Course on Electronics
@@ -425,7 +428,7 @@ href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
   description: "If you ever wanted to find out what goes on behind the scenes in your smartphone, or how to automate simple tasks with electronics, this workshop will be perfect for you. You will acquire a high-level understanding of the basics of electronics, as well as get a hands-on experience with creating and programming an electronic toy.
   <br />
   <a href='https://goo.gl/forms/vrRZn1a7fMkAEBcB3'>Sign up here &rarr;</a>"
-  materials: "</strong><a class='calltoaction' href='http://nushackers.us15.list-manage2.com/track/click?u=b335cf9c8492faaf51a8be58a&id=61eb4e6c32&e=00aedf2084'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='http://nushackers.us15.list-manage2.com/track/click?u=b335cf9c8492faaf51a8be58a&id=61eb4e6c32&e=00aedf2084'>Materials here.</a>"
   image: "/static/img/electronics.png"
 
 - title: Javascript & Interactive Web Apps
@@ -436,13 +439,13 @@ href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
   <br />
   <a href='https://goo.gl/forms/6cLj0HcRr3oLjCnB2'>Sign up here &rarr;</a>"
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='https://drive.google.com/drive/folders/0B2ECug5uecmfUUdGMjFuQ1N2Rkk?usp=sharing'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://drive.google.com/drive/folders/0B2ECug5uecmfUUdGMjFuQ1N2Rkk?usp=sharing'>Materials here.</a>"
 
 - title: Introduction to HTML/CSS
   datetime: Saturday, 4 February 2017, 1:00pm - 4:00pm
   location: Seminar Room 3, School of Computing COM1, National University of Singapore
   audience: "Beginners from any faculty or the public, no prior knowledge assumed"
-  description: "The workshop covers the basics of HTML and CSS. No programming experience is required. <br /> 
+  description: "The workshop covers the basics of HTML and CSS. No programming experience is required. <br />
   At the end of the workshop everyone will have built their own profile page, and we will learn the necessary HTML and CSS needed along the way. <br />
   <a href='https://goo.gl/forms/7Ic5PuTqdN9D92ip1'>Sign up here &rarr;</a>"
   image: "/static/img/html5.png"
@@ -460,14 +463,14 @@ href='http://www.jethrokuan.com/braindump/docker.html'>Slides here.</a>"
   audience: "Beginners from any faculty or the public, no prior knowledge assumed"
   description: "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application. <br />"
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='https://goo.gl/1GGaOW'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://goo.gl/1GGaOW'>Materials here.</a>"
 
 - title: Introduction to HTML/CSS
   datetime: Saturday, 10 September 2016, 1:00pm - 4:00pm
   location: "i3 Auditorium, National University of Singapore"
   audience: "Beginners from any faculty or the public, no prior knowledge assumed"
   description: "Want to make a website, but found w3c's tutorials too boring? We'll teach you HTML and CSS from scratch. Come down to get hands-on experience in designing beautiful webpages, and walk away with a basic, personalized website. <br /><a href='https://goo.gl/forms/Q9oqPUzxUXHRxTxG3'>Sign up here &rarr;</a>"
-  materials: "</strong><a class='calltoaction' href='https://goo.gl/tU5Rj2'>Materials here.</a>"
+  materials: "<a class='calltoaction' href='https://goo.gl/tU5Rj2'>Materials here.</a>"
   image: "/static/img/html5.png"
 
 - title: Introduction to Swift & iOS
@@ -489,7 +492,7 @@ You are required to bring along a laptop running OS X 10.11 (El Capitan) so that
 this workshop interactively.
   <br />
     <a href='http://goo.gl/forms/eZNbJRbv1w'>Sign up here &rarr;</a>"
-  materials: "</strong><a class='calltoaction' href='/materials/swiftworkshop2016'>Materials
+  materials: "<a class='calltoaction' href='/materials/swiftworkshop2016'>Materials
     here.</a>"
   image: "/static/img/swift.png"
 - title: Introduction to React.js
@@ -501,7 +504,7 @@ this workshop interactively.
     changes the way front end engineering is done. We'll learn why it's special and
     how to get started with it.<br />
     <a href='http://goo.gl/forms/5ASZCqGFDB'>Sign up here &rarr;</a>"
-  materials: "</strong><a class='calltoaction' href='/materials/reactworkshop2016'>Materials
+  materials: "<a class='calltoaction' href='/materials/reactworkshop2016'>Materials
     here.</a>"
   image: "/static/img/react.png"
 - title: Introduction to JavaScript & Interactive Apps
@@ -510,7 +513,7 @@ this workshop interactively.
   audience: "Beginners from any faculty or the public, no prior knowledge assumed"
   description: "Web browsers are everywhere, and so is JavaScript, a dynamic programming language that browsers implement. We will be covering the basics of JavaScript and how to use it to control and add complex behaviour to web pages. In the process, we'll go through the development of an interactive web application. <br /><a href='http://goo.gl/forms/lGfsqN6nQQ'>Sign up here &rarr;</a>"
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='/materials/jsworkshop2016'>Materials
+  materials: "<a class='calltoaction' href='/materials/jsworkshop2016'>Materials
     here.</a>"
 - title: Introduction to HTML/CSS
   datetime: Saturday, 13 February 2016, 1:00pm - 4:00pm
@@ -520,7 +523,7 @@ this workshop interactively.
   We'll teach you HTML and CSS from scratch. Come down to get hands-on experience
   in designing beautiful webpages, and walk away with a basic, personalized website."
   image: "/static/img/html5.png"
-  materials: "</strong><a class='calltoaction' href='/materials/html5workshop2016'>Materials
+  materials: "<a class='calltoaction' href='/materials/html5workshop2016'>Materials
     here.</a>"
 - title: Web Development with Express
   datetime: Saturday, 24 October 2015, 1:00pm - 4:00pm
@@ -535,7 +538,7 @@ this workshop interactively.
     otherwise). <p><a href='http://goo.gl/forms/MnZhcrjlpL' target='_blank'>Sign up
     here</a></p>
   image: "/static/img/express.png"
-  materials: "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials
+  materials: "<a class='calltoaction' href='/materials/expressworkshop2014'>Materials
     here.</a>"
 - title: Introduction to React.js
   datetime: Saturday, 17 October 2015, 1:00pm - 4:00pm
@@ -547,7 +550,7 @@ this workshop interactively.
     how to get started with it in the first React.js hackerschool.<p><a href='http://goo.gl/forms/KZ0ioR1y6b'
     target='_blank'>Sign up here</a></p>
   image: "/static/img/react.png"
-  materials: "</strong><a class='calltoaction' href='/materials/reactworkshop2015'>Materials
+  materials: "<a class='calltoaction' href='/materials/reactworkshop2015'>Materials
     here.</a>"
 - title: JavaScript and Interactive Web Apps
   datetime: Saturday, 10 October 2015, 1:00pm - 4:00pm
@@ -559,7 +562,7 @@ this workshop interactively.
     we'll go through the development of an interactive web application.<p><a href='http://goo.gl/forms/TUhf0UYf5Q'
     target='_blank'>Sign up here</a></p>
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='/materials/jsworkshop2015'>Materials
+  materials: "<a class='calltoaction' href='/materials/jsworkshop2015'>Materials
     here.</a>"
 - title: Git for Beginners
   datetime: Saturday, 3 October 2015, 1:00pm - 4:00pm
@@ -571,7 +574,7 @@ this workshop interactively.
     the way you code for the better.<p><a href=''http://goo.gl/forms/Ezx7bJUrIr''
     target=''_blank''>Sign up here</a></p>'
   image: "/static/img/git.png"
-  materials: "</strong><a class='calltoaction' href='/materials/gitworkshop2015'>Materials
+  materials: "<a class='calltoaction' href='/materials/gitworkshop2015'>Materials
     here.</a>"
 - title: Introduction to HTML/CSS
   datetime: Saturday, 19 September 2015, 1:00pm - 4:00pm
@@ -582,7 +585,7 @@ this workshop interactively.
     beautiful webpages, and walk away with a basic, personalized website. <br /><a
     href='http://goo.gl/forms/hMZo03DZWH'>Sign up here &rarr;</a>
   image: "/static/img/html5.png"
-  materials: "</strong><a class='calltoaction' href='/materials/html5workshop2015'>Materials
+  materials: "<a class='calltoaction' href='/materials/html5workshop2015'>Materials
     here.</a>"
 - title: Web Development with Ruby on Rails
   datetime: Saturday 4th, April, 1:30pm - 5:30pm
@@ -597,7 +600,7 @@ this workshop interactively.
     MVC (model view controller) paradigm, with hands-on exercises to venture deeper
     into each layer of a web application.<br/><a href='https://docs.google.com/forms/d/1B9jrmRI0DrJvfz1HBIv1Q68Ee7Bq7nnwkQ9xxkIOWJ8/'>Sign
     up here &rarr;</a>
-  materials: "</strong><a class='calltoaction' href='/materials/railsworkshop2015'>Materials
+  materials: "<a class='calltoaction' href='/materials/railsworkshop2015'>Materials
     here.</a>"
 - title: Developing HTML5 Applications with AngularJS
   datetime: Saturday, 4 October 2014, 2:30pm - 5:30pm
@@ -625,7 +628,7 @@ this workshop interactively.
     otherwise). <br /><a href='https://docs.google.com/forms/d/1rmC6KogSVazTH2WxvmUPDe7vflmx7FXPLx9vyvKdeqI/'>Sign
     up here &rarr;</a>
   image: "/static/img/express.png"
-  materials: "</strong><a class='calltoaction' href='/materials/expressworkshop2014'>Materials
+  materials: "<a class='calltoaction' href='/materials/expressworkshop2014'>Materials
     here.</a>"
 - title: Git for Beginners
   datetime: Saturday, 13 September 2014, 2:30pm - 5:30pm
@@ -634,10 +637,10 @@ this workshop interactively.
   description: 'Ever used Dropbox to store your code because it makes backups? Made
     multiple copies of your assignment''s folder just to try different things? Worked
     on group projects by coding in Google Docs? Git is the tool for you: <strong>it''ll
-    change the way you code for the better.</strong> <br /><a href=''https://docs.google.com/forms/d/1cdHxarO1Cx4Rw9BWRThwPUzoa1okpwt2b2mWiZ3LToc/''>Sign
+    change the way you code for the better.</strong><br /><a href=''https://docs.google.com/forms/d/1cdHxarO1Cx4Rw9BWRThwPUzoa1okpwt2b2mWiZ3LToc/''>Sign
     up here &rarr;</a>'
   image: "/static/img/git.png"
-  materials: "</strong><a class='calltoaction' href='/materials/gitworkshop2014'>Materials
+  materials: "<a class='calltoaction' href='/materials/gitworkshop2014'>Materials
     here.</a>"
 - title: Introduction to JavaScript and Interactive Web Apps
   datetime: Saturday, 6 September 2014, 2:30pm - 5:30pm
@@ -650,7 +653,7 @@ this workshop interactively.
     href='https://docs.google.com/forms/d/1OlXxsRLLl677B4GccPZFEPAanimoIG0hidq9T5QzExI/'>Sign
     up here &rarr;</a>
   image: "/static/img/javascript.png"
-  materials: "</strong><a class='calltoaction' href='/materials/jsworkshop2014'>Materials
+  materials: "<a class='calltoaction' href='/materials/jsworkshop2014'>Materials
     here.</a>"
 - title: Introduction to HTML/CSS
   datetime: Saturday, 30 August 2014, 2:30pm - 5:30pm
@@ -663,7 +666,7 @@ this workshop interactively.
     href='https://docs.google.com/forms/d/1jM4HjcXShGPFG2l4RtoAzoCduGKwCAGVWr77BMnEVQA/'>Sign
     up here &rarr;</a>
   image: "/static/img/html5.png"
-  materials: "</strong><a class='calltoaction' href='/materials/html5workshop2014'>Materials
+  materials: "<a class='calltoaction' href='/materials/html5workshop2014'>Materials
     here.</a>"
 - title: Web Development with Express
   datetime: Saturday, 1 March 2014, 10:00am - 1:00pm
@@ -773,7 +776,7 @@ this workshop interactively.
     otherwise).<br/><a href='https://docs.google.com/a/linuxnus.org/spreadsheet/viewform?formkey=dDVvX0JKQVZBQnZob3ZRdW1pVERLNXc6MQ'>Sign
     up here &rarr;</a>
   image: "/static/img/sinatra.png"
-  materials: "</strong><a class='calltoaction' href='/materials/sinatra'>Materials
+  materials: "<a class='calltoaction' href='/materials/sinatra'>Materials
     here.</a>"
 - title: Git for Beginners
   datetime: Saturday, 2 February 2013, 10am - 1pm
@@ -793,7 +796,7 @@ this workshop interactively.
     on designing beautiful webpages, and <strong>walk away with a personalized website.</strong>
     Workshop complete; <a href='/materials/html5workshop2013'>materials here</a>.
   image: "/static/img/html5.png"
-  materials: "</strong><a class='calltoaction' href='/materials/html5workshop2013'>Materials
+  materials: "<a class='calltoaction' href='/materials/html5workshop2013'>Materials
     here.</a>"
 - title: Git & jQuery for beginners
   datetime: Monday, 24 September 2012, 10am - 1pm
@@ -801,10 +804,10 @@ this workshop interactively.
   audience: Beginner
   description: jQuery is a swiss army knife for frontend web development. Also, meet
     Git, a version control system. It'll change the way you code. Seriously. <strong>
-    You'll wonder what you were doing before Git. </strong><a class='calltoaction'
+    You'll wonder what you were doing before Git.</strong><a class='calltoaction'
     href='/materials/gitjquery'>materials here</a>
   image: "/static/img/gitjs.png"
-  materials: "</strong><a class='calltoaction' href='/materials/gitjquery'>Materials
+  materials: "<a class='calltoaction' href='/materials/gitjquery'>Materials
     here.</a>"
 - title: Introduction to HTML5/CSS3
   datetime: Saturday, 22 September 2012, 10am - 1pm
@@ -815,5 +818,5 @@ this workshop interactively.
     on designing beautiful webpages, and <strong>walk away with a personalized website.</strong>
     <a class='calltoaction' href='/materials/html5workshop2012'>materials here</a>
   image: "/static/img/html5.png"
-  materials: "</strong><a class='calltoaction' href='/materials/html5workshop2012'>Materials
+  materials: "<a class='calltoaction' href='/materials/html5workshop2012'>Materials
     here.</a>"

@@ -5,54 +5,37 @@
   <title>hackerschool by NUS Hackers</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <!-- facebook meta tags -->
   <meta property="og:title" content="hackerschool by NUS Hackers" />
   <meta property="og:type" content="school" />
-  <meta property="og:url" content="http://school.nushackers.org" />
-  <meta property="og:image" content="https://dl.dropbox.com/u/24733998/hackerschoollogo_fb.png" />
+  <meta property="og:url" content="https://school.nushackers.org" />
+  <meta property="og:image" content="https://school.nushackers.org/static/img/mainbanner.jpg" />
   <meta property="og:site_name" content="hackerschool by NUS Hackers" />
-  <meta property="fb:admins" content="1046605279" />
 
-
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="/static/css/main.css">
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-34839738-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141681743-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-141681743-3');
   </script>
 </head>
 <body>
   <div class='wrapper'>
     <header>
-      <a id='logo' href='/'>
-        <img src="/static/img/hackerschoollogo.png"/>
-      </a>
+      <a id='logo' href='/'><img src="/static/img/hackerschoollogo.png"/></a>
       <div class='headerlinks'>
-        {% for info in site.data.header_pages %}
-        
-          <a
-             {% if page.url contains info.endpoint %}
-             class=active
-             {% endif %}
-             href="/{{ info.endpoint }}"
-          >
-            {{ info.caption }}
-          </a>
-        {% endfor %}
+        {%- for info in site.data.header_pages -%}
+          <a {% if page.url contains info.endpoint -%}class=active {% endif %}href="/{{ info.endpoint }}">{{- info.caption -}}</a>
+        {%- endfor -%}
       </div>
     </header>
     {{ content }}
     <div class='push'></div>
   </div>
   <footer class='centered'>
-    © <a href='http://nushackers.org'>NUS Hackers</a> 2014 - {{ site.time | date: '%Y' }}
+    © <a href='https://nushackers.org'>NUS Hackers</a> 2014 - {{ site.time | date: '%Y' }}
   </footer>
 </body>
 </html>
