@@ -1,8 +1,17 @@
-- title: "Introduction to HTML & CSS"
-  datetime: Saturday, 19th September 2020, 1:00pm - 3:00pm
+- title: "Markov Chain Monte Carlo"
+  datetime: Saturday, 3rd October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
-  audience: Beginners from any faculty or the public are welcome!
+  audience:
+    Basic knowledge of Python and Jupyter is required. Some background in calculus
+    (derivatives and differential equations) and probability (densities, likelihoods, expectations) will be helpful.
   description:
-    Come learn HTML and CSS, to create and style simple web pages, and deploy them online!
-    <strong><a class='calltoaction' href='http://bit.ly/hs-htmlcss' target='_blank'>Sign up here</a></strong>
-  image: "/static/img/html_css.jpg"
+    In this workshop, we will learn about the keys ideas of MCMC, bits of mathematical theory, and its applications
+    and implementations, including variants such as Random Walk Metropolis and Hamiltonian Monte Carlo.
+
+    Markov chain Monte Carlo (MCMC) methods were invented around the time of World War II by several mathematicians and
+    physicists who worked on the Manhattan Project. What started out as a way to solve high-dimensional integrals from chemical
+    physics is now a general, powerful approach to generate samples from probability distributions. It is widely applied in statistics,
+    computations for the natural sciences, and more recently machine learning and data science. Regarded as one of the top 10 most
+    important algorithms in the 20th century, MCMC is undoubtedly an essential tool in any scientist’s technical repertoire.
+    <strong><a class='calltoaction' href='http://bit.ly/hs-mcmc' target='_blank'>Sign up here</a></strong>
+  image: "/static/img/mcmc.png"

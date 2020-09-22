@@ -1,3 +1,14 @@
+- title: "Introduction to HTML & CSS"
+  datetime: Saturday, 19th September 2020, 1:00pm - 3:00pm
+  location: Zoom link to be sent to participants via email
+  audience: Beginners from any faculty or the public are welcome!
+  description:
+    Come learn HTML and CSS, to create and style simple web pages, and deploy them online!
+    <strong><a class='calltoaction' href='http://bit.ly/hs-htmlcss' target='_blank'>Sign up here</a></strong>
+  image: "/static/img/html_css.jpg"
+  materials: >
+    <a class='calltoaction' href='https://hs2020-html.github.io/hs2020-html/#/' target='_blank'>Slides here</a><br>
+    <a class='calltoaction' href='https://youtu.be/OW0JCRYkON8' target='_blank'>Recording here</a>
 - title: "Introduction to Git"
   datetime: Saturday, 12th September 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
