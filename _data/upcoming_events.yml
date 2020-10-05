@@ -1,17 +1,14 @@
-- title: "Markov Chain Monte Carlo"
-  datetime: Saturday, 3rd October 2020, 1:00pm - 4:00pm
+- title: "Intro to React Workshop"
+  datetime: Saturday, 10th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
   audience:
-    Basic knowledge of Python and Jupyter is required. Some background in calculus
-    (derivatives and differential equations) and probability (densities, likelihoods, expectations) will be helpful.
+    Basic knowledge of HTML and CSS is required, and basic knowledge of JavaScript is a plus. If you have used other programming languages before,
+    you should be able to follow along.
   description:
-    In this workshop, we will learn about the keys ideas of MCMC, bits of mathematical theory, and its applications
-    and implementations, including variants such as Random Walk Metropolis and Hamiltonian Monte Carlo.
-
-    Markov chain Monte Carlo (MCMC) methods were invented around the time of World War II by several mathematicians and
-    physicists who worked on the Manhattan Project. What started out as a way to solve high-dimensional integrals from chemical
-    physics is now a general, powerful approach to generate samples from probability distributions. It is widely applied in statistics,
-    computations for the natural sciences, and more recently machine learning and data science. Regarded as one of the top 10 most
-    important algorithms in the 20th century, MCMC is undoubtedly an essential tool in any scientist’s technical repertoire.
-    <strong><a class='calltoaction' href='http://bit.ly/hs-mcmc' target='_blank'>Sign up here</a></strong>
-  image: "/static/img/mcmc.png"
+    React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications.
+    It’s used for handling the view layer for web and mobile applications. The main purpose of React is to be fast, scalable, and simple,
+    and is used by companies such as Facebook, Airbnb and Netflix to develop their applications. In this Hackerschool, we will learn the
+    fundamentals of React by building a simple React application.
+    <br>
+    <strong><a class='calltoaction' href='https://bit.ly/hackers-react' target='_blank'>Sign up here</a></strong>
+  image: "/static/img/react.png"
