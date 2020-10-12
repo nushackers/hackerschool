@@ -1,14 +1,11 @@
-- title: "Intro to React Workshop"
-  datetime: Saturday, 10th October 2020, 1:00pm - 4:00pm
+- title: "React Concurrent Mode Workshop"
+  datetime: Saturday, 17th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
   audience:
-    Basic knowledge of HTML and CSS is required, and basic knowledge of JavaScript is a plus. If you have used other programming languages before,
-    you should be able to follow along.
+    This workshop is targeted towards people with prior React experience.
   description:
-    React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications.
-    It’s used for handling the view layer for web and mobile applications. The main purpose of React is to be fast, scalable, and simple,
-    and is used by companies such as Facebook, Airbnb and Netflix to develop their applications. In this Hackerschool, we will learn the
-    fundamentals of React by building a simple React application.
+    Have you stumbled upon React's experimental concurrent mode and suspense stuff and wondered what those were all about? 
+    Learn how to use them plus experimental DevTools and take a peek into React's codebase in this Hackerschool!
     <br>
-    <strong><a class='calltoaction' href='https://bit.ly/hackers-react' target='_blank'>Sign up here</a></strong>
+    <strong><a class='calltoaction' href='http://bit.ly/hs-advanced-react' target='_blank'>Sign up here</a></strong>
   image: "/static/img/react.png"
