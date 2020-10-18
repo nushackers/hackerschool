@@ -1,11 +1,10 @@
-- title: "React Concurrent Mode Workshop"
-  datetime: Saturday, 17th October 2020, 1:00pm - 4:00pm
+- title: "Introduction to Docker Workshop"
+  datetime: Saturday, 24th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
   audience:
-    This workshop is targeted towards people with prior React experience.
+    Basic command-line knowledge (bash or PowerShell) required. Docker should be installed beforehand.
   description:
-    Have you stumbled upon React's experimental concurrent mode and suspense stuff and wondered what those were all about? 
-    Learn how to use them plus experimental DevTools and take a peek into React's codebase in this Hackerschool!
+    Learn how to use Docker to easily set up a development environment, and how to package and deploy their own applications with Docker!
     <br>
-    <strong><a class='calltoaction' href='http://bit.ly/hs-advanced-react' target='_blank'>Sign up here</a></strong>
-  image: "/static/img/react.png"
+    <strong><a class='calltoaction' href='http://bit.ly/hs-intro-docker' target='_blank'>Sign up here</a></strong>
+  image: "/static/img/docker.png"

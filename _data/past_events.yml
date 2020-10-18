@@ -1,3 +1,16 @@
+- title: "React Concurrent Mode Workshop"
+  datetime: Saturday, 17th October 2020, 1:00pm - 4:00pm
+  location: Zoom link to be sent to participants via email
+  audience:
+    This workshop is targeted towards people with prior React experience.
+  description:
+    Have you stumbled upon React's experimental concurrent mode and suspense stuff and wondered what those were all about? 
+    Learn how to use them plus experimental DevTools and take a peek into React's codebase in this Hackerschool!
+  image: "/static/img/react.png"
+  materials: >
+    <a class='calltoaction' href='https://docs.google.com/presentation/d/1dAjyIsBEv4M8KvutNVUCUcNcUxX3vUo4ZoUtUcLiDcE/edit?usp=sharing' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=BWpuCsnKZqo&t=501s' target='_blank'>Recording here</a>
+
 - title: "Intro to React Workshop"
   datetime: Saturday, 10th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
