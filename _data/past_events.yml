@@ -1,3 +1,11 @@
+- title: "Introduction to Docker Workshop"
+  datetime: Saturday, 24th October 2020, 1:00pm - 4:00pm
+  location: Zoom link to be sent to participants via email
+  audience:
+    Basic command-line knowledge (bash or PowerShell) required. Docker should be installed beforehand.
+  description:
+    Learn how to use Docker to easily set up a development environment, and how to package and deploy their own applications with Docker!
+  image: "/static/img/docker.png"
 - title: "React Concurrent Mode Workshop"
   datetime: Saturday, 17th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email

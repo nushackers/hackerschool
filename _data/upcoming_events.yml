@@ -1,10 +1,11 @@
-- title: "Introduction to Docker Workshop"
-  datetime: Saturday, 24th October 2020, 1:00pm - 4:00pm
+- title: "Introduction to Haskell Workshop"
+  datetime: Saturday, 31st October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
   audience:
-    Basic command-line knowledge (bash or PowerShell) required. Docker should be installed beforehand.
+    Basic knowledge in programming is required. Resources will be distributed for setting up the environment prior to the event.
   description:
-    Learn how to use Docker to easily set up a development environment, and how to package and deploy their own applications with Docker!
+    This session aims to expose participants to new tools and abstractions they can use to tame complexity and gain confidence in their programs, 
+    to offer a different perspective on why learning these can be useful.
     <br>
-    <strong><a class='calltoaction' href='http://bit.ly/hs-intro-docker' target='_blank'>Sign up here</a></strong>
-  image: "/static/img/docker.png"
+    <strong><a class='calltoaction' href='http://bit.ly/intro-to-haskell' target='_blank'>Sign up here</a></strong>
+  image: "/static/img/haskell.png"
