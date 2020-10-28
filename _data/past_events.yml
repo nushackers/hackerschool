@@ -6,6 +6,9 @@
   description:
     Learn how to use Docker to easily set up a development environment, and how to package and deploy their own applications with Docker!
   image: "/static/img/docker.png"
+  materials: >
+    <a class='calltoaction' href='https://slides.com/weiwengoh/docker-workshop' target='_blank'>Materials here</a><br>
+    
 - title: "React Concurrent Mode Workshop"
   datetime: Saturday, 17th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
