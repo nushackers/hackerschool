@@ -1,3 +1,25 @@
+- title: "Advanced Git"
+  datetime: Saturday, 7th November 2020, 1:00pm - 4:00pm
+  location: Zoom link to be sent to participants via email
+  audience:
+    Basic knowledge in Git is required. Resources will be distributed for setting up the environment prior to the event.
+  description:
+    This session aims to expose participants to new tools and abstractions they can use to tame complexity and gain confidence in their programs, to offer a different perspective on why learning these 
+  image: "/static/img/git.png"
+  materials: >
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=pGAorBdZ6Y8&list=PL9-vM_51OMbFe1CuZDrNGeLTjrwGt8BGq&index=9' target='_blank'>Recording here</a>
+
+- title: "Introduction to Haskell Workshop"
+  datetime: Saturday, 31st October 2020, 1:00pm - 4:00pm
+  location: Zoom link to be sent to participants via email
+  audience:
+    Basic knowledge in programming is required. Resources will be distributed for setting up the environment prior to the event.
+  description:
+    This session aims to expose participants to new tools and abstractions they can use to tame complexity and gain confidence in their programs, to offer a different perspective on why learning these can be useful.
+  image: "/static/img/haskell.png"
+  materials: >
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=zJs5vV5Ofo0&list=PL9-vM_51OMbFe1CuZDrNGeLTjrwGt8BGq&index=8' target='_blank'>Recording here</a>
+
 - title: "Introduction to Docker Workshop"
   datetime: Saturday, 24th October 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email

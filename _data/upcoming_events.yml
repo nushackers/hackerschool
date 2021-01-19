@@ -1,11 +1,1 @@
-- title: "Introduction to Haskell Workshop"
-  datetime: Saturday, 31st October 2020, 1:00pm - 4:00pm
-  location: Zoom link to be sent to participants via email
-  audience:
-    Basic knowledge in programming is required. Resources will be distributed for setting up the environment prior to the event.
-  description:
-    This session aims to expose participants to new tools and abstractions they can use to tame complexity and gain confidence in their programs, 
-    to offer a different perspective on why learning these can be useful.
-    <br>
-    <strong><a class='calltoaction' href='http://bit.ly/intro-to-haskell' target='_blank'>Sign up here</a></strong>
-  image: "/static/img/haskell.png"
+
