@@ -1,1 +1,8 @@
-
+- title: "Telegram Bots"
+  datetime: Saturday, 6th Feb 2020, 1:00pm - 3:00pm
+  location: Zoom link to be sent to participants via email
+  prereq: Basic knowledge of python programming preferred
+  description:
+    Want to start building chatbots but don’t really know where to start? Welcome to NUS Hackers first Hackerschool of Semester 2! Here you will learn to build a simple Telegram Bot in Python within a single workshop. 
+    <a href="bit.ly/hackerschool-telebots">Sign up here</a>
+  image: "/static/img/telegram.png"
