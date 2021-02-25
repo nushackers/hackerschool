@@ -1,8 +1,28 @@
-- title: "Telegram Bots"
-  datetime: Saturday, 6th Feb 2020, 1:00pm - 3:00pm
+- title: "LaTeX"
+  datetime: Saturday, 27th Feb 2020, 1:00pm - 3:00pm
   location: Zoom link to be sent to participants via email
   prereq: Basic knowledge of python programming preferred
   description:
-    Want to start building chatbots but don’t really know where to start? Welcome to NUS Hackers first Hackerschool of Semester 2! Here you will learn to build a simple Telegram Bot in Python within a single workshop. 
-    <a href="bit.ly/hackerschool-telebots">Sign up here</a>
-  image: "/static/img/telegram.png"
+     This week, we'll be introducing the well-known LaTeX document preparation system used widely across fields to prepare high-quality documents, papers, notes, journals, books, slides, cheatsheets, resumes, and so on.
+     Come learn this invaluable tool that will let you create beautiful documents and impress your readers.
+
+    Software requirements:
+
+    A TeX distribution:
+    You can install either MiKTeX or TeX Live, depending on your OS. If in doubt:
+    - On Windows, MiKTeX is easier to install: https://miktex.org/download#win
+    - On Linux, install TeX Live using your package manager.
+    - On macOS, install MacTeX, a version of TeX Live for macOS: http://tug.org/mactex/
+
+    TeXstudio:
+    - On Windows and macOS: https://www.texstudio.org/#download
+    - On Linux, install TeXstudio using your package manager.
+
+    If there are any issues, please email us at coreteam [at] nushackers [dot] org.
+
+    Speaker profile:
+    Julius is a recently graduated Computer Science undergrad and an NUS Hackers coreteam member for the past 3 years.
+    His interests include functional programming and distributed systems.
+    Outside of computer science, he also enjoys Space Exploration, History, and Music Theory (reflected in his favourite games: Kerbal Space Program and Europa Universalis IV)
+    <a href="bit.ly/hs2021-latex">Sign up here</a>
+  image: "/static/img/latex.png"
