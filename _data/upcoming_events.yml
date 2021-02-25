@@ -3,7 +3,7 @@
   location: Zoom link to be sent to participants via email
   description: |
     We will be teaching you LaTeX to create beautiful documents and impress your readers.
-    <a href="bit.ly/hs2021-latex">Sign up here</a>
+    <a href="https://bit.ly/hs2021-latex">Sign up here</a>
   image: "/static/img/latex.png"
   materials: >
     <a class='calltoaction' href='https://www.nushackers.org/2020/10/hacker-tools-latex/' target='_blank'>Materials here</a>
