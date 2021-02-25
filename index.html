@@ -24,10 +24,12 @@ layout: default
                   <span class='label'>Where:</span>
                   <span>{{ event.location }}</span>
                 </div>
+                {% if event.audience %}
                 <div class='row'>
                   <span class='label'>Who:</span>
                   <span>{{ event.audience }}</span>
                 </div>
+                {% endif %}
                 {% if event.prereq -%}
                   <div class='row'>
                     <span class='label'>Pre-requisites:</span>
