@@ -1,3 +1,13 @@
+- title: "LaTeX"
+  datetime: Saturday, 27th Feb 2020, 1:00pm - 3:00pm
+  location: Zoom link to be sent to participants via email
+  description: |
+    We will be teaching you LaTeX to create beautiful documents and impress your readers.
+    <a href="https://bit.ly/hs2021-latex">Sign up here</a>
+  image: "/static/img/latex.png"
+  materials: >
+    <a class='calltoaction' href='https://www.nushackers.org/2020/10/hacker-tools-latex/' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=NzkNoVDw-PA'>Recording here</a>
 - title: Telegram Bots
   datetime: Saturday, 6th Feb 2020, 1:00pm - 3:00pm
   location: Zoom link to be sent to participants via email
@@ -7,7 +17,8 @@
     <a href="bit.ly/hackerschool-telebots">Sign up here</a>
   image: "/static/img/telegram.png"
   materials: >
-    <a class='calltoaction' href='/materials/telegrambots2021' target='_blank'>Materials here</a>
+    <a class='calltoaction' href='/materials/telegrambots2021' target='_blank'>Materials here</a><br>
+    <a class='calltoaction' href='https://www.youtube.com/watch?v=toDFobudmP8'>Recording here</a>
 - title: "Advanced Git"
   datetime: Saturday, 7th November 2020, 1:00pm - 4:00pm
   location: Zoom link to be sent to participants via email
